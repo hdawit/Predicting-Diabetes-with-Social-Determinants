@@ -1,0 +1,3146 @@
+SVI Theme: Overall SVI; Overall SVI (Percentile); NaturalBreaks; Urban & Rural Counties,,,,,,
+Data downloaded on 14-May-2023,,,,,,
+Year,County_FIPS,Urban_Rural,County,State,Newly Diagnosed Diabetes Rate per 1000,Overall SVI
+2018,56039,Urban,Teton County,Wyoming,1.6,0.1127
+2018,53055,Rural,San Juan County,Washington,2.1,0.0863
+2018,38043,Rural,Kidder County,North Dakota,2.5,0.029
+2018,39075,Rural,Holmes County,Ohio,3,0.436
+2018,6057,Urban,Nevada County,California,3.1,0.2045
+2018,47091,Rural,Johnson County,Tennessee,3.1,0.5653
+2018,46021,Rural,Campbell County,South Dakota,3.2,0.0064
+2018,8027,Rural,Custer County,Colorado,3.5,0.2433
+2018,19191,Rural,Winneshiek County,Iowa,3.5,0.0115
+2018,5015,Rural,Carroll County,Arkansas,3.6,0.5952
+2018,8091,Rural,Ouray County,Colorado,3.6,0.0239
+2018,8093,Urban,Park County,Colorado,3.6,0.0006
+2018,8107,Urban,Routt County,Colorado,3.6,0.0634
+2018,30031,Urban,Gallatin County,Montana,3.6,0.0427
+2018,49043,Urban,Summit County,Utah,3.6,0.05
+2018,12087,Urban,Monroe County,Florida,3.7,0.4557
+2018,8037,Urban,Eagle County,Colorado,3.8,0.1369
+2018,16081,Urban,Teton County,Idaho,3.8,0.1344
+2018,16085,Rural,Valley County,Idaho,3.8,0.0882
+2018,20131,Rural,Nemaha County,Kansas,3.8,0.0962
+2018,26047,Rural,Emmet County,Michigan,3.9,0.1357
+2018,30067,Rural,Park County,Montana,3.9,0.0688
+2018,35049,Urban,Santa Fe County,New Mexico,3.9,0.5255
+2018,8069,Urban,Larimer County,Colorado,4,0.1194
+2018,8087,Urban,Morgan County,Colorado,4,0.7414
+2018,8097,Urban,Pitkin County,Colorado,4,0.0656
+2018,8117,Urban,Summit County,Colorado,4,0.0707
+2018,19041,Urban,Clay County,Iowa,4,0.3439
+2018,53031,Rural,Jefferson County,Washington,4,0.2414
+2018,55063,Urban,La Crosse County,Wisconsin,4,0.2089
+2018,8007,Rural,Archuleta County,Colorado,4.1,0.257
+2018,8035,Urban,Douglas County,Colorado,4.1,0.015
+2018,27101,Rural,Murray County,Minnesota,4.1,0.1064
+2018,31091,Rural,Hooker County,Nebraska,4.1,0.1468
+2018,34019,Urban,Hunterdon County,New Jersey,4.2,0.0264
+2018,49055,Rural,Wayne County,Utah,4.2,0.2908
+2018,55089,Urban,Ozaukee County,Wisconsin,4.2,0.0134
+2018,8013,Urban,Boulder County,Colorado,4.3,0.1704
+2018,8059,Urban,Jefferson County,Colorado,4.3,0.0627
+2018,8067,Urban,La Plata County,Colorado,4.3,0.1086
+2018,19093,Rural,Ida County,Iowa,4.3,0.0866
+2018,19151,Rural,Pocahontas County,Iowa,4.3,0.1462
+2018,27075,Rural,Lake County,Minnesota,4.3,0.1102
+2018,29173,Urban,Ralls County,Missouri,4.3,0.1045
+2018,35055,Urban,Taos County,New Mexico,4.3,0.8586
+2018,37005,Rural,Alleghany County,North Carolina,4.3,0.6268
+2018,51013,Urban,Arlington County,Virginia,4.3,0.1401
+2018,56019,Rural,Johnson County,Wyoming,4.3,0.1774
+2018,6041,Urban,Marin County,California,4.4,0.2701
+2018,19089,Rural,Howard County,Iowa,4.4,0.1567
+2018,19143,Rural,Osceola County,Iowa,4.4,0.2634
+2018,21167,Rural,Mercer County,Kentucky,4.4,0.4134
+2018,29003,Urban,Andrew County,Missouri,4.4,0.0325
+2018,27067,Urban,Kandiyohi County,Minnesota,4.5,0.4064
+2018,27131,Urban,Rice County,Minnesota,4.5,0.393
+2018,29141,Rural,Morgan County,Missouri,4.5,0.629
+2018,30011,Rural,Carter County,Montana,4.5,0.0487
+2018,34027,Urban,Morris County,New Jersey,4.5,0.1201
+2018,34035,Urban,Somerset County,New Jersey,4.5,0.1
+2018,51063,Urban,Floyd County,Virginia,4.5,0.1115
+2018,55075,Urban,Marinette County,Wisconsin,4.5,0.2971
+2018,8103,Rural,Rio Blanco County,Colorado,4.6,0.3401
+2018,12115,Urban,Sarasota County,Florida,4.6,0.2538
+2018,30063,Urban,Missoula County,Montana,4.6,0.178
+2018,41003,Urban,Benton County,Oregon,4.6,0.349
+2018,41057,Rural,Tillamook County,Oregon,4.6,0.6586
+2018,46063,Rural,Harding County,South Dakota,4.6,0.0828
+2018,51079,Urban,Greene County,Virginia,4.6,0.1631
+2018,55109,Urban,St. Croix County,Wisconsin,4.6,0.0146
+2018,8063,Rural,Kit Carson County,Colorado,4.7,0.5153
+2018,13291,Rural,Union County,Georgia,4.7,0.3115
+2018,16041,Urban,Franklin County,Idaho,4.7,0.1414
+2018,20165,Rural,Rush County,Kansas,4.7,0.0783
+2018,27045,Urban,Fillmore County,Minnesota,4.7,0.2169
+2018,49051,Urban,Wasatch County,Utah,4.7,0.0643
+2018,50001,Rural,Addison County,Vermont,4.7,0.0965
+2018,51059,Urban,Fairfax County,Virginia,4.7,0.1876
+2018,55007,Rural,Bayfield County,Wisconsin,4.7,0.099
+2018,55025,Urban,Dane County,Wisconsin,4.7,0.1688
+2018,55069,Urban,Lincoln County,Wisconsin,4.7,0.1013
+2018,6061,Urban,Placer County,California,4.8,0.1519
+2018,19071,Rural,Fremont County,Iowa,4.8,0.0554
+2018,25017,Urban,Middlesex County,Massachusetts,4.8,0.2264
+2018,25019,Rural,Nantucket County,Massachusetts,4.8,0.0268
+2018,27043,Rural,Faribault County,Minnesota,4.8,0.157
+2018,30009,Urban,Carbon County,Montana,4.8,0.0433
+2018,30057,Rural,Madison County,Montana,4.8,0.1726
+2018,31027,Rural,Cedar County,Nebraska,4.8,0.0121
+2018,46097,Rural,Miner County,South Dakota,4.8,0.1057
+2018,55043,Urban,Grant County,Wisconsin,4.8,0.1939
+2018,55127,Urban,Walworth County,Wisconsin,4.8,0.2688
+2018,6087,Urban,Santa Cruz County,California,4.9,0.543
+2018,12085,Urban,Martin County,Florida,4.9,0.399
+2018,18101,Rural,Martin County,Indiana,4.9,0.2398
+2018,25015,Urban,Hampshire County,Massachusetts,4.9,0.2325
+2018,27005,Rural,Becker County,Minnesota,4.9,0.299
+2018,31039,Rural,Cuming County,Nebraska,4.9,0.1936
+2018,35007,Rural,Colfax County,New Mexico,4.9,0.9627
+2018,35027,Rural,Lincoln County,New Mexico,4.9,0.4796
+2018,37129,Urban,New Hanover County,North Carolina,4.9,0.3771
+2018,41027,Urban,Hood River County,Oregon,4.9,0.5455
+2018,50025,Rural,Windham County,Vermont,4.9,0.3054
+2018,55019,Rural,Clark County,Wisconsin,4.9,0.535
+2018,55055,Urban,Jefferson County,Wisconsin,4.9,0.1854
+2018,55073,Urban,Marathon County,Wisconsin,4.9,0.1443
+2018,2068,Rural,Denali Borough,Alaska,5,0.101
+2018,12021,Urban,Collier County,Florida,5,0.4618
+2018,18147,Rural,Spencer County,Indiana,5,0.0879
+2018,19081,Rural,Hancock County,Iowa,5,0.0713
+2018,19161,Rural,Sac County,Iowa,5,0.0748
+2018,20183,Rural,Smith County,Kansas,5,0.0503
+2018,26055,Urban,Grand Traverse County,Michigan,5,0.1803
+2018,27055,Urban,Houston County,Minnesota,5,0.0185
+2018,27117,Rural,Pipestone County,Minnesota,5,0.4646
+2018,34025,Urban,Monmouth County,New Jersey,5,0.1605
+2018,36061,Urban,New York County,New York,5,0.551
+2018,36079,Urban,Putnam County,New York,5,0.0812
+2018,41065,Urban,Wasco County,Oregon,5,0.8389
+2018,44009,Urban,Washington County,Rhode Island,5,0.0889
+2018,49019,Rural,Grand County,Utah,5,0.5213
+2018,51075,Urban,Goochland County,Virginia,5,0.0459
+2018,51510,Urban,Alexandria City,Virginia,5,0.2003
+2018,55045,Urban,Green County,Wisconsin,5,0.0529
+2018,55085,Rural,Oneida County,Wisconsin,5,0.014
+2018,56001,Urban,Albany County,Wyoming,5,0.2494
+2018,6021,Rural,Glenn County,California,5.1,0.8895
+2018,6083,Urban,Santa Barbara County,California,5.1,0.7111
+2018,8049,Rural,Grand County,Colorado,5.1,0.0987
+2018,12086,Urban,Miami-Dade County,Florida,5.1,0.8175
+2018,17103,Urban,Lee County,Illinois,5.1,0.301
+2018,18049,Rural,Fulton County,Indiana,5.1,0.3459
+2018,19049,Urban,Dallas County,Iowa,5.1,0.0596
+2018,19157,Rural,Poweshiek County,Iowa,5.1,0.1548
+2018,19189,Rural,Winnebago County,Iowa,5.1,0.2061
+2018,27035,Urban,Crow Wing County,Minnesota,5.1,0.1223
+2018,27051,Rural,Grant County,Minnesota,5.1,0.0946
+2018,27145,Urban,Stearns County,Minnesota,5.1,0.3885
+2018,30007,Rural,Broadwater County,Montana,5.1,0.042
+2018,31009,Rural,Blaine County,Nebraska,5.1,0.0908
+2018,31069,Rural,Garden County,Nebraska,5.1,0.0143
+2018,38045,Rural,Lamoure County,North Dakota,5.1,0.0443
+2018,38069,Rural,Pierce County,North Dakota,5.1,0.1914
+2018,46051,Rural,Grant County,South Dakota,5.1,0.0551
+2018,50007,Urban,Chittenden County,Vermont,5.1,0.1831
+2018,56035,Rural,Sublette County,Wyoming,5.1,0.0293
+2018,8015,Rural,Chaffee County,Colorado,5.2,0.2389
+2018,8041,Urban,El Paso County,Colorado,5.2,0.3927
+2018,12071,Urban,Lee County,Florida,5.2,0.5525
+2018,24035,Urban,Queen Anne&#39;s County,Maryland,5.2,0.022
+2018,25001,Urban,Barnstable County,Massachusetts,5.2,0.0564
+2018,27047,Urban,Freeborn County,Minnesota,5.2,0.4328
+2018,27053,Urban,Hennepin County,Minnesota,5.2,0.3092
+2018,29186,Rural,Ste. Genevieve County,Missouri,5.2,0.1885
+2018,30043,Urban,Jefferson County,Montana,5.2,0.0481
+2018,30099,Rural,Teton County,Montana,5.2,0.2981
+2018,35023,Rural,Hidalgo County,New Mexico,5.2,0.9631
+2018,37115,Urban,Madison County,North Carolina,5.2,0.4586
+2018,37125,Urban,Moore County,North Carolina,5.2,0.3621
+2018,42011,Urban,Berks County,Pennsylvania,5.2,0.6162
+2018,42019,Urban,Butler County,Pennsylvania,5.2,0.079
+2018,42025,Urban,Carbon County,Pennsylvania,5.2,0.3048
+2018,44001,Urban,Bristol County,Rhode Island,5.2,0.1236
+2018,44005,Urban,Newport County,Rhode Island,5.2,0.179
+2018,49001,Rural,Beaver County,Utah,5.2,0.2522
+2018,51107,Urban,Loudoun County,Virginia,5.2,0.0904
+2018,55017,Urban,Chippewa County,Wisconsin,5.2,0.2105
+2018,4005,Urban,Coconino County,Arizona,5.3,0.7131
+2018,6001,Urban,Alameda County,California,5.3,0.4701
+2018,8051,Rural,Gunnison County,Colorado,5.3,0.1392
+2018,26089,Urban,Leelanau County,Michigan,5.3,0.0245
+2018,27139,Urban,Scott County,Minnesota,5.3,0.1108
+2018,27171,Urban,Wright County,Minnesota,5.3,0.0462
+2018,31071,Rural,Garfield County,Nebraska,5.3,0.043
+2018,31085,Rural,Hayes County,Nebraska,5.3,0.0436
+2018,31095,Rural,Jefferson County,Nebraska,5.3,0.2185
+2018,32005,Urban,Douglas County,Nevada,5.3,0.1793
+2018,33003,Rural,Carroll County,New Hampshire,5.3,0.0583
+2018,35028,Urban,Los Alamos County,New Mexico,5.3,0.0248
+2018,39137,Rural,Putnam County,Ohio,5.3,0.0153
+2018,45013,Urban,Beaufort County,South Carolina,5.3,0.4006
+2018,55051,Rural,Iron County,Wisconsin,5.3,0.3602
+2018,55131,Urban,Washington County,Wisconsin,5.3,0.0099
+2018,55135,Rural,Waupaca County,Wisconsin,5.3,0.1815
+2018,4019,Urban,Pima County,Arizona,5.4,0.8828
+2018,4025,Urban,Yavapai County,Arizona,5.4,0.521
+2018,9001,Urban,Fairfield County,Connecticut,5.4,0.4497
+2018,16057,Urban,Latah County,Idaho,5.4,0.2484
+2018,19079,Rural,Hamilton County,Iowa,5.4,0.1153
+2018,19123,Urban,Mahaska County,Iowa,5.4,0.4637
+2018,27049,Urban,Goodhue County,Minnesota,5.4,0.1707
+2018,29107,Urban,Lafayette County,Missouri,5.4,0.3882
+2018,29121,Rural,Macon County,Missouri,5.4,0.586
+2018,29131,Rural,Miller County,Missouri,5.4,0.501
+2018,29153,Rural,Ozark County,Missouri,5.4,0.5825
+2018,46055,Rural,Haakon County,South Dakota,5.4,0.3624
+2018,51115,Urban,Mathews County,Virginia,5.4,0.0207
+2018,51610,Urban,Falls Church City,Virginia,5.4,0.1389
+2018,6023,Urban,Humboldt County,California,5.5,0.7605
+2018,8029,Rural,Delta County,Colorado,5.5,0.6866
+2018,16013,Urban,Blaine County,Idaho,5.5,0.3239
+2018,19039,Rural,Clarke County,Iowa,5.5,0.4847
+2018,23023,Urban,Sagadahoc County,Maine,5.5,0.0522
+2018,26155,Urban,Shiawassee County,Michigan,5.5,0.1325
+2018,27027,Urban,Clay County,Minnesota,5.5,0.2217
+2018,27037,Urban,Dakota County,Minnesota,5.5,0.1207
+2018,27107,Rural,Norman County,Minnesota,5.5,0.3248
+2018,29035,Rural,Carter County,Missouri,5.5,0.7455
+2018,33009,Urban,Grafton County,New Hampshire,5.5,0.1882
+2018,33015,Urban,Rockingham County,New Hampshire,5.5,0.0111
+2018,34039,Urban,Union County,New Jersey,5.5,0.6232
+2018,35001,Urban,Bernalillo County,New Mexico,5.5,0.6828
+2018,6011,Rural,Colusa County,California,5.6,0.7436
+2018,6097,Urban,Sonoma County,California,5.6,0.4035
+2018,8014,Urban,Broomfield County,Colorado,5.6,0.049
+2018,8045,Urban,Garfield County,Colorado,5.6,0.351
+2018,12103,Urban,Pinellas County,Florida,5.6,0.5169
+2018,17165,Rural,Saline County,Illinois,5.6,0.8637
+2018,19031,Rural,Cedar County,Iowa,5.6,0.008
+2018,19129,Urban,Mills County,Iowa,5.6,0.1076
+2018,23005,Urban,Cumberland County,Maine,5.6,0.1363
+2018,24041,Urban,Talbot County,Maryland,5.6,0.1331
+2018,29029,Rural,Camden County,Missouri,5.6,0.3363
+2018,29161,Urban,Phelps County,Missouri,5.6,0.6596
+2018,30001,Rural,Beaverhead County,Montana,5.6,0.2516
+2018,31113,Urban,Logan County,Nebraska,5.6,0.1073
+2018,35057,Urban,Torrance County,New Mexico,5.6,0.749
+2018,37021,Urban,Buncombe County,North Carolina,5.6,0.3799
+2018,37109,Urban,Lincoln County,North Carolina,5.6,0.3564
+2018,46105,Rural,Perkins County,South Dakota,5.6,0.1096
+2018,55081,Rural,Monroe County,Wisconsin,5.6,0.4621
+2018,55123,Rural,Vernon County,Wisconsin,5.6,0.3834
+2018,6073,Urban,San Diego County,California,5.7,0.5596
+2018,8031,Urban,Denver County,Colorado,5.7,0.4197
+2018,8115,Rural,Sedgwick County,Colorado,5.7,0.6936
+2018,9005,Urban,Litchfield County,Connecticut,5.7,0.0818
+2018,11001,Urban,District Of Columbia,District of Columbia,5.7,0.5965
+2018,18151,Urban,Steuben County,Indiana,5.7,0.271
+2018,21063,Rural,Elliott County,Kentucky,5.7,0.7239
+2018,21209,Urban,Scott County,Kentucky,5.7,0.3331
+2018,21233,Rural,Webster County,Kentucky,5.7,0.7854
+2018,23013,Rural,Knox County,Maine,5.7,0.1475
+2018,27057,Rural,Hubbard County,Minnesota,5.7,0.2051
+2018,27113,Rural,Pennington County,Minnesota,5.7,0.3016
+2018,30055,Rural,Mccone County,Montana,5.7,0.0774
+2018,31031,Rural,Cherry County,Nebraska,5.7,0.2261
+2018,33013,Urban,Merrimack County,New Hampshire,5.7,0.1455
+2018,36071,Urban,Orange County,New York,5.7,0.5538
+2018,36119,Urban,Westchester County,New York,5.7,0.5516
+2018,42029,Urban,Chester County,Pennsylvania,5.7,0.1436
+2018,42119,Urban,Union County,Pennsylvania,5.7,0.3605
+2018,46081,Urban,Lawrence County,South Dakota,5.7,0.2618
+2018,47187,Urban,Williamson County,Tennessee,5.7,0.021
+2018,49005,Urban,Cache County,Utah,5.7,0.3201
+2018,49053,Urban,Washington County,Utah,5.7,0.4143
+2018,55121,Rural,Trempealeau County,Wisconsin,5.7,0.2812
+2018,12035,Urban,Flagler County,Florida,5.8,0.2799
+2018,19077,Urban,Guthrie County,Iowa,5.8,0.122
+2018,24027,Urban,Howard County,Maryland,5.8,0.1306
+2018,27001,Rural,Aitkin County,Minnesota,5.8,0.3083
+2018,27021,Urban,Cass County,Minnesota,5.8,0.35
+2018,27103,Urban,Nicollet County,Minnesota,5.8,0.2513
+2018,27111,Urban,Otter Tail County,Minnesota,5.8,0.2099
+2018,27133,Rural,Rock County,Minnesota,5.8,0.1532
+2018,27163,Urban,Washington County,Minnesota,5.8,0.0682
+2018,30029,Urban,Flathead County,Montana,5.8,0.0924
+2018,31143,Rural,Polk County,Nebraska,5.8,0.1908
+2018,35003,Rural,Catron County,New Mexico,5.8,0.3357
+2018,35041,Urban,Roosevelt County,New Mexico,5.8,0.943
+2018,37039,Rural,Cherokee County,North Carolina,5.8,0.4869
+2018,38009,Rural,Bottineau County,North Dakota,5.8,0.0691
+2018,40045,Rural,Ellis County,Oklahoma,5.8,0.3019
+2018,46045,Urban,Edmunds County,South Dakota,5.8,0.0341
+2018,49049,Urban,Utah County,Utah,5.8,0.278
+2018,50013,Urban,Grand Isle County,Vermont,5.8,0.0025
+2018,55041,Rural,Forest County,Wisconsin,5.8,0.5774
+2018,56007,Rural,Carbon County,Wyoming,5.8,0.5029
+2018,56011,Rural,Crook County,Wyoming,5.8,0.0328
+2018,4013,Urban,Maricopa County,Arizona,5.9,0.6354
+2018,5137,Rural,Stone County,Arkansas,5.9,0.5102
+2018,8039,Urban,Elbert County,Colorado,5.9,0
+2018,8043,Urban,Fremont County,Colorado,5.9,0.6525
+2018,8047,Urban,Gilpin County,Colorado,5.9,0.0022
+2018,9013,Urban,Tolland County,Connecticut,5.9,0.0694
+2018,12073,Urban,Leon County,Florida,5.9,0.4943
+2018,12109,Urban,St. Johns County,Florida,5.9,0.0761
+2018,19017,Urban,Bremer County,Iowa,5.9,0.0322
+2018,19149,Urban,Plymouth County,Iowa,5.9,0.1271
+2018,20199,Rural,Wallace County,Kansas,5.9,0.143
+2018,24031,Urban,Montgomery County,Maryland,5.9,0.3255
+2018,25011,Urban,Franklin County,Massachusetts,5.9,0.2096
+2018,27109,Urban,Olmsted County,Minnesota,5.9,0.2599
+2018,30049,Urban,Lewis And Clark County,Montana,5.9,0.1258
+2018,30079,Rural,Prairie County,Montana,5.9,0.0758
+2018,30081,Rural,Ravalli County,Montana,5.9,0.186
+2018,31165,Urban,Sioux County,Nebraska,5.9,0.0178
+2018,32031,Urban,Washoe County,Nevada,5.9,0.5271
+2018,36077,Urban,Otsego County,New York,5.9,0.4236
+2018,37135,Urban,Orange County,North Carolina,5.9,0.2959
+2018,46067,Rural,Hutchinson County,South Dakota,5.9,0.2487
+2018,48033,Rural,Borden County,Texas,5.9,0.0621
+2018,48107,Urban,Crosby County,Texas,5.9,0.9395
+2018,48371,Rural,Pecos County,Texas,5.9,0.8213
+2018,56033,Urban,Sheridan County,Wyoming,5.9,0.0895
+2018,5009,Urban,Boone County,Arkansas,6,0.4379
+2018,12089,Urban,Nassau County,Florida,6,0.2459
+2018,17067,Urban,Hancock County,Illinois,6,0.1232
+2018,19053,Rural,Decatur County,Iowa,6,0.6822
+2018,20071,Rural,Greeley County,Kansas,6,0.5752
+2018,20081,Rural,Haskell County,Kansas,6,0.4115
+2018,20179,Rural,Sheridan County,Kansas,6,0.0685
+2018,20187,Rural,Stanton County,Kansas,6,0.4965
+2018,26093,Urban,Livingston County,Michigan,6,0.0067
+2018,27073,Rural,Lac Qui Parle County,Minnesota,6,0.1006
+2018,27097,Rural,Morrison County,Minnesota,6,0.2682
+2018,27137,Urban,St. Louis County,Minnesota,6,0.3118
+2018,29105,Urban,Laclede County,Missouri,6,0.6178
+2018,29147,Urban,Nodaway County,Missouri,6,0.222
+2018,31177,Urban,Washington County,Nebraska,6,0.0379
+2018,33001,Urban,Belknap County,New Hampshire,6,0.0841
+2018,39149,Urban,Shelby County,Ohio,6,0.1892
+2018,41017,Urban,Deschutes County,Oregon,6,0.1637
+2018,46015,Rural,Brule County,South Dakota,6,0.5713
+2018,46101,Rural,Moody County,South Dakota,6,0.3908
+2018,53043,Rural,Lincoln County,Washington,6,0.1984
+2018,55047,Rural,Green Lake County,Wisconsin,6,0.2869
+2018,55071,Urban,Manitowoc County,Wisconsin,6,0.1621
+2018,55117,Urban,Sheboygan County,Wisconsin,6,0.2245
+2018,2110,Urban,Juneau City and Borough,Alaska,6.1,0.2987
+2018,6045,Urban,Mendocino County,California,6.1,0.8818
+2018,6115,Urban,Yuba County,California,6.1,0.942
+2018,8119,Urban,Teller County,Colorado,6.1,0.0729
+2018,8123,Urban,Weld County,Colorado,6.1,0.3994
+2018,12011,Urban,Broward County,Florida,6.1,0.5844
+2018,19137,Rural,Montgomery County,Iowa,6.1,0.528
+2018,20091,Urban,Johnson County,Kansas,6.1,0.0615
+2018,20115,Rural,Marion County,Kansas,6.1,0.1771
+2018,26087,Urban,Lapeer County,Michigan,6.1,0.2382
+2018,26161,Urban,Washtenaw County,Michigan,6.1,0.2236
+2018,27041,Urban,Douglas County,Minnesota,6.1,0.0446
+2018,29019,Urban,Boone County,Missouri,6.1,0.2927
+2018,30025,Rural,Fallon County,Montana,6.1,0.0217
+2018,30065,Rural,Musselshell County,Montana,6.1,0.3551
+2018,31005,Rural,Arthur County,Nebraska,6.1,0.0083
+2018,31097,Rural,Johnson County,Nebraska,6.1,0.5777
+2018,31135,Rural,Perkins County,Nebraska,6.1,0.0538
+2018,36059,Urban,Nassau County,New York,6.1,0.243
+2018,36069,Urban,Ontario County,New York,6.1,0.2315
+2018,36103,Urban,Suffolk County,New York,6.1,0.2146
+2018,37167,Urban,Stanly County,North Carolina,6.1,0.6325
+2018,38065,Urban,Oliver County,North Dakota,6.1,0.2108
+2018,38089,Urban,Stark County,North Dakota,6.1,0.214
+2018,47161,Rural,Stewart County,Tennessee,6.1,0.4086
+2018,48093,Rural,Comanche County,Texas,6.1,0.7264
+2018,49033,Rural,Rich County,Utah,6.1,0.1971
+2018,50023,Urban,Washington County,Vermont,6.1,0.1752
+2018,51045,Urban,Craig County,Virginia,6.1,0.0745
+2018,51133,Rural,Northumberland County,Virginia,6.1,0.1213
+2018,51145,Urban,Powhatan County,Virginia,6.1,0.0057
+2018,51179,Urban,Stafford County,Virginia,6.1,0.1541
+2018,55003,Rural,Ashland County,Wisconsin,6.1,0.55
+2018,55027,Urban,Dodge County,Wisconsin,6.1,0.2019
+2018,55107,Rural,Rusk County,Wisconsin,6.1,0.3465
+2018,5087,Urban,Madison County,Arkansas,6.2,0.6535
+2018,6111,Urban,Ventura County,California,6.2,0.4828
+2018,16001,Urban,Ada County,Idaho,6.2,0.1373
+2018,16051,Urban,Jefferson County,Idaho,6.2,0.2525
+2018,18027,Urban,Daviess County,Indiana,6.2,0.6882
+2018,18057,Urban,Hamilton County,Indiana,6.2,0.0255
+2018,19061,Urban,Dubuque County,Iowa,6.2,0.2347
+2018,19127,Urban,Marshall County,Iowa,6.2,0.6863
+2018,19171,Rural,Tama County,Iowa,6.2,0.3274
+2018,21151,Urban,Madison County,Kentucky,6.2,0.4968
+2018,26085,Rural,Lake County,Michigan,6.2,0.7818
+2018,26101,Rural,Manistee County,Michigan,6.2,0.3997
+2018,27121,Rural,Pope County,Minnesota,6.2,0.0315
+2018,29179,Rural,Reynolds County,Missouri,6.2,0.5573
+2018,31011,Rural,Boone County,Nebraska,6.2,0.0283
+2018,32027,Rural,Pershing County,Nevada,6.2,0.9038
+2018,36027,Urban,Dutchess County,New York,6.2,0.4207
+2018,42117,Rural,Tioga County,Pennsylvania,6.2,0.3153
+2018,46039,Rural,Deuel County,South Dakota,6.2,0.0822
+2018,48453,Urban,Travis County,Texas,6.2,0.3812
+2018,50015,Rural,Lamoille County,Vermont,6.2,0.1309
+2018,53037,Urban,Kittitas County,Washington,6.2,0.2831
+2018,53065,Urban,Stevens County,Washington,6.2,0.4615
+2018,55133,Urban,Waukesha County,Wisconsin,6.2,0.0194
+2018,56029,Rural,Park County,Wyoming,6.2,0.0659
+2018,6007,Urban,Butte County,California,6.3,0.8064
+2018,6013,Urban,Contra Costa County,California,6.3,0.4057
+2018,6043,Rural,Mariposa County,California,6.3,0.5293
+2018,6079,Urban,San Luis Obispo County,California,6.3,0.3739
+2018,8125,Rural,Yuma County,Colorado,6.3,0.5637
+2018,12099,Urban,Palm Beach County,Florida,6.3,0.5592
+2018,16009,Rural,Benewah County,Idaho,6.3,0.7334
+2018,17007,Urban,Boone County,Illinois,6.3,0.4697
+2018,19021,Urban,Buena Vista County,Iowa,6.3,0.7408
+2018,20151,Rural,Pratt County,Kansas,6.3,0.3873
+2018,21039,Rural,Carlisle County,Kentucky,6.3,0.3395
+2018,25009,Urban,Essex County,Massachusetts,6.3,0.508
+2018,26011,Rural,Arenac County,Michigan,6.3,0.5054
+2018,26021,Urban,Berrien County,Michigan,6.3,0.6475
+2018,27011,Rural,Big Stone County,Minnesota,6.3,0.2006
+2018,27079,Urban,Le Sueur County,Minnesota,6.3,0.1146
+2018,27141,Urban,Sherburne County,Minnesota,6.3,0.0885
+2018,31045,Rural,Dawes County,Nebraska,6.3,0.1717
+2018,31075,Rural,Grant County,Nebraska,6.3,0.1328
+2018,31129,Rural,Nuckolls County,Nebraska,6.3,0.1736
+2018,35035,Urban,Otero County,New Mexico,6.3,0.914
+2018,36113,Urban,Warren County,New York,6.3,0.1742
+2018,38093,Urban,Stutsman County,North Dakota,6.3,0.2424
+2018,46075,Rural,Jones County,South Dakota,6.3,0.0051
+2018,46103,Urban,Pennington County,South Dakota,6.3,0.4162
+2018,48069,Rural,Castro County,Texas,6.3,0.7774
+2018,48205,Rural,Hartley County,Texas,6.3,0.5344
+2018,49023,Urban,Juab County,Utah,6.3,0.2331
+2018,49035,Urban,Salt Lake County,Utah,6.3,0.3229
+2018,51043,Urban,Clarke County,Virginia,6.3,0.1131
+2018,53007,Urban,Chelan County,Washington,6.3,0.678
+2018,53033,Urban,King County,Washington,6.3,0.2854
+2018,53057,Urban,Skagit County,Washington,6.3,0.5382
+2018,55035,Urban,Eau Claire County,Wisconsin,6.3,0.2175
+2018,4023,Urban,Santa Cruz County,Arizona,6.4,0.9318
+2018,5063,Urban,Independence County,Arkansas,6.4,0.7525
+2018,6063,Rural,Plumas County,California,6.4,0.2653
+2018,12015,Urban,Charlotte County,Florida,6.4,0.4889
+2018,12061,Urban,Indian River County,Florida,6.4,0.3962
+2018,13005,Rural,Bacon County,Georgia,6.4,0.9389
+2018,16017,Urban,Bonner County,Idaho,6.4,0.2401
+2018,18007,Urban,Benton County,Indiana,6.4,0.3347
+2018,21227,Urban,Warren County,Kentucky,6.4,0.7096
+2018,24013,Urban,Carroll County,Maryland,6.4,0.0404
+2018,26043,Urban,Dickinson County,Michigan,6.4,0.2296
+2018,26139,Urban,Ottawa County,Michigan,6.4,0.2172
+2018,27019,Urban,Carver County,Minnesota,6.4,0.0124
+2018,27153,Rural,Todd County,Minnesota,6.4,0.4812
+2018,30015,Rural,Chouteau County,Montana,6.4,0.4799
+2018,31099,Urban,Kearney County,Nebraska,6.4,0.0939
+2018,38015,Urban,Burleigh County,North Dakota,6.4,0.1739
+2018,41005,Urban,Clackamas County,Oregon,6.4,0.1895
+2018,42091,Urban,Montgomery County,Pennsylvania,6.4,0.1653
+2018,46065,Urban,Hughes County,South Dakota,6.4,0.4061
+2018,55021,Urban,Columbia County,Wisconsin,6.4,0.1204
+2018,56013,Urban,Fremont County,Wyoming,6.4,0.5624
+2018,56025,Urban,Natrona County,Wyoming,6.4,0.2952
+2018,1003,Urban,Baldwin County,Alabama,6.5,0.2162
+2018,2261,Rural,Valdez-Cordova Census Area,Alaska,6.5,0.2704
+2018,6075,Urban,San Francisco County,California,6.5,0.3911
+2018,9007,Urban,Middlesex County,Connecticut,6.5,0.1182
+2018,12117,Urban,Seminole County,Florida,6.5,0.1844
+2018,16033,Rural,Clark County,Idaho,6.5,0.8911
+2018,19043,Rural,Clayton County,Iowa,6.5,0.1841
+2018,20051,Urban,Ellis County,Kansas,6.5,0.1564
+2018,20161,Urban,Riley County,Kansas,6.5,0.4373
+2018,21113,Urban,Jessamine County,Kentucky,6.5,0.5201
+2018,21211,Urban,Shelby County,Kentucky,6.5,0.4261
+2018,25021,Urban,Norfolk County,Massachusetts,6.5,0.2092
+2018,26029,Rural,Charlevoix County,Michigan,6.5,0.0968
+2018,26107,Urban,Mecosta County,Michigan,6.5,0.5975
+2018,26157,Rural,Tuscola County,Michigan,6.5,0.3959
+2018,27003,Urban,Anoka County,Minnesota,6.5,0.1404
+2018,27169,Urban,Winona County,Minnesota,6.5,0.2115
+2018,29053,Rural,Cooper County,Missouri,6.5,0.3892
+2018,36021,Urban,Columbia County,New York,6.5,0.3854
+2018,36053,Urban,Madison County,New York,6.5,0.1666
+2018,36109,Urban,Tompkins County,New York,6.5,0.3462
+2018,38023,Rural,Divide County,North Dakota,6.5,0.0334
+2018,38099,Rural,Walsh County,North Dakota,6.5,0.3682
+2018,39051,Urban,Fulton County,Ohio,6.5,0.1777
+2018,39091,Urban,Logan County,Ohio,6.5,0.3169
+2018,41051,Urban,Multnomah County,Oregon,6.5,0.4675
+2018,48091,Urban,Comal County,Texas,6.5,0.2379
+2018,48103,Rural,Crane County,Texas,6.5,0.4739
+2018,53047,Rural,Okanogan County,Washington,6.5,0.9255
+2018,55057,Rural,Juneau County,Wisconsin,6.5,0.378
+2018,55059,Urban,Kenosha County,Wisconsin,6.5,0.5111
+2018,5125,Urban,Saline County,Arkansas,6.6,0.3325
+2018,6017,Urban,El Dorado County,California,6.6,0.1838
+2018,6059,Urban,Orange County,California,6.6,0.4191
+2018,6095,Urban,Solano County,California,6.6,0.5911
+2018,8077,Urban,Mesa County,Colorado,6.6,0.5755
+2018,16055,Urban,Kootenai County,Idaho,6.6,0.2328
+2018,17043,Urban,Dupage County,Illinois,6.6,0.1611
+2018,18051,Rural,Gibson County,Indiana,6.6,0.315
+2018,19067,Rural,Floyd County,Iowa,6.6,0.3596
+2018,20067,Rural,Grant County,Kansas,6.6,0.3815
+2018,20069,Rural,Gray County,Kansas,6.6,0.2736
+2018,21017,Urban,Bourbon County,Kentucky,6.6,0.5561
+2018,24021,Urban,Frederick County,Maryland,6.6,0.1589
+2018,27093,Rural,Meeker County,Minnesota,6.6,0.1869
+2018,28045,Urban,Hancock County,Mississippi,6.6,0.5924
+2018,29067,Rural,Douglas County,Missouri,6.6,0.5232
+2018,29071,Urban,Franklin County,Missouri,6.6,0.1459
+2018,30111,Urban,Yellowstone County,Montana,6.6,0.2497
+2018,31021,Rural,Burt County,Nebraska,6.6,0.2541
+2018,31093,Urban,Howard County,Nebraska,6.6,0.0803
+2018,31139,Urban,Pierce County,Nebraska,6.6,0.0229
+2018,33005,Urban,Cheshire County,New Hampshire,6.6,0.1417
+2018,33019,Urban,Sullivan County,New Hampshire,6.6,0.1513
+2018,34003,Urban,Bergen County,New Jersey,6.6,0.2395
+2018,34031,Urban,Passaic County,New Jersey,6.6,0.7764
+2018,35043,Urban,Sandoval County,New Mexico,6.6,0.4818
+2018,37037,Urban,Chatham County,North Carolina,6.6,0.3809
+2018,37099,Urban,Jackson County,North Carolina,6.6,0.6236
+2018,38001,Rural,Adams County,North Dakota,6.6,0.0299
+2018,38095,Rural,Towner County,North Dakota,6.6,0.1946
+2018,39005,Urban,Ashland County,Ohio,6.6,0.4334
+2018,39077,Urban,Huron County,Ohio,6.6,0.4325
+2018,42079,Urban,Luzerne County,Pennsylvania,6.6,0.6089
+2018,46079,Rural,Lake County,South Dakota,6.6,0.1965
+2018,47049,Rural,Fentress County,Tennessee,6.6,0.6373
+2018,49029,Urban,Morgan County,Utah,6.6,0.0003
+2018,53063,Urban,Spokane County,Washington,6.6,0.4825
+2018,53073,Urban,Whatcom County,Washington,6.6,0.4541
+2018,54079,Urban,Putnam County,West Virginia,6.6,0.0408
+2018,55039,Urban,Fond Du Lac County,Wisconsin,6.6,0.2038
+2018,55061,Urban,Kewaunee County,Wisconsin,6.6,0.0586
+2018,55093,Urban,Pierce County,Wisconsin,6.6,0.0806
+2018,55097,Urban,Portage County,Wisconsin,6.6,0.1653
+2018,55101,Urban,Racine County,Wisconsin,6.6,0.4551
+2018,55125,Rural,Vilas County,Wisconsin,6.6,0.1395
+2018,55141,Urban,Wood County,Wisconsin,6.6,0.1535
+2018,56027,Rural,Niobrara County,Wyoming,6.6,0.336
+2018,5021,Rural,Clay County,Arkansas,6.7,0.6529
+2018,6081,Urban,San Mateo County,California,6.7,0.265
+2018,6109,Urban,Tuolumne County,California,6.7,0.4688
+2018,8005,Urban,Arapahoe County,Colorado,6.7,0.2662
+2018,8019,Urban,Clear Creek County,Colorado,6.7,0.0197
+2018,12081,Urban,Manatee County,Florida,6.7,0.5197
+2018,16049,Rural,Idaho County,Idaho,6.7,0.5392
+2018,16059,Rural,Lemhi County,Idaho,6.7,0.2997
+2018,16065,Urban,Madison County,Idaho,6.7,0.4029
+2018,20105,Rural,Lincoln County,Kansas,6.7,0.1322
+2018,21097,Rural,Harrison County,Kentucky,6.7,0.5057
+2018,21185,Urban,Oldham County,Kentucky,6.7,0.0395
+2018,23015,Rural,Lincoln County,Maine,6.7,0.1143
+2018,24015,Urban,Cecil County,Maryland,6.7,0.2933
+2018,24047,Urban,Worcester County,Maryland,6.7,0.2803
+2018,25005,Urban,Bristol County,Massachusetts,6.7,0.5248
+2018,26111,Urban,Midland County,Michigan,6.7,0.1618
+2018,27119,Urban,Polk County,Minnesota,6.7,0.3669
+2018,29001,Urban,Adair County,Missouri,6.7,0.4548
+2018,29089,Rural,Howard County,Missouri,6.7,0.4041
+2018,29125,Rural,Maries County,Missouri,6.7,0.5118
+2018,31125,Rural,Nance County,Nebraska,6.7,0.0825
+2018,31133,Rural,Pawnee County,Nebraska,6.7,0.2318
+2018,34037,Urban,Sussex County,New Jersey,6.7,0.0191
+2018,34041,Urban,Warren County,New Jersey,6.7,0.2178
+2018,35017,Urban,Grant County,New Mexico,6.7,0.9296
+2018,35059,Rural,Union County,New Mexico,6.7,0.6793
+2018,36001,Urban,Albany County,New York,6.7,0.3041
+2018,36087,Urban,Rockland County,New York,6.7,0.6038
+2018,37055,Urban,Dare County,North Carolina,6.7,0.1449
+2018,38007,Rural,Billings County,North Dakota,6.7,0.0312
+2018,38081,Rural,Sargent County,North Dakota,6.7,0.0232
+2018,41055,Rural,Sherman County,Oregon,6.7,0.135
+2018,42049,Urban,Erie County,Pennsylvania,6.7,0.6194
+2018,42133,Urban,York County,Pennsylvania,6.7,0.329
+2018,46049,Rural,Faulk County,South Dakota,6.7,0.0777
+2018,46083,Urban,Lincoln County,South Dakota,6.7,0.0201
+2018,46127,Urban,Union County,South Dakota,6.7,0.0274
+2018,48149,Rural,Fayette County,Texas,6.7,0.4363
+2018,51127,Urban,New Kent County,Virginia,6.7,0.0061
+2018,51720,Urban,Norton City,Virginia,6.7,0.9054
+2018,55033,Urban,Dunn County,Wisconsin,6.7,0.1847
+2018,56015,Rural,Goshen County,Wyoming,6.7,0.3264
+2018,12009,Urban,Brevard County,Florida,6.8,0.3713
+2018,12057,Urban,Hillsborough County,Florida,6.8,0.6701
+2018,16015,Urban,Boise County,Idaho,6.8,0.0672
+2018,18073,Urban,Jasper County,Indiana,6.8,0.2685
+2018,19015,Urban,Boone County,Iowa,6.8,0.1178
+2018,19047,Rural,Crawford County,Iowa,6.8,0.8551
+2018,19121,Urban,Madison County,Iowa,6.8,0.0204
+2018,21055,Rural,Crittenden County,Kentucky,6.8,0.4844
+2018,21213,Rural,Simpson County,Kentucky,6.8,0.2879
+2018,25027,Urban,Worcester County,Massachusetts,6.8,0.4096
+2018,26103,Urban,Marquette County,Michigan,6.8,0.3057
+2018,27147,Urban,Steele County,Minnesota,6.8,0.3013
+2018,29037,Urban,Cass County,Missouri,6.8,0.1188
+2018,29073,Rural,Gasconade County,Missouri,6.8,0.0854
+2018,30075,Rural,Powder River County,Montana,6.8,0.0392
+2018,30089,Rural,Sanders County,Montana,6.8,0.3478
+2018,31063,Rural,Frontier County,Nebraska,6.8,0.0994
+2018,31101,Rural,Keith County,Nebraska,6.8,0.2268
+2018,31163,Rural,Sherman County,Nebraska,6.8,0.0739
+2018,32510,Urban,Carson City,Nevada,6.8,0.8443
+2018,35051,Rural,Sierra County,New Mexico,6.8,0.9146
+2018,36023,Urban,Cortland County,New York,6.8,0.3452
+2018,36031,Rural,Essex County,New York,6.8,0.3869
+2018,36083,Urban,Rensselaer County,New York,6.8,0.343
+2018,37111,Urban,Mcdowell County,North Carolina,6.8,0.7895
+2018,38053,Rural,Mckenzie County,North Dakota,6.8,0.392
+2018,38057,Rural,Mercer County,North Dakota,6.8,0.1016
+2018,38077,Urban,Richland County,North Dakota,6.8,0.1217
+2018,40061,Rural,Haskell County,Oklahoma,6.8,0.8736
+2018,41023,Rural,Grant County,Oregon,6.8,0.5465
+2018,46099,Urban,Minnehaha County,South Dakota,6.8,0.3589
+2018,47173,Urban,Union County,Tennessee,6.8,0.6672
+2018,51035,Rural,Carroll County,Virginia,6.8,0.3369
+2018,53009,Urban,Clallam County,Washington,6.8,0.6146
+2018,55113,Rural,Sawyer County,Wisconsin,6.8,0.4268
+2018,5049,Rural,Fulton County,Arkansas,6.9,0.6688
+2018,6009,Rural,Calaveras County,California,6.9,0.235
+2018,8055,Rural,Huerfano County,Colorado,6.9,0.5955
+2018,8109,Rural,Saguache County,Colorado,6.9,0.807
+2018,12111,Urban,St. Lucie County,Florida,6.9,0.7185
+2018,18105,Urban,Monroe County,Indiana,6.9,0.4519
+2018,19101,Urban,Jefferson County,Iowa,6.9,0.4895
+2018,19103,Urban,Johnson County,Iowa,6.9,0.2675
+2018,20019,Rural,Chautauqua County,Kansas,6.9,0.7188
+2018,20059,Urban,Franklin County,Kansas,6.9,0.2137
+2018,21049,Urban,Clark County,Kentucky,6.9,0.6061
+2018,26009,Rural,Antrim County,Michigan,6.9,0.1156
+2018,27013,Urban,Blue Earth County,Minnesota,6.9,0.2838
+2018,27029,Rural,Clearwater County,Minnesota,6.9,0.7917
+2018,27123,Urban,Ramsey County,Minnesota,6.9,0.6334
+2018,28145,Rural,Union County,Mississippi,6.9,0.8277
+2018,29135,Urban,Moniteau County,Missouri,6.9,0.5143
+2018,29183,Urban,St. Charles County,Missouri,6.9,0.0363
+2018,29217,Rural,Vernon County,Missouri,6.9,0.451
+2018,30053,Rural,Lincoln County,Montana,6.9,0.4194
+2018,31077,Rural,Greeley County,Nebraska,6.9,0.0411
+2018,31179,Rural,Wayne County,Nebraska,6.9,0.0847
+2018,33011,Urban,Hillsborough County,New Hampshire,6.9,0.1911
+2018,38013,Rural,Burke County,North Dakota,6.9,0.007
+2018,38017,Urban,Cass County,North Dakota,6.9,0.1427
+2018,38025,Rural,Dunn County,North Dakota,6.9,0.2226
+2018,40007,Rural,Beaver County,Oklahoma,6.9,0.4554
+2018,41041,Urban,Lincoln County,Oregon,6.9,0.5522
+2018,42115,Rural,Susquehanna County,Pennsylvania,6.9,0.2064
+2018,44003,Urban,Kent County,Rhode Island,6.9,0.1519
+2018,46093,Urban,Meade County,South Dakota,6.9,0.0892
+2018,48011,Urban,Armstrong County,Texas,6.9,0.1599
+2018,50017,Urban,Orange County,Vermont,6.9,0.172
+2018,51003,Urban,Albemarle County,Virginia,6.9,0.1732
+2018,51600,Urban,Fairfax City,Virginia,6.9,0.2411
+2018,53005,Urban,Benton County,Washington,6.9,0.514
+2018,55139,Urban,Winnebago County,Wisconsin,6.9,0.1608
+2018,56023,Rural,Lincoln County,Wyoming,6.9,0.0809
+2018,6037,Urban,Los Angeles County,California,7,0.7682
+2018,8001,Urban,Adams County,Colorado,7,0.5892
+2018,13113,Urban,Fayette County,Georgia,7,0.0608
+2018,18029,Urban,Dearborn County,Indiana,7,0.0799
+2018,18047,Rural,Franklin County,Indiana,7,0.1471
+2018,20143,Urban,Ottawa County,Kansas,7,0.0271
+2018,26125,Urban,Oakland County,Michigan,7,0.114
+2018,26153,Rural,Schoolcraft County,Michigan,7,0.5452
+2018,27017,Urban,Carlton County,Minnesota,7,0.2666
+2018,27149,Rural,Stevens County,Minnesota,7,0.2258
+2018,28089,Urban,Madison County,Mississippi,7,0.2898
+2018,30071,Rural,Phillips County,Montana,7,0.4146
+2018,35013,Urban,Doña Ana County,New Mexico,7,0.9841
+2018,36091,Urban,Saratoga County,New York,7,0.0475
+2018,37089,Urban,Henderson County,North Carolina,7,0.321
+2018,39157,Urban,Tuscarawas County,Ohio,7,0.3443
+2018,41039,Urban,Lane County,Oregon,7,0.649
+2018,42003,Urban,Allegheny County,Pennsylvania,7,0.2506
+2018,42081,Urban,Lycoming County,Pennsylvania,7,0.421
+2018,47133,Urban,Overton County,Tennessee,7,0.4576
+2018,49041,Rural,Sevier County,Utah,7,0.3261
+2018,50019,Rural,Orleans County,Vermont,7,0.4258
+2018,51125,Urban,Nelson County,Virginia,7,0.3
+2018,53029,Urban,Island County,Washington,7,0.1857
+2018,53075,Urban,Whitman County,Washington,7,0.5108
+2018,56037,Urban,Sweetwater County,Wyoming,7,0.3701
+2018,2230,Rural,Skagway Municipality,Alaska,7.1,0.1685
+2018,4003,Urban,Cochise County,Arizona,7.1,0.9064
+2018,6085,Urban,Santa Clara County,California,7.1,0.3557
+2018,6113,Urban,Yolo County,California,7.1,0.6768
+2018,8095,Rural,Phillips County,Colorado,7.1,0.2955
+2018,12017,Urban,Citrus County,Florida,7.1,0.6022
+2018,17097,Urban,Lake County,Illinois,7.1,0.3513
+2018,18013,Urban,Brown County,Indiana,7.1,0.0602
+2018,18123,Rural,Perry County,Indiana,7.1,0.3102
+2018,18175,Urban,Washington County,Indiana,7.1,0.3777
+2018,19003,Rural,Adams County,Iowa,7.1,0.0376
+2018,19095,Rural,Iowa County,Iowa,7.1,0.0347
+2018,19113,Urban,Linn County,Iowa,7.1,0.1806
+2018,20045,Urban,Douglas County,Kansas,7.1,0.2232
+2018,20153,Rural,Rawlins County,Kansas,7.1,0.136
+2018,21023,Urban,Bracken County,Kentucky,7.1,0.3866
+2018,21157,Rural,Marshall County,Kentucky,7.1,0.2723
+2018,21223,Urban,Trimble County,Kentucky,7.1,0.7143
+2018,27085,Urban,Mcleod County,Minnesota,7.1,0.1261
+2018,29097,Urban,Jasper County,Missouri,7.1,0.6564
+2018,30107,Rural,Wheatland County,Montana,7.1,0.5436
+2018,31051,Urban,Dixon County,Nebraska,7.1,0.379
+2018,31065,Rural,Furnas County,Nebraska,7.1,0.1825
+2018,31089,Rural,Holt County,Nebraska,7.1,0.0981
+2018,31141,Urban,Platte County,Nebraska,7.1,0.2994
+2018,32013,Urban,Humboldt County,Nevada,7.1,0.5869
+2018,36007,Urban,Broome County,New York,7.1,0.6166
+2018,36043,Urban,Herkimer County,New York,7.1,0.5322
+2018,36111,Urban,Ulster County,New York,7.1,0.4704
+2018,37053,Urban,Currituck County,North Carolina,7.1,0.1194
+2018,37063,Urban,Durham County,North Carolina,7.1,0.6197
+2018,37087,Urban,Haywood County,North Carolina,7.1,0.2809
+2018,45081,Urban,Saluda County,South Carolina,7.1,0.7949
+2018,46037,Rural,Day County,South Dakota,7.1,0.185
+2018,46059,Rural,Hand County,South Dakota,7.1,0.0309
+2018,48189,Urban,Hale County,Texas,7.1,0.9312
+2018,48303,Urban,Lubbock County,Texas,7.1,0.7497
+2018,48317,Urban,Martin County,Texas,7.1,0.4239
+2018,48435,Rural,Sutton County,Texas,7.1,0.6041
+2018,51199,Urban,York County,Virginia,7.1,0.1997
+2018,51830,Urban,Williamsburg City,Virginia,7.1,0.385
+2018,55099,Rural,Price County,Wisconsin,7.1,0.1602
+2018,56005,Urban,Campbell County,Wyoming,7.1,0.3315
+2018,2220,Rural,Sitka City and Borough,Alaska,7.2,0.4022
+2018,6005,Rural,Amador County,California,7.2,0.5334
+2018,8083,Rural,Montezuma County,Colorado,7.2,0.4946
+2018,18001,Urban,Adams County,Indiana,7.2,0.5904
+2018,18141,Urban,St. Joseph County,Indiana,7.2,0.6223
+2018,19087,Rural,Henry County,Iowa,7.2,0.3134
+2018,20157,Rural,Republic County,Kansas,7.2,0.0605
+2018,21079,Rural,Garrard County,Kentucky,7.2,0.4299
+2018,23007,Rural,Franklin County,Maine,7.2,0.215
+2018,24025,Urban,Harford County,Maryland,7.2,0.0933
+2018,27007,Urban,Beltrami County,Minnesota,7.2,0.7771
+2018,27173,Rural,Yellow Medicine County,Minnesota,7.2,0.3344
+2018,29189,Urban,St. Louis County,Missouri,7.2,0.2611
+2018,29219,Urban,Warren County,Missouri,7.2,0.3841
+2018,31023,Rural,Butler County,Nebraska,7.2,0.1172
+2018,31117,Urban,Mcpherson County,Nebraska,7.2,0.0838
+2018,32017,Rural,Lincoln County,Nevada,7.2,0.4213
+2018,34029,Urban,Ocean County,New Jersey,7.2,0.3354
+2018,37183,Urban,Wake County,North Carolina,7.2,0.2774
+2018,38031,Rural,Foster County,North Dakota,7.2,0.0175
+2018,39011,Urban,Auglaize County,Ohio,7.2,0.0535
+2018,39159,Urban,Union County,Ohio,7.2,0.0771
+2018,40005,Rural,Atoka County,Oklahoma,7.2,0.8076
+2018,40087,Urban,Mcclain County,Oklahoma,7.2,0.1624
+2018,41067,Urban,Washington County,Oregon,7.2,0.3194
+2018,42031,Rural,Clarion County,Pennsylvania,7.2,0.4771
+2018,46011,Urban,Brookings County,South Dakota,7.2,0.1561
+2018,46029,Urban,Codington County,South Dakota,7.2,0.2449
+2018,51680,Urban,Lynchburg City,Virginia,7.2,0.7369
+2018,53067,Urban,Thurston County,Washington,7.2,0.3299
+2018,55015,Urban,Calumet County,Wisconsin,7.2,0.0182
+2018,1029,Rural,Cleburne County,Alabama,7.3,0.5417
+2018,2170,Urban,Matanuska-Susitna Borough,Alaska,7.3,0.3172
+2018,4015,Urban,Mohave County,Arizona,7.3,0.8624
+2018,5017,Rural,Chicot County,Arkansas,7.3,0.9968
+2018,8003,Rural,Alamosa County,Colorado,7.3,0.9452
+2018,8101,Urban,Pueblo County,Colorado,7.3,0.8669
+2018,12001,Urban,Alachua County,Florida,7.3,0.4729
+2018,12101,Urban,Pasco County,Florida,7.3,0.6344
+2018,13133,Rural,Greene County,Georgia,7.3,0.5379
+2018,17037,Urban,Dekalb County,Illinois,7.3,0.4866
+2018,17063,Urban,Grundy County,Illinois,7.3,0.0844
+2018,20079,Urban,Harvey County,Kansas,7.3,0.335
+2018,20111,Urban,Lyon County,Kansas,7.3,0.7322
+2018,23009,Rural,Hancock County,Maine,7.3,0.193
+2018,25003,Urban,Berkshire County,Massachusetts,7.3,0.4083
+2018,26147,Urban,St. Clair County,Michigan,7.3,0.279
+2018,29009,Rural,Barry County,Missouri,7.3,0.7099
+2018,29011,Rural,Barton County,Missouri,7.3,0.5994
+2018,29139,Rural,Montgomery County,Missouri,7.3,0.5331
+2018,29167,Urban,Polk County,Missouri,7.3,0.5987
+2018,29211,Rural,Sullivan County,Missouri,7.3,0.6296
+2018,30091,Rural,Sheridan County,Montana,7.3,0.0949
+2018,31161,Rural,Sheridan County,Nebraska,7.3,0.5968
+2018,31175,Rural,Valley County,Nebraska,7.3,0.1484
+2018,31183,Rural,Wheeler County,Nebraska,7.3,0.0048
+2018,35005,Urban,Chaves County,New Mexico,7.3,0.9551
+2018,36003,Rural,Allegany County,New York,7.3,0.5818
+2018,36047,Urban,Kings County,New York,7.3,0.8153
+2018,36055,Urban,Monroe County,New York,7.3,0.5204
+2018,39165,Urban,Warren County,Ohio,7.3,0.0478
+2018,40009,Urban,Beckham County,Oklahoma,7.3,0.7118
+2018,41035,Urban,Klamath County,Oregon,7.3,0.8688
+2018,42013,Urban,Blair County,Pennsylvania,7.3,0.3981
+2018,42063,Urban,Indiana County,Pennsylvania,7.3,0.5484
+2018,45021,Urban,Cherokee County,South Carolina,7.3,0.6978
+2018,48135,Urban,Ector County,Texas,7.3,0.7924
+2018,48209,Urban,Hays County,Texas,7.3,0.4924
+2018,48329,Urban,Midland County,Texas,7.3,0.4748
+2018,48381,Urban,Randall County,Texas,7.3,0.2204
+2018,48441,Urban,Taylor County,Texas,7.3,0.6933
+2018,50027,Urban,Windsor County,Vermont,7.3,0.128
+2018,51165,Urban,Rockingham County,Virginia,7.3,0.3197
+2018,51540,Urban,Charlottesville City,Virginia,7.3,0.4092
+2018,53035,Urban,Kitsap County,Washington,7.3,0.2825
+2018,54027,Urban,Hampshire County,West Virginia,7.3,0.6433
+2018,2100,Rural,Haines Borough,Alaska,7.4,0.207
+2018,5007,Urban,Benton County,Arkansas,7.4,0.2707
+2018,6053,Urban,Monterey County,California,7.4,0.799
+2018,6065,Urban,Riverside County,California,7.4,0.7939
+2018,12095,Urban,Orange County,Florida,7.4,0.6691
+2018,17111,Urban,Mchenry County,Illinois,7.4,0.0701
+2018,17125,Rural,Mason County,Illinois,7.4,0.2946
+2018,18011,Urban,Boone County,Indiana,7.4,0.0449
+2018,18039,Urban,Elkhart County,Indiana,7.4,0.7701
+2018,19009,Rural,Audubon County,Iowa,7.4,0.0226
+2018,19167,Rural,Sioux County,Iowa,7.4,0.2207
+2018,20147,Rural,Phillips County,Kansas,7.4,0.242
+2018,21123,Urban,Larue County,Kentucky,7.4,0.5318
+2018,23027,Rural,Waldo County,Maine,7.4,0.2197
+2018,26137,Rural,Otsego County,Michigan,7.4,0.3694
+2018,27063,Rural,Jackson County,Minnesota,7.4,0.0306
+2018,29059,Urban,Dallas County,Missouri,7.4,0.7019
+2018,29101,Urban,Johnson County,Missouri,7.4,0.3506
+2018,29145,Urban,Newton County,Missouri,7.4,0.4341
+2018,30083,Rural,Richland County,Montana,7.4,0.2121
+2018,31037,Rural,Colfax County,Nebraska,7.4,0.5188
+2018,31159,Urban,Seward County,Nebraska,7.4,0.0468
+2018,31167,Urban,Stanton County,Nebraska,7.4,0.057
+2018,32007,Urban,Elko County,Nevada,7.4,0.5178
+2018,34021,Urban,Mercer County,New Jersey,7.4,0.558
+2018,36067,Urban,Onondaga County,New York,7.4,0.5207
+2018,36105,Rural,Sullivan County,New York,7.4,0.7939
+2018,39121,Rural,Noble County,Ohio,7.4,0.4293
+2018,41007,Urban,Clatsop County,Oregon,7.4,0.5185
+2018,42113,Rural,Sullivan County,Pennsylvania,7.4,0.3576
+2018,47027,Rural,Clay County,Tennessee,7.4,0.5939
+2018,48085,Urban,Collin County,Texas,7.4,0.1506
+2018,53017,Urban,Douglas County,Washington,7.4,0.7707
+2018,55023,Rural,Crawford County,Wisconsin,7.4,0.3971
+2018,2240,Rural,Southeast Fairbanks Census Area,Alaska,7.5,0.5838
+2018,6027,Rural,Inyo County,California,7.5,0.5701
+2018,8121,Rural,Washington County,Colorado,7.5,0.2822
+2018,10003,Urban,New Castle County,Delaware,7.5,0.3761
+2018,16071,Rural,Oneida County,Idaho,7.5,0.3424
+2018,17131,Urban,Mercer County,Illinois,7.5,0.1134
+2018,19005,Rural,Allamakee County,Iowa,7.5,0.322
+2018,21075,Urban,Fulton County,Kentucky,7.5,0.8704
+2018,24003,Urban,Anne Arundel County,Maryland,7.5,0.1783
+2018,25013,Urban,Hampden County,Massachusetts,7.5,0.8232
+2018,26019,Urban,Benzie County,Michigan,7.5,0.1051
+2018,26023,Urban,Branch County,Michigan,7.5,0.6315
+2018,26059,Urban,Hillsdale County,Michigan,7.5,0.5019
+2018,26063,Rural,Huron County,Michigan,7.5,0.2745
+2018,26091,Urban,Lenawee County,Michigan,7.5,0.4076
+2018,27015,Urban,Brown County,Minnesota,7.5,0.1274
+2018,27099,Urban,Mower County,Minnesota,7.5,0.6283
+2018,27165,Rural,Watonwan County,Minnesota,7.5,0.5191
+2018,29005,Rural,Atchison County,Missouri,7.5,0.0736
+2018,29061,Rural,Daviess County,Missouri,7.5,0.4707
+2018,30045,Rural,Judith Basin County,Montana,7.5,0.0162
+2018,30047,Rural,Lake County,Montana,7.5,0.6468
+2018,36025,Rural,Delaware County,New York,7.5,0.6331
+2018,38027,Rural,Eddy County,North Dakota,7.5,0.2904
+2018,38075,Urban,Renville County,North Dakota,7.5,0.028
+2018,39107,Urban,Mercer County,Ohio,7.5,0.051
+2018,39123,Urban,Ottawa County,Ohio,7.5,0.1541
+2018,40069,Rural,Johnston County,Oklahoma,7.5,0.8468
+2018,41033,Urban,Josephine County,Oregon,7.5,0.6557
+2018,42007,Urban,Beaver County,Pennsylvania,7.5,0.2481
+2018,42045,Urban,Delaware County,Pennsylvania,7.5,0.4131
+2018,42125,Urban,Washington County,Pennsylvania,7.5,0.1694
+2018,46061,Urban,Hanson County,South Dakota,7.5,0.0013
+2018,47087,Urban,Jackson County,Tennessee,7.5,0.6
+2018,48187,Urban,Guadalupe County,Texas,7.5,0.4344
+2018,51121,Urban,Montgomery County,Virginia,7.5,0.2959
+2018,55119,Rural,Taylor County,Wisconsin,7.5,0.2
+2018,4027,Urban,Yuma County,Arizona,7.6,0.9895
+2018,6025,Urban,Imperial County,California,7.6,0.9978
+2018,6067,Urban,Sacramento County,California,7.6,0.7338
+2018,6071,Urban,San Bernardino County,California,7.6,0.901
+2018,8021,Rural,Conejos County,Colorado,7.6,0.9325
+2018,12113,Urban,Santa Rosa County,Florida,7.6,0.3096
+2018,13219,Urban,Oconee County,Georgia,7.6,0.0354
+2018,18139,Rural,Rush County,Indiana,7.6,0.2567
+2018,19013,Urban,Black Hawk County,Iowa,7.6,0.4264
+2018,19119,Rural,Lyon County,Iowa,7.6,0.0439
+2018,19139,Urban,Muscatine County,Iowa,7.6,0.3904
+2018,19153,Urban,Polk County,Iowa,7.6,0.3768
+2018,19169,Urban,Story County,Iowa,7.6,0.2124
+2018,20029,Rural,Cloud County,Kansas,7.6,0.2739
+2018,20121,Urban,Miami County,Kansas,7.6,0.0258
+2018,21035,Urban,Calloway County,Kentucky,7.6,0.4997
+2018,24029,Rural,Kent County,Maryland,7.6,0.4277
+2018,25023,Urban,Plymouth County,Massachusetts,7.6,0.2303
+2018,26005,Urban,Allegan County,Michigan,7.6,0.1758
+2018,26115,Urban,Monroe County,Michigan,7.6,0.1494
+2018,29047,Urban,Clay County,Missouri,7.6,0.1363
+2018,31087,Rural,Hitchcock County,Nebraska,7.6,0.1943
+2018,34017,Urban,Hudson County,New Jersey,7.6,0.6424
+2018,35033,Rural,Mora County,New Mexico,7.6,0.7959
+2018,36107,Urban,Tioga County,New York,7.6,0.1994
+2018,37071,Urban,Gaston County,North Carolina,7.6,0.672
+2018,37143,Urban,Perquimans County,North Carolina,7.6,0.5048
+2018,38103,Rural,Wells County,North Dakota,7.6,0.0611
+2018,39041,Urban,Delaware County,Ohio,7.6,0.0166
+2018,42043,Urban,Dauphin County,Pennsylvania,7.6,0.4975
+2018,42129,Urban,Westmoreland County,Pennsylvania,7.6,0.1379
+2018,46115,Rural,Spink County,South Dakota,7.6,0.1768
+2018,47009,Urban,Blount County,Tennessee,7.6,0.2452
+2018,48131,Rural,Duval County,Texas,7.6,0.9994
+2018,51069,Urban,Frederick County,Virginia,7.6,0.1822
+2018,55009,Urban,Brown County,Wisconsin,7.6,0.3299
+2018,56041,Urban,Uinta County,Wyoming,7.6,0.4522
+2018,6089,Urban,Shasta County,California,7.7,0.7022
+2018,9003,Urban,Hartford County,Connecticut,7.7,0.515
+2018,9011,Urban,New London County,Connecticut,7.7,0.3561
+2018,13067,Urban,Cobb County,Georgia,7.7,0.2669
+2018,18115,Urban,Ohio County,Indiana,7.7,0.0252
+2018,19097,Rural,Jackson County,Iowa,7.7,0.1268
+2018,20055,Urban,Finney County,Kansas,7.7,0.8236
+2018,20169,Urban,Saline County,Kansas,7.7,0.4162
+2018,20175,Urban,Seward County,Kansas,7.7,0.9111
+2018,23011,Urban,Kennebec County,Maine,7.7,0.3787
+2018,24009,Urban,Calvert County,Maryland,7.7,0.0471
+2018,29099,Urban,Jefferson County,Missouri,7.7,0.1863
+2018,29171,Rural,Putnam County,Missouri,7.7,0.5764
+2018,31061,Rural,Franklin County,Nebraska,7.7,0.0768
+2018,31109,Urban,Lancaster County,Nebraska,7.7,0.3025
+2018,31119,Urban,Madison County,Nebraska,7.7,0.5105
+2018,34009,Urban,Cape May County,New Jersey,7.7,0.3398
+2018,37011,Rural,Avery County,North Carolina,7.7,0.6446
+2018,37175,Urban,Transylvania County,North Carolina,7.7,0.3975
+2018,37189,Urban,Watauga County,North Carolina,7.7,0.4121
+2018,40047,Urban,Garfield County,Oklahoma,7.7,0.5908
+2018,40059,Rural,Harper County,Oklahoma,7.7,0.3185
+2018,41053,Urban,Polk County,Oregon,7.7,0.5777
+2018,41071,Urban,Yamhill County,Oregon,7.7,0.6608
+2018,44007,Urban,Providence County,Rhode Island,7.7,0.7592
+2018,45019,Urban,Charleston County,South Carolina,7.7,0.3156
+2018,47035,Urban,Cumberland County,Tennessee,7.7,0.5373
+2018,50011,Urban,Franklin County,Vermont,7.7,0.1111
+2018,56021,Urban,Laramie County,Wyoming,7.7,0.2697
+2018,2020,Urban,Anchorage Municipality,Alaska,7.8,0.4602
+2018,2090,Urban,Fairbanks North Star Borough,Alaska,7.8,0.3446
+2018,10005,Urban,Sussex County,Delaware,7.8,0.4019
+2018,13127,Urban,Glynn County,Georgia,7.8,0.7159
+2018,15009,Urban,Maui County,Hawaii,7.8,0.3879
+2018,17089,Urban,Kane County,Illinois,7.8,0.4169
+2018,17183,Urban,Vermilion County,Illinois,7.8,0.8131
+2018,19065,Rural,Fayette County,Iowa,7.8,0.2252
+2018,19091,Rural,Humboldt County,Iowa,7.8,0.1446
+2018,19187,Urban,Webster County,Iowa,7.8,0.458
+2018,20033,Rural,Comanche County,Kansas,7.8,0.0793
+2018,20197,Urban,Wabaunsee County,Kansas,7.8,0.0532
+2018,23031,Urban,York County,Maine,7.8,0.0936
+2018,27083,Urban,Lyon County,Minnesota,7.8,0.4532
+2018,27135,Rural,Roseau County,Minnesota,7.8,0.2478
+2018,29215,Rural,Texas County,Missouri,7.8,0.8303
+2018,30027,Rural,Fergus County,Montana,7.8,0.2376
+2018,30097,Rural,Sweet Grass County,Montana,7.8,0.0086
+2018,35061,Urban,Valencia County,New Mexico,7.8,0.9041
+2018,38101,Urban,Ward County,North Dakota,7.8,0.1678
+2018,42027,Urban,Centre County,Pennsylvania,7.8,0.2892
+2018,42083,Urban,Mckean County,Pennsylvania,7.8,0.5462
+2018,42095,Urban,Northampton County,Pennsylvania,7.8,0.2876
+2018,42097,Urban,Northumberland County,Pennsylvania,7.8,0.5006
+2018,46013,Urban,Brown County,South Dakota,7.8,0.3287
+2018,46135,Urban,Yankton County,South Dakota,7.8,0.3159
+2018,47003,Urban,Bedford County,Tennessee,7.8,0.7758
+2018,47023,Urban,Chester County,Tennessee,7.8,0.6436
+2018,47037,Urban,Davidson County,Tennessee,7.8,0.5363
+2018,48311,Rural,Mcmullen County,Texas,7.8,0.7631
+2018,49007,Urban,Carbon County,Utah,7.8,0.5615
+2018,49011,Urban,Davis County,Utah,7.8,0.0796
+2018,49017,Rural,Garfield County,Utah,7.8,0.4592
+2018,51085,Urban,Hanover County,Virginia,7.8,0.0156
+2018,51093,Urban,Isle Of Wight County,Virginia,7.8,0.3392
+2018,51095,Urban,James City County,Virginia,7.8,0.115
+2018,12037,Rural,Franklin County,Florida,7.9,0.8083
+2018,13121,Urban,Fulton County,Georgia,7.9,0.5268
+2018,19055,Rural,Delaware County,Iowa,7.9,0.0344
+2018,19125,Rural,Marion County,Iowa,7.9,0.1949
+2018,19165,Rural,Shelby County,Iowa,7.9,0.1303
+2018,19181,Urban,Warren County,Iowa,7.9,0.072
+2018,21067,Urban,Fayette County,Kentucky,7.9,0.4876
+2018,21239,Urban,Woodford County,Kentucky,7.9,0.2041
+2018,25007,Urban,Dukes County,Massachusetts,7.9,0.0096
+2018,26045,Urban,Eaton County,Michigan,7.9,0.3131
+2018,26081,Urban,Kent County,Michigan,7.9,0.4761
+2018,27031,Rural,Cook County,Minnesota,7.9,0.2029
+2018,27061,Rural,Itasca County,Minnesota,7.9,0.3293
+2018,27077,Rural,Lake Of The Woods County,Minnesota,7.9,0.1576
+2018,27115,Rural,Pine County,Minnesota,7.9,0.4631
+2018,27157,Urban,Wabasha County,Minnesota,7.9,0.0589
+2018,29165,Urban,Platte County,Missouri,7.9,0.0959
+2018,29169,Urban,Pulaski County,Missouri,7.9,0.6503
+2018,31025,Urban,Cass County,Nebraska,7.9,0.0108
+2018,31029,Rural,Chase County,Nebraska,7.9,0.1551
+2018,36029,Urban,Erie County,New York,7.9,0.414
+2018,36039,Rural,Greene County,New York,7.9,0.4159
+2018,37159,Urban,Rowan County,North Carolina,7.9,0.8143
+2018,38021,Rural,Dickey County,North Dakota,7.9,0.1159
+2018,38047,Rural,Logan County,North Dakota,7.9,0.0382
+2018,38083,Rural,Sheridan County,North Dakota,7.9,0.0742
+2018,39103,Urban,Medina County,Ohio,7.9,0.0102
+2018,39127,Urban,Perry County,Ohio,7.9,0.5545
+2018,40027,Urban,Cleveland County,Oklahoma,7.9,0.3436
+2018,40131,Urban,Rogers County,Oklahoma,7.9,0.2834
+2018,45077,Urban,Pickens County,South Carolina,7.9,0.599
+2018,46019,Rural,Butte County,South Dakota,7.9,0.3627
+2018,47015,Urban,Cannon County,Tennessee,7.9,0.3704
+2018,47085,Rural,Humphreys County,Tennessee,7.9,0.3688
+2018,48491,Urban,Williamson County,Texas,7.9,0.2016
+2018,49015,Rural,Emery County,Utah,7.9,0.2627
+2018,49057,Urban,Weber County,Utah,7.9,0.4271
+2018,50003,Urban,Bennington County,Vermont,7.9,0.2924
+2018,51017,Rural,Bath County,Virginia,7.9,0.2471
+2018,51810,Urban,Virginia Beach City,Virginia,7.9,0.1889
+2018,55103,Rural,Richland County,Wisconsin,7.9,0.3073
+2018,56045,Rural,Weston County,Wyoming,7.9,0.3475
+2018,5143,Urban,Washington County,Arkansas,8,0.6745
+2018,6077,Urban,San Joaquin County,California,8,0.8892
+2018,6099,Urban,Stanislaus County,California,8,0.8675
+2018,12127,Urban,Volusia County,Florida,8,0.5347
+2018,16023,Urban,Butte County,Idaho,8,0.2462
+2018,20203,Rural,Wichita County,Kansas,8,0.4678
+2018,25025,Urban,Suffolk County,Massachusetts,8,0.7379
+2018,26061,Urban,Houghton County,Michigan,8,0.4962
+2018,27129,Rural,Renville County,Minnesota,8,0.1968
+2018,29209,Urban,Stone County,Missouri,8,0.3487
+2018,30013,Urban,Cascade County,Montana,8,0.4102
+2018,30077,Rural,Powell County,Montana,8,0.2545
+2018,31033,Rural,Cheyenne County,Nebraska,8,0.121
+2018,31057,Rural,Dundy County,Nebraska,8,0.3038
+2018,31127,Rural,Nemaha County,Nebraska,8,0.1659
+2018,35019,Rural,Guadalupe County,New Mexico,8,0.9529
+2018,37119,Urban,Mecklenburg County,North Carolina,8,0.4408
+2018,38033,Rural,Golden Valley County,North Dakota,8,0.093
+2018,38041,Rural,Hettinger County,North Dakota,8,0.0561
+2018,38087,Rural,Slope County,North Dakota,8,0.0137
+2018,39109,Urban,Miami County,Ohio,8,0.1191
+2018,40151,Rural,Woods County,Oklahoma,8,0.314
+2018,41025,Rural,Harney County,Oregon,8,0.7108
+2018,42077,Urban,Lehigh County,Pennsylvania,8,0.635
+2018,47165,Urban,Sumner County,Tennessee,8,0.2057
+2018,47175,Rural,Van Buren County,Tennessee,8,0.6025
+2018,47183,Urban,Weakley County,Tennessee,8,0.6583
+2018,48121,Urban,Denton County,Texas,8,0.221
+2018,48235,Urban,Irion County,Texas,8,0.2013
+2018,49013,Rural,Duchesne County,Utah,8,0.4822
+2018,49021,Urban,Iron County,Utah,8,0.4525
+2018,50021,Urban,Rutland County,Vermont,8,0.2787
+2018,53023,Rural,Garfield County,Washington,8,0.1834
+2018,53061,Urban,Snohomish County,Washington,8,0.2755
+2018,55087,Urban,Outagamie County,Wisconsin,8,0.0978
+2018,55091,Rural,Pepin County,Wisconsin,8,0.1019
+2018,1077,Urban,Lauderdale County,Alabama,8.1,0.4468
+2018,5085,Urban,Lonoke County,Arkansas,8.1,0.3309
+2018,5149,Urban,Yell County,Arkansas,8.1,0.8783
+2018,6047,Urban,Merced County,California,8.1,0.9717
+2018,6093,Rural,Siskiyou County,California,8.1,0.7223
+2018,12091,Urban,Okaloosa County,Florida,8.1,0.386
+2018,13117,Urban,Forsyth County,Georgia,8.1,0.0373
+2018,13237,Rural,Putnam County,Georgia,8.1,0.428
+2018,17065,Rural,Hamilton County,Illinois,8.1,0.1529
+2018,18099,Urban,Marshall County,Indiana,8.1,0.5796
+2018,19037,Rural,Chickasaw County,Iowa,8.1,0.0599
+2018,19115,Rural,Louisa County,Iowa,8.1,0.457
+2018,20185,Rural,Stafford County,Kansas,8.1,0.2777
+2018,23017,Rural,Oxford County,Maine,8.1,0.3726
+2018,26065,Urban,Ingham County,Michigan,8.1,0.5742
+2018,27009,Urban,Benton County,Minnesota,8.1,0.4318
+2018,27039,Urban,Dodge County,Minnesota,8.1,0.0573
+2018,27059,Urban,Isanti County,Minnesota,8.1,0.1022
+2018,27095,Urban,Mille Lacs County,Minnesota,8.1,0.5917
+2018,30105,Rural,Valley County,Montana,8.1,0.1162
+2018,31147,Rural,Richardson County,Nebraska,8.1,0.1025
+2018,34015,Urban,Gloucester County,New Jersey,8.1,0.1675
+2018,39135,Rural,Preble County,Ohio,8.1,0.1691
+2018,40051,Urban,Grady County,Oklahoma,8.1,0.308
+2018,40065,Urban,Jackson County,Oklahoma,8.1,0.8226
+2018,40119,Urban,Payne County,Oklahoma,8.1,0.5131
+2018,47141,Urban,Putnam County,Tennessee,8.1,0.6182
+2018,47153,Urban,Sequatchie County,Tennessee,8.1,0.572
+2018,48119,Rural,Delta County,Texas,8.1,0.5704
+2018,48391,Rural,Refugio County,Texas,8.1,0.9414
+2018,49039,Rural,Sanpete County,Utah,8.1,0.6019
+2018,51049,Rural,Cumberland County,Virginia,8.1,0.5831
+2018,51087,Urban,Henrico County,Virginia,8.1,0.2573
+2018,55105,Urban,Rock County,Wisconsin,8.1,0.4561
+2018,1103,Urban,Morgan County,Alabama,8.2,0.6895
+2018,1117,Urban,Shelby County,Alabama,8.2,0.1169
+2018,5089,Rural,Marion County,Arkansas,8.2,0.5175
+2018,6107,Urban,Tulare County,California,8.2,0.9417
+2018,8053,Rural,Hinsdale County,Colorado,8.2,0.0624
+2018,13143,Urban,Haralson County,Georgia,8.2,0.5427
+2018,15007,Urban,Kauai County,Hawaii,8.2,0.3099
+2018,17019,Urban,Champaign County,Illinois,8.2,0.499
+2018,19033,Urban,Cerro Gordo County,Iowa,8.2,0.2497
+2018,21015,Urban,Boone County,Kentucky,8.2,0.1277
+2018,24017,Urban,Charles County,Maryland,8.2,0.1723
+2018,27091,Rural,Martin County,Minnesota,8.2,0.1933
+2018,27127,Rural,Redwood County,Minnesota,8.2,0.2293
+2018,29039,Rural,Cedar County,Missouri,8.2,0.6411
+2018,31107,Rural,Knox County,Nebraska,8.2,0.3277
+2018,33017,Urban,Strafford County,New Hampshire,8.2,0.1748
+2018,36051,Urban,Livingston County,New York,8.2,0.3424
+2018,36075,Urban,Oswego County,New York,8.2,0.6497
+2018,36085,Urban,Richmond County,New York,8.2,0.4764
+2018,39055,Urban,Geauga County,Ohio,8.2,0.0901
+2018,39063,Urban,Hancock County,Ohio,8.2,0.2111
+2018,40057,Rural,Harmon County,Oklahoma,8.2,0.8108
+2018,41029,Urban,Jackson County,Oregon,8.2,0.7354
+2018,42089,Urban,Monroe County,Pennsylvania,8.2,0.3064
+2018,42103,Urban,Pike County,Pennsylvania,8.2,0.1287
+2018,42111,Urban,Somerset County,Pennsylvania,8.2,0.4226
+2018,42123,Urban,Warren County,Pennsylvania,8.2,0.2134
+2018,46109,Rural,Roberts County,South Dakota,8.2,0.7178
+2018,48023,Rural,Baylor County,Texas,8.2,0.1554
+2018,49003,Urban,Box Elder County,Utah,8.2,0.1592
+2018,51153,Urban,Prince William County,Virginia,8.2,0.3022
+2018,51157,Urban,Rappahannock County,Virginia,8.2,0.0213
+2018,51570,Urban,Colonial Heights City,Virginia,8.2,0.5685
+2018,53011,Urban,Clark County,Washington,8.2,0.2857
+2018,53039,Rural,Klickitat County,Washington,8.2,0.5723
+2018,53059,Urban,Skamania County,Washington,8.2,0.2194
+2018,55031,Urban,Douglas County,Wisconsin,8.2,0.2748
+2018,55111,Urban,Sauk County,Wisconsin,8.2,0.2344
+2018,5071,Rural,Johnson County,Arkansas,8.3,0.8768
+2018,5117,Rural,Prairie County,Arkansas,8.3,0.6548
+2018,6029,Urban,Kern County,California,8.3,0.9659
+2018,6051,Rural,Mono County,California,8.3,0.1408
+2018,12069,Urban,Lake County,Florida,8.3,0.6029
+2018,12119,Urban,Sumter County,Florida,8.3,0.236
+2018,12129,Urban,Wakulla County,Florida,8.3,0.4032
+2018,13137,Urban,Habersham County,Georgia,8.3,0.7146
+2018,17031,Urban,Cook County,Illinois,8.3,0.6755
+2018,17053,Urban,Ford County,Illinois,8.3,0.3051
+2018,18033,Urban,Dekalb County,Indiana,8.3,0.2334
+2018,18043,Urban,Floyd County,Indiana,8.3,0.1669
+2018,19035,Rural,Cherokee County,Iowa,8.3,0.1701
+2018,19105,Urban,Jones County,Iowa,8.3,0.1924
+2018,21027,Rural,Breckinridge County,Kentucky,8.3,0.7376
+2018,26069,Rural,Iosco County,Michigan,8.3,0.4494
+2018,26151,Rural,Sanilac County,Michigan,8.3,0.4834
+2018,27071,Rural,Koochiching County,Minnesota,8.3,0.4366
+2018,27161,Rural,Waseca County,Minnesota,8.3,0.2503
+2018,29187,Urban,St. Francois County,Missouri,8.3,0.7016
+2018,35009,Urban,Curry County,New Mexico,8.3,0.8774
+2018,35053,Rural,Socorro County,New Mexico,8.3,0.9745
+2018,36093,Urban,Schenectady County,New York,8.3,0.3943
+2018,37105,Urban,Lee County,North Carolina,8.3,0.8481
+2018,37193,Urban,Wilkes County,North Carolina,8.3,0.6924
+2018,38055,Rural,Mclean County,North Dakota,8.3,0.0834
+2018,38059,Urban,Morton County,North Dakota,8.3,0.1035
+2018,40139,Urban,Texas County,Oklahoma,8.3,0.821
+2018,41059,Urban,Umatilla County,Oregon,8.3,0.9688
+2018,42093,Urban,Montour County,Pennsylvania,8.3,0.3111
+2018,45091,Urban,York County,South Carolina,8.3,0.3662
+2018,46119,Urban,Sully County,South Dakota,8.3,0.0073
+2018,48127,Rural,Dimmit County,Texas,8.3,0.9997
+2018,48309,Urban,Mclennan County,Texas,8.3,0.8436
+2018,51840,Urban,Winchester City,Virginia,8.3,0.722
+2018,53049,Rural,Pacific County,Washington,8.3,0.736
+2018,55077,Rural,Marquette County,Wisconsin,8.3,0.2596
+2018,56031,Rural,Platte County,Wyoming,8.3,0.0952
+2018,5023,Rural,Cleburne County,Arkansas,8.4,0.2083
+2018,8085,Urban,Montrose County,Colorado,8.4,0.7153
+2018,12093,Urban,Okeechobee County,Florida,8.4,0.9465
+2018,16039,Urban,Elmore County,Idaho,8.4,0.5882
+2018,16045,Urban,Gem County,Idaho,8.4,0.6627
+2018,17049,Urban,Effingham County,Illinois,8.4,0.199
+2018,18107,Urban,Montgomery County,Indiana,8.4,0.3685
+2018,18113,Urban,Noble County,Indiana,8.4,0.4742
+2018,19019,Rural,Buchanan County,Iowa,8.4,0.0662
+2018,19027,Rural,Carroll County,Iowa,8.4,0.0455
+2018,24023,Rural,Garrett County,Maryland,8.4,0.1812
+2018,26017,Urban,Bay County,Michigan,8.4,0.4404
+2018,26133,Rural,Osceola County,Michigan,8.4,0.7401
+2018,30041,Rural,Hill County,Montana,8.4,0.6984
+2018,32003,Urban,Clark County,Nevada,8.4,0.7404
+2018,34023,Urban,Middlesex County,New Jersey,8.4,0.4659
+2018,37081,Urban,Guilford County,North Carolina,8.4,0.6369
+2018,37145,Urban,Person County,North Carolina,8.4,0.7732
+2018,39035,Urban,Cuyahoga County,Ohio,8.4,0.6809
+2018,40003,Rural,Alfalfa County,Oklahoma,8.4,0.2535
+2018,40011,Rural,Blaine County,Oklahoma,8.4,0.6678
+2018,40111,Urban,Okmulgee County,Oklahoma,8.4,0.8659
+2018,42017,Urban,Bucks County,Pennsylvania,8.4,0.0831
+2018,46091,Rural,Marshall County,South Dakota,8.4,0.2131
+2018,47121,Rural,Meigs County,Tennessee,8.4,0.4933
+2018,48457,Rural,Tyler County,Texas,8.4,0.8834
+2018,51101,Urban,King William County,Virginia,8.4,0.0357
+2018,51155,Urban,Pulaski County,Virginia,8.4,0.4831
+2018,51177,Urban,Spotsylvania County,Virginia,8.4,0.2159
+2018,1027,Rural,Clay County,Alabama,8.5,0.564
+2018,2130,Urban,Ketchikan Gateway Borough,Alaska,8.5,0.5548
+2018,4007,Urban,Gila County,Arizona,8.5,0.899
+2018,5005,Urban,Baxter County,Arkansas,8.5,0.2793
+2018,5013,Urban,Calhoun County,Arkansas,8.5,0.5481
+2018,5073,Rural,Lafayette County,Arkansas,8.5,0.7898
+2018,8105,Rural,Rio Grande County,Colorado,8.5,0.9586
+2018,9009,Urban,New Haven County,Connecticut,8.5,0.5223
+2018,16037,Rural,Custer County,Idaho,8.5,0.4369
+2018,16043,Urban,Fremont County,Idaho,8.5,0.5137
+2018,18037,Urban,Dubois County,Indiana,8.5,0.208
+2018,19117,Rural,Lucas County,Iowa,8.5,0.2755
+2018,20005,Urban,Atchison County,Kansas,8.5,0.4911
+2018,20113,Urban,Mcpherson County,Kansas,8.5,0.1067
+2018,21031,Urban,Butler County,Kentucky,8.5,0.792
+2018,21205,Rural,Rowan County,Kentucky,8.5,0.7557
+2018,24005,Urban,Baltimore County,Maryland,8.5,0.3818
+2018,27089,Rural,Marshall County,Minnesota,8.5,0.1411
+2018,29197,Urban,Schuyler County,Missouri,8.5,0.3831
+2018,30019,Rural,Daniels County,Montana,8.5,0.0242
+2018,30039,Rural,Granite County,Montana,8.5,0.0764
+2018,30101,Rural,Toole County,Montana,8.5,0.4768
+2018,31079,Urban,Hall County,Nebraska,8.5,0.6701
+2018,31185,Rural,York County,Nebraska,8.5,0.1828
+2018,37023,Urban,Burke County,North Carolina,8.5,0.8487
+2018,38049,Urban,Mchenry County,North Dakota,8.5,0.0296
+2018,41019,Urban,Douglas County,Oregon,8.5,0.7277
+2018,42009,Rural,Bedford County,Pennsylvania,8.5,0.2729
+2018,45045,Urban,Greenville County,South Carolina,8.5,0.5038
+2018,48015,Urban,Austin County,Texas,8.5,0.4936
+2018,48319,Rural,Mason County,Texas,8.5,0.357
+2018,48475,Rural,Ward County,Texas,8.5,0.6494
+2018,49027,Rural,Millard County,Utah,8.5,0.3554
+2018,53071,Urban,Walla Walla County,Washington,8.5,0.6831
+2018,55013,Rural,Burnett County,Wisconsin,8.5,0.1672
+2018,56017,Rural,Hot Springs County,Wyoming,8.5,0.1229
+2018,2150,Rural,Kodiak Island Borough,Alaska,8.6,0.7006
+2018,6055,Urban,Napa County,California,8.6,0.5051
+2018,12067,Rural,Lafayette County,Florida,8.6,0.9806
+2018,13019,Rural,Berrien County,Georgia,8.6,0.85
+2018,13023,Rural,Bleckley County,Georgia,8.6,0.7395
+2018,17033,Rural,Crawford County,Illinois,8.6,0.3838
+2018,17151,Rural,Pope County,Illinois,8.6,0.4545
+2018,19063,Rural,Emmet County,Iowa,8.6,0.3946
+2018,19177,Rural,Van Buren County,Iowa,8.6,0.2465
+2018,19197,Rural,Wright County,Iowa,8.6,0.4803
+2018,20013,Rural,Brown County,Kansas,8.6,0.2717
+2018,20041,Rural,Dickinson County,Kansas,8.6,0.3322
+2018,20149,Urban,Pottawatomie County,Kansas,8.6,0.1487
+2018,27025,Urban,Chisago County,Minnesota,8.6,0.0592
+2018,27159,Rural,Wadena County,Minnesota,8.6,0.6554
+2018,29095,Urban,Jackson County,Missouri,8.6,0.5354
+2018,29103,Rural,Knox County,Missouri,8.6,0.557
+2018,29127,Urban,Marion County,Missouri,8.6,0.5459
+2018,31019,Urban,Buffalo County,Nebraska,8.6,0.2656
+2018,31111,Urban,Lincoln County,Nebraska,8.6,0.3675
+2018,31149,Rural,Rock County,Nebraska,8.6,0.0092
+2018,31155,Urban,Saunders County,Nebraska,8.6,0.0424
+2018,36011,Urban,Cayuga County,New York,8.6,0.5025
+2018,37025,Urban,Cabarrus County,North Carolina,8.6,0.4175
+2018,37029,Urban,Camden County,North Carolina,8.6,0.307
+2018,38035,Urban,Grand Forks County,North Dakota,8.6,0.3029
+2018,39007,Urban,Ashtabula County,Ohio,8.6,0.7857
+2018,39033,Urban,Crawford County,Ohio,8.6,0.3191
+2018,39111,Rural,Monroe County,Ohio,8.6,0.443
+2018,39115,Rural,Morgan County,Ohio,8.6,0.5659
+2018,41043,Urban,Linn County,Oregon,8.6,0.679
+2018,41045,Urban,Malheur County,Oregon,8.6,0.9965
+2018,42071,Urban,Lancaster County,Pennsylvania,8.6,0.4573
+2018,42099,Urban,Perry County,Pennsylvania,8.6,0.1089
+2018,48115,Urban,Dawson County,Texas,8.6,0.9475
+2018,50005,Rural,Caledonia County,Vermont,8.6,0.2672
+2018,2050,Rural,Bethel Census Area,Alaska,8.7,0.9748
+2018,5011,Rural,Bradley County,Arkansas,8.7,0.9803
+2018,5075,Rural,Lawrence County,Arkansas,8.7,0.6471
+2018,5079,Urban,Lincoln County,Arkansas,8.7,0.8134
+2018,6033,Urban,Lake County,California,8.7,0.9178
+2018,8099,Rural,Prowers County,Colorado,8.7,0.9392
+2018,9015,Urban,Windham County,Connecticut,8.7,0.4232
+2018,12055,Urban,Highlands County,Florida,8.7,0.8729
+2018,17093,Urban,Kendall County,Illinois,8.7,0.1398
+2018,17109,Urban,Mcdonough County,Illinois,8.7,0.5166
+2018,18041,Urban,Fayette County,Indiana,8.7,0.6108
+2018,19155,Urban,Pottawattamie County,Iowa,8.7,0.4599
+2018,19159,Rural,Ringgold County,Iowa,8.7,0.1299
+2018,20125,Urban,Montgomery County,Kansas,8.7,0.8029
+2018,21037,Urban,Campbell County,Kentucky,8.7,0.2188
+2018,21121,Urban,Knox County,Kentucky,8.7,0.8325
+2018,21139,Urban,Livingston County,Kentucky,8.7,0.264
+2018,21175,Rural,Morgan County,Kentucky,8.7,0.8293
+2018,21191,Urban,Pendleton County,Kentucky,8.7,0.415
+2018,22075,Urban,Plaquemines Parish,Louisiana,8.7,0.7061
+2018,26031,Rural,Cheboygan County,Michigan,8.7,0.286
+2018,26075,Urban,Jackson County,Michigan,8.7,0.5506
+2018,27065,Rural,Kanabec County,Minnesota,8.7,0.2841
+2018,28129,Rural,Smith County,Mississippi,8.7,0.4732
+2018,28155,Rural,Webster County,Mississippi,8.7,0.5962
+2018,29113,Urban,Lincoln County,Missouri,8.7,0.2939
+2018,31003,Rural,Antelope County,Nebraska,8.7,0.1032
+2018,32019,Urban,Lyon County,Nevada,8.7,0.5783
+2018,35039,Urban,Rio Arriba County,New Mexico,8.7,No Data
+2018,36121,Rural,Wyoming County,New York,8.7,0.3121
+2018,37019,Urban,Brunswick County,North Carolina,8.7,0.3583
+2018,39031,Urban,Coshocton County,Ohio,8.7,0.6207
+2018,39081,Urban,Jefferson County,Ohio,8.7,0.5494
+2018,46077,Rural,Kingsbury County,South Dakota,8.7,0.0223
+2018,47017,Rural,Carroll County,Tennessee,8.7,0.7443
+2018,47057,Urban,Grainger County,Tennessee,8.7,0.593
+2018,47099,Urban,Lawrence County,Tennessee,8.7,0.8318
+2018,48071,Urban,Chambers County,Texas,8.7,0.4108
+2018,48099,Urban,Coryell County,Texas,8.7,0.7809
+2018,48183,Urban,Gregg County,Texas,8.7,0.8825
+2018,48325,Urban,Medina County,Texas,8.7,0.6697
+2018,51023,Urban,Botetourt County,Virginia,8.7,0.0414
+2018,51630,Urban,Fredericksburg City,Virginia,8.7,0.5631
+2018,54105,Urban,Wirt County,West Virginia,8.7,0.3748
+2018,55079,Urban,Milwaukee County,Wisconsin,8.7,0.8061
+2018,55115,Urban,Shawano County,Wisconsin,8.7,0.1382
+2018,55129,Rural,Washburn County,Wisconsin,8.7,0.108
+2018,12005,Urban,Bay County,Florida,8.8,0.6076
+2018,12131,Urban,Walton County,Florida,8.8,0.5822
+2018,13167,Urban,Johnson County,Georgia,8.8,0.9061
+2018,17017,Rural,Cass County,Illinois,8.8,0.6971
+2018,17201,Urban,Winnebago County,Illinois,8.8,0.7204
+2018,18157,Urban,Tippecanoe County,Indiana,8.8,0.493
+2018,18179,Urban,Wells County,Indiana,8.8,0.1439
+2018,19059,Urban,Dickinson County,Iowa,8.8,0.0917
+2018,19075,Urban,Grundy County,Iowa,8.8,0.0038
+2018,20039,Rural,Decatur County,Kansas,8.8,0.1573
+2018,22063,Urban,Livingston Parish,Louisiana,8.8,0.4309
+2018,23025,Rural,Somerset County,Maine,8.8,0.622
+2018,24037,Urban,St. Mary&#39;s County,Maryland,8.8,0.2086
+2018,32029,Urban,Storey County,Nevada,8.8,0.0717
+2018,36019,Urban,Clinton County,New York,8.8,0.5312
+2018,36037,Urban,Genesee County,New York,8.8,0.1879
+2018,38003,Rural,Barnes County,North Dakota,8.8,0.1245
+2018,39045,Urban,Fairfield County,Ohio,8.8,0.2354
+2018,40049,Rural,Garvin County,Oklahoma,8.8,0.5115
+2018,40113,Urban,Osage County,Oklahoma,8.8,0.6239
+2018,41037,Rural,Lake County,Oregon,8.8,0.7608
+2018,42105,Rural,Potter County,Pennsylvania,8.8,0.4417
+2018,47189,Urban,Wilson County,Tennessee,8.8,0.1465
+2018,48243,Rural,Jeff Davis County,Texas,8.8,0.3611
+2018,51067,Urban,Franklin County,Virginia,8.8,0.401
+2018,51660,Urban,Harrisonburg City,Virginia,8.8,0.793
+2018,53003,Urban,Asotin County,Washington,8.8,0.4248
+2018,55137,Rural,Waushara County,Wisconsin,8.8,0.3653
+2018,12045,Urban,Gulf County,Florida,8.9,0.592
+2018,13059,Urban,Clarke County,Georgia,8.9,0.7675
+2018,13065,Rural,Clinch County,Georgia,8.9,0.9777
+2018,13077,Urban,Coweta County,Georgia,8.9,0.2427
+2018,13105,Rural,Elbert County,Georgia,8.9,0.8338
+2018,13139,Urban,Hall County,Georgia,8.9,0.6618
+2018,16053,Urban,Jerome County,Idaho,8.9,0.6736
+2018,17197,Urban,Will County,Illinois,8.9,0.2022
+2018,18003,Urban,Allen County,Indiana,8.9,0.5236
+2018,18065,Urban,Henry County,Indiana,8.9,0.3793
+2018,20189,Rural,Stevens County,Kansas,8.9,0.6739
+2018,20201,Rural,Washington County,Kansas,8.9,0.1481
+2018,21003,Urban,Allen County,Kentucky,8.9,0.6796
+2018,21069,Rural,Fleming County,Kentucky,8.9,0.771
+2018,26097,Rural,Mackinac County,Michigan,8.9,0.6452
+2018,28059,Urban,Jackson County,Mississippi,8.9,0.5433
+2018,29013,Urban,Bates County,Missouri,8.9,0.3857
+2018,31041,Rural,Custer County,Nebraska,8.9,0.1818
+2018,31053,Urban,Dodge County,Nebraska,8.9,0.5691
+2018,31137,Rural,Phelps County,Nebraska,8.9,0.1226
+2018,31169,Rural,Thayer County,Nebraska,8.9,0.058
+2018,35037,Rural,Quay County,New Mexico,8.9,0.8096
+2018,36099,Urban,Seneca County,New York,8.9,0.449
+2018,37043,Rural,Clay County,North Carolina,8.9,0.2191
+2018,38105,Urban,Williams County,North Dakota,8.9,0.251
+2018,39039,Urban,Defiance County,Ohio,8.9,0.2166
+2018,39049,Urban,Franklin County,Ohio,8.9,0.5124
+2018,39061,Urban,Hamilton County,Ohio,8.9,0.5369
+2018,39069,Rural,Henry County,Ohio,8.9,0.1557
+2018,39119,Urban,Muskingum County,Ohio,8.9,0.5981
+2018,39153,Urban,Summit County,Ohio,8.9,0.3334
+2018,42051,Urban,Fayette County,Pennsylvania,8.9,0.6248
+2018,45079,Urban,Richland County,South Carolina,8.9,0.6309
+2018,48087,Rural,Collingsworth County,Texas,8.9,0.8876
+2018,48141,Urban,El Paso County,Texas,8.9,0.9535
+2018,51109,Rural,Louisa County,Virginia,8.9,0.3325
+2018,51185,Urban,Tazewell County,Virginia,8.9,0.5936
+2018,51193,Rural,Westmoreland County,Virginia,8.9,0.292
+2018,6019,Urban,Fresno County,California,9,0.9611
+2018,16005,Urban,Bannock County,Idaho,9,0.579
+2018,16007,Rural,Bear Lake County,Idaho,9,0.2143
+2018,18085,Urban,Kosciusko County,Indiana,9,0.4608
+2018,19083,Rural,Hardin County,Iowa,9,0.1242
+2018,19141,Rural,O&#39;brien County,Iowa,9,0.2322
+2018,19193,Urban,Woodbury County,Iowa,9,0.6968
+2018,20093,Urban,Kearny County,Kansas,9,0.4656
+2018,20101,Rural,Lane County,Kansas,9,0.0303
+2018,20129,Rural,Morton County,Kansas,9,0.408
+2018,20171,Rural,Scott County,Kansas,9,0.3061
+2018,20193,Rural,Thomas County,Kansas,9,0.0704
+2018,21163,Urban,Meade County,Kentucky,9,0.3178
+2018,21179,Urban,Nelson County,Kentucky,9,0.2895
+2018,24001,Urban,Allegany County,Maryland,9,0.621
+2018,26099,Urban,Macomb County,Michigan,9,0.3296
+2018,27143,Urban,Sibley County,Minnesota,9,0.1315
+2018,31073,Urban,Gosper County,Nebraska,9,0.0051
+2018,33007,Urban,Coos County,New Hampshire,9,0.529
+2018,36045,Urban,Jefferson County,New York,9,0.6484
+2018,38011,Rural,Bowman County,North Dakota,9,0.1755
+2018,39057,Urban,Greene County,Ohio,9,0.2076
+2018,39133,Urban,Portage County,Ohio,9,0.2455
+2018,40039,Urban,Custer County,Oklahoma,9,0.7503
+2018,40043,Rural,Dewey County,Oklahoma,9,0.2248
+2018,41049,Urban,Morrow County,Oregon,9,0.7643
+2018,42041,Urban,Cumberland County,Pennsylvania,9,0.1615
+2018,46027,Urban,Clay County,South Dakota,9,0.2468
+2018,47055,Rural,Giles County,Tennessee,9,0.6032
+2018,48047,Rural,Brooks County,Texas,9,1
+2018,48053,Rural,Burnet County,Texas,9,0.5299
+2018,48355,Urban,Nueces County,Texas,9,0.8363
+2018,51550,Urban,Chesapeake City,Virginia,9,0.2592
+2018,53021,Urban,Franklin County,Washington,9,0.8691
+2018,55095,Rural,Polk County,Wisconsin,9,0.0873
+2018,1001,Urban,Autauga County,Alabama,9.1,0.4354
+2018,2016,Rural,Aleutians West Census Area,Alaska,9.1,0.4927
+2018,2122,Rural,Kenai Peninsula Borough,Alaska,9.1,0.4073
+2018,2185,Rural,North Slope Borough,Alaska,9.1,0.7344
+2018,8033,Rural,Dolores County,Colorado,9.1,0.1516
+2018,8057,Rural,Jackson County,Colorado,9.1,0.1137
+2018,12029,Rural,Dixie County,Florida,9.1,0.8994
+2018,16011,Urban,Bingham County,Idaho,9.1,0.507
+2018,18127,Urban,Porter County,Indiana,9.1,0.1478
+2018,20023,Rural,Cheyenne County,Kansas,9.1,0.1003
+2018,20087,Urban,Jefferson County,Kansas,9.1,0.0548
+2018,21155,Rural,Marion County,Kentucky,9.1,0.9057
+2018,21173,Urban,Montgomery County,Kentucky,9.1,0.7987
+2018,21217,Urban,Taylor County,Kentucky,9.1,0.721
+2018,23001,Urban,Androscoggin County,Maine,9.1,0.5567
+2018,23021,Rural,Piscataquis County,Maine,9.1,0.4898
+2018,26071,Rural,Iron County,Michigan,9.1,0.2825
+2018,29017,Urban,Bollinger County,Missouri,9.1,0.4793
+2018,29075,Rural,Gentry County,Missouri,9.1,0.4389
+2018,29109,Rural,Lawrence County,Missouri,9.1,0.7866
+2018,30061,Rural,Mineral County,Montana,9.1,0.5621
+2018,30073,Rural,Pondera County,Montana,9.1,0.8296
+2018,31015,Rural,Boyd County,Nebraska,9.1,0.092
+2018,31035,Rural,Clay County,Nebraska,9.1,0.1646
+2018,31049,Rural,Deuel County,Nebraska,9.1,0.165
+2018,31055,Urban,Douglas County,Nebraska,9.1,0.4669
+2018,31153,Urban,Sarpy County,Nebraska,9.1,0.0971
+2018,36013,Urban,Chautauqua County,New York,9.1,0.7248
+2018,39151,Urban,Stark County,Ohio,9.1,0.3666
+2018,39169,Urban,Wayne County,Ohio,9.1,0.479
+2018,40037,Urban,Creek County,Oklahoma,9.1,0.4901
+2018,42069,Urban,Lackawanna County,Pennsylvania,9.1,0.5252
+2018,46005,Urban,Beadle County,South Dakota,9.1,0.6506
+2018,47093,Urban,Knox County,Tennessee,9.1,0.3035
+2018,48151,Rural,Fisher County,Texas,9.1,0.4312
+2018,48459,Urban,Upshur County,Texas,9.1,0.5898
+2018,48501,Rural,Yoakum County,Texas,9.1,0.492
+2018,49045,Urban,Tooele County,Utah,9.1,0.3143
+2018,51051,Urban,Dickenson County,Virginia,9.1,0.6806
+2018,51073,Urban,Gloucester County,Virginia,9.1,0.0366
+2018,51171,Rural,Shenandoah County,Virginia,9.1,0.3643
+2018,51750,Urban,Radford City,Virginia,9.1,0.4124
+2018,53001,Urban,Adams County,Washington,9.1,0.9621
+2018,53069,Rural,Wahkiakum County,Washington,9.1,0.1809
+2018,54011,Urban,Cabell County,West Virginia,9.1,0.6245
+2018,54037,Urban,Jefferson County,West Virginia,9.1,0.2255
+2018,2105,Rural,Hoonah-Angoon Census Area,Alaska,9.2,0.4178
+2018,5081,Urban,Little River County,Arkansas,9.2,0.6306
+2018,8075,Urban,Logan County,Colorado,9.2,0.628
+2018,16019,Urban,Bonneville County,Idaho,9.2,0.3634
+2018,16031,Urban,Cassia County,Idaho,9.2,0.6732
+2018,17167,Urban,Sangamon County,Illinois,9.2,0.4357
+2018,19163,Urban,Scott County,Iowa,9.2,0.2659
+2018,20007,Rural,Barber County,Kansas,9.2,0.2803
+2018,21141,Rural,Logan County,Kentucky,9.2,0.5287
+2018,22091,Urban,St. Helena Parish,Louisiana,9.2,0.9
+2018,26057,Urban,Gratiot County,Michigan,9.2,0.6035
+2018,28091,Rural,Marion County,Mississippi,9.2,0.935
+2018,29065,Rural,Dent County,Missouri,9.2,0.6312
+2018,29213,Urban,Taney County,Missouri,9.2,0.8217
+2018,31059,Rural,Fillmore County,Nebraska,9.2,0.0618
+2018,36081,Urban,Queens County,New York,9.2,0.6201
+2018,37059,Urban,Davie County,North Carolina,9.2,0.4411
+2018,38071,Rural,Ramsey County,North Dakota,9.2,0.3532
+2018,39009,Urban,Athens County,Ohio,9.2,0.7325
+2018,39017,Urban,Butler County,Ohio,9.2,0.3618
+2018,39155,Urban,Trumbull County,Ohio,9.2,0.464
+2018,40127,Rural,Pushmataha County,Oklahoma,9.2,0.7863
+2018,42107,Urban,Schuylkill County,Pennsylvania,9.2,0.4506
+2018,45003,Urban,Aiken County,South Carolina,9.2,0.6666
+2018,45035,Urban,Dorchester County,South Carolina,9.2,0.4188
+2018,48113,Urban,Dallas County,Texas,9.2,0.7538
+2018,49025,Rural,Kane County,Utah,9.2,0.1054
+2018,51159,Rural,Richmond County,Virginia,9.2,0.6143
+2018,53025,Urban,Grant County,Washington,9.2,0.8452
+2018,54061,Urban,Monongalia County,West Virginia,9.2,0.4111
+2018,55049,Urban,Iowa County,Wisconsin,9.2,0.0131
+2018,55067,Rural,Langlade County,Wisconsin,9.2,0.3535
+2018,2070,Rural,Dillingham Census Area,Alaska,9.3,0.8682
+2018,5119,Urban,Pulaski County,Arkansas,9.3,0.6287
+2018,8071,Rural,Las Animas County,Colorado,9.3,0.8373
+2018,12019,Urban,Clay County,Florida,9.3,0.3803
+2018,12065,Urban,Jefferson County,Florida,9.3,0.5748
+2018,12077,Rural,Liberty County,Florida,9.3,0.8334
+2018,15001,Urban,Hawaii County,Hawaii,9.3,0.5771
+2018,18181,Rural,White County,Indiana,9.3,0.2439
+2018,19025,Rural,Calhoun County,Iowa,9.3,0.158
+2018,20015,Urban,Butler County,Kansas,9.3,0.2624
+2018,20191,Urban,Sumner County,Kansas,9.3,0.2223
+2018,21077,Urban,Gallatin County,Kentucky,9.3,0.6124
+2018,21085,Rural,Grayson County,Kentucky,9.3,0.6096
+2018,26077,Urban,Kalamazoo County,Michigan,9.3,0.407
+2018,28047,Urban,Harrison County,Mississippi,9.3,0.8838
+2018,28157,Rural,Wilkinson County,Mississippi,9.3,0.9169
+2018,29031,Urban,Cape Girardeau County,Missouri,9.3,0.4118
+2018,29077,Urban,Greene County,Missouri,9.3,0.4395
+2018,29205,Rural,Shelby County,Missouri,9.3,0.3984
+2018,31081,Urban,Hamilton County,Nebraska,9.3,0.0089
+2018,36095,Urban,Schoharie County,New York,9.3,0.4013
+2018,36097,Rural,Schuyler County,New York,9.3,0.3691
+2018,37147,Urban,Pitt County,North Carolina,9.3,0.8242
+2018,37157,Urban,Rockingham County,North Carolina,9.3,0.7857
+2018,39027,Urban,Clinton County,Ohio,9.3,0.4424
+2018,39089,Urban,Licking County,Ohio,9.3,0.229
+2018,39143,Urban,Sandusky County,Ohio,9.3,0.3987
+2018,45087,Urban,Union County,South Carolina,9.3,0.8678
+2018,46125,Urban,Turner County,South Dakota,9.3,0.108
+2018,48079,Rural,Cochran County,Texas,9.3,0.8608
+2018,48219,Urban,Hockley County,Texas,9.3,0.9025
+2018,51071,Urban,Giles County,Virginia,9.3,0.2742
+2018,5039,Rural,Dallas County,Arkansas,9.4,0.8777
+2018,5065,Rural,Izard County,Arkansas,9.4,0.5697
+2018,8079,Rural,Mineral County,Colorado,9.4,0.0261
+2018,12053,Urban,Hernando County,Florida,9.4,0.549
+2018,17073,Urban,Henry County,Illinois,9.4,0.201
+2018,18163,Urban,Vanderburgh County,Indiana,9.4,0.5242
+2018,19073,Rural,Greene County,Iowa,9.4,0.1978
+2018,20053,Rural,Ellsworth County,Kansas,9.4,0.3952
+2018,20089,Rural,Jewell County,Kansas,9.4,0.0876
+2018,20123,Rural,Mitchell County,Kansas,9.4,0.2844
+2018,20141,Rural,Osborne County,Kansas,9.4,0.0723
+2018,21145,Urban,Mccracken County,Kentucky,9.4,0.4153
+2018,21149,Urban,Mclean County,Kentucky,9.4,0.4217
+2018,22015,Urban,Bossier Parish,Louisiana,9.4,0.5876
+2018,27087,Rural,Mahnomen County,Minnesota,9.4,0.8717
+2018,28105,Urban,Oktibbeha County,Mississippi,9.4,0.642
+2018,29157,Rural,Perry County,Missouri,9.4,0.2312
+2018,31013,Rural,Box Butte County,Nebraska,9.4,0.3586
+2018,31151,Rural,Saline County,Nebraska,9.4,0.5978
+2018,34005,Urban,Burlington County,New Jersey,9.4,0.2054
+2018,41021,Rural,Gilliam County,Oregon,9.4,0.5092
+2018,42085,Urban,Mercer County,Pennsylvania,9.4,0.542
+2018,45017,Urban,Calhoun County,South Carolina,9.4,0.5627
+2018,45047,Urban,Greenwood County,South Carolina,9.4,0.9344
+2018,45051,Urban,Horry County,South Carolina,9.4,0.6102
+2018,45063,Urban,Lexington County,South Carolina,9.4,0.442
+2018,45073,Urban,Oconee County,South Carolina,9.4,0.7293
+2018,47033,Urban,Crockett County,Tennessee,9.4,0.7812
+2018,47159,Urban,Smith County,Tennessee,9.4,0.2608
+2018,48147,Rural,Fannin County,Texas,9.4,0.5758
+2018,53045,Urban,Mason County,Washington,9.4,0.6382
+2018,53051,Urban,Pend Oreille County,Washington,9.4,0.536
+2018,4021,Urban,Pinal County,Arizona,9.5,0.8592
+2018,6101,Urban,Sutter County,California,9.5,0.8822
+2018,12007,Rural,Bradford County,Florida,9.5,0.9264
+2018,12033,Urban,Escambia County,Florida,9.5,0.4863
+2018,13119,Rural,Franklin County,Georgia,9.5,0.8462
+2018,13281,Rural,Towns County,Georgia,9.5,0.3258
+2018,16075,Urban,Payette County,Idaho,9.5,0.601
+2018,21083,Urban,Graves County,Kentucky,9.5,0.7752
+2018,21093,Urban,Hardin County,Kentucky,9.5,0.5672
+2018,21111,Urban,Jefferson County,Kentucky,9.5,0.5682
+2018,21143,Rural,Lyon County,Kentucky,9.5,0.3252
+2018,21169,Urban,Metcalfe County,Kentucky,9.5,0.6812
+2018,22103,Urban,St. Tammany Parish,Louisiana,9.5,0.3105
+2018,22125,Urban,West Feliciana Parish,Louisiana,9.5,0.6901
+2018,26145,Urban,Saginaw County,Michigan,9.5,0.7048
+2018,28071,Urban,Lafayette County,Mississippi,9.5,0.5096
+2018,29063,Urban,Dekalb County,Missouri,9.5,0.4054
+2018,31131,Rural,Otoe County,Nebraska,9.5,0.2287
+2018,36089,Urban,St. Lawrence County,New York,9.5,0.7475
+2018,37097,Urban,Iredell County,North Carolina,9.5,0.3745
+2018,39019,Urban,Carroll County,Ohio,9.5,0.1538
+2018,39083,Urban,Knox County,Ohio,9.5,0.2943
+2018,40085,Rural,Love County,Oklahoma,9.5,0.6293
+2018,42039,Urban,Crawford County,Pennsylvania,9.5,0.5064
+2018,42109,Urban,Snyder County,Pennsylvania,9.5,0.2299
+2018,46087,Urban,Mccook County,South Dakota,9.5,0.2229
+2018,47047,Urban,Fayette County,Tennessee,9.5,0.2554
+2018,48081,Rural,Coke County,Texas,9.5,0.6204
+2018,48111,Rural,Dallam County,Texas,9.5,0.5503
+2018,48463,Urban,Uvalde County,Texas,9.5,0.9548
+2018,48465,Urban,Val Verde County,Texas,9.5,0.9678
+2018,51041,Urban,Chesterfield County,Virginia,9.5,0.1799
+2018,51187,Urban,Warren County,Virginia,9.5,0.2564
+2018,54007,Rural,Braxton County,West Virginia,9.5,0.6646
+2018,2158,Rural,Kusilvak Census Area,Alaska,9.6,0.9334
+2018,12123,Rural,Taylor County,Florida,9.6,0.8984
+2018,13015,Urban,Bartow County,Georgia,9.6,0.5914
+2018,13051,Urban,Chatham County,Georgia,9.6,0.6949
+2018,13081,Urban,Crisp County,Georgia,9.6,0.9857
+2018,13103,Urban,Effingham County,Georgia,9.6,0.2363
+2018,13135,Urban,Gwinnett County,Georgia,9.6,0.4347
+2018,16067,Urban,Minidoka County,Idaho,9.6,0.6783
+2018,16069,Urban,Nez Perce County,Idaho,9.6,0.5067
+2018,18059,Urban,Hancock County,Indiana,9.6,0.0169
+2018,18093,Urban,Lawrence County,Indiana,9.6,0.2752
+2018,19023,Rural,Butler County,Iowa,9.6,0.0236
+2018,19107,Rural,Keokuk County,Iowa,9.6,0.0398
+2018,19111,Urban,Lee County,Iowa,9.6,0.5041
+2018,20177,Urban,Shawnee County,Kansas,9.6,0.5099
+2018,21059,Urban,Daviess County,Kentucky,9.6,0.6169
+2018,23029,Rural,Washington County,Maine,9.6,0.6439
+2018,26109,Urban,Menominee County,Michigan,9.6,0.2764
+2018,26117,Urban,Montcalm County,Michigan,9.6,0.6127
+2018,28003,Urban,Alcorn County,Mississippi,9.6,0.6955
+2018,28035,Urban,Forrest County,Mississippi,9.6,0.9366
+2018,29007,Urban,Audrain County,Missouri,9.6,0.615
+2018,29133,Rural,Mississippi County,Missouri,9.6,0.9076
+2018,35021,Rural,Harding County,New Mexico,9.6,0.3615
+2018,37033,Rural,Caswell County,North Carolina,9.6,0.836
+2018,39025,Urban,Clermont County,Ohio,9.6,0.1029
+2018,39043,Urban,Erie County,Ohio,9.6,0.2914
+2018,39047,Urban,Fayette County,Ohio,9.6,0.5016
+2018,40041,Rural,Delaware County,Oklahoma,9.6,0.7697
+2018,40109,Urban,Oklahoma County,Oklahoma,9.6,0.6818
+2018,41069,Rural,Wheeler County,Oregon,9.6,0.3901
+2018,46023,Rural,Charles Mix County,South Dakota,9.6,0.7389
+2018,46035,Urban,Davison County,South Dakota,9.6,0.2338
+2018,48271,Rural,Kinney County,Texas,9.6,0.8561
+2018,48359,Urban,Oldham County,Texas,9.6,0.4322
+2018,48479,Urban,Webb County,Texas,9.6,0.9497
+2018,51149,Urban,Prince George County,Virginia,9.6,0.3175
+2018,51775,Urban,Salem City,Virginia,9.6,0.3089
+2018,55037,Urban,Florence County,Wisconsin,9.6,0.1452
+2018,5045,Urban,Faulkner County,Arkansas,9.7,0.4774
+2018,12083,Urban,Marion County,Florida,9.7,0.7535
+2018,12097,Urban,Osceola County,Florida,9.7,0.8178
+2018,13297,Urban,Walton County,Georgia,9.7,0.293
+2018,16047,Rural,Gooding County,Idaho,9.7,0.7076
+2018,17027,Urban,Clinton County,Illinois,9.7,0.1787
+2018,18165,Urban,Vermillion County,Indiana,9.7,0.4503
+2018,19183,Urban,Washington County,Iowa,9.7,0.2239
+2018,20011,Rural,Bourbon County,Kansas,9.7,0.5828
+2018,20117,Rural,Marshall County,Kansas,9.7,0.1264
+2018,21225,Rural,Union County,Kentucky,9.7,0.5366
+2018,22053,Rural,Jefferson Davis Parish,Louisiana,9.7,0.8105
+2018,22085,Rural,Sabine Parish,Louisiana,9.7,0.8315
+2018,28081,Urban,Lee County,Mississippi,9.7,0.7952
+2018,34011,Urban,Cumberland County,New Jersey,9.7,0.9592
+2018,37013,Urban,Beaufort County,North Carolina,9.7,0.7156
+2018,40099,Rural,Murray County,Oklahoma,9.7,0.7092
+2018,41047,Urban,Marion County,Oregon,9.7,0.8535
+2018,45027,Rural,Clarendon County,South Carolina,9.7,0.9793
+2018,46009,Rural,Bon Homme County,South Dakota,9.7,0.2382
+2018,46057,Rural,Hamlin County,South Dakota,9.7,0.1586
+2018,47065,Urban,Hamilton County,Tennessee,9.7,0.4137
+2018,48089,Rural,Colorado County,Texas,9.7,0.6847
+2018,48287,Rural,Lee County,Texas,9.7,0.6752
+2018,48395,Urban,Robertson County,Texas,9.7,0.7529
+2018,48483,Rural,Wheeler County,Texas,9.7,0.6962
+2018,51047,Urban,Culpeper County,Virginia,9.7,0.4882
+2018,51147,Rural,Prince Edward County,Virginia,9.7,0.7296
+2018,53053,Urban,Pierce County,Washington,9.7,0.4873
+2018,54085,Rural,Ritchie County,West Virginia,9.7,0.364
+2018,4009,Urban,Graham County,Arizona,9.8,0.964
+2018,12079,Rural,Madison County,Florida,9.8,0.9608
+2018,13001,Rural,Appling County,Georgia,9.8,0.9669
+2018,13157,Urban,Jackson County,Georgia,9.8,0.3516
+2018,13181,Urban,Lincoln County,Georgia,9.8,0.5564
+2018,15003,Urban,Honolulu County,Hawaii,9.8,0.472
+2018,16027,Urban,Canyon County,Idaho,9.8,0.7366
+2018,18005,Urban,Bartholomew County,Indiana,9.8,0.3631
+2018,18167,Urban,Vigo County,Indiana,9.8,0.7274
+2018,20065,Rural,Graham County,Kansas,9.8,0.1255
+2018,20137,Rural,Norton County,Kansas,9.8,0.2975
+2018,21073,Urban,Franklin County,Kentucky,9.8,0.5468
+2018,26037,Urban,Clinton County,Michigan,9.8,0.0401
+2018,27105,Urban,Nobles County,Minnesota,9.8,0.815
+2018,29015,Rural,Benton County,Missouri,9.8,0.5513
+2018,29057,Rural,Dade County,Missouri,9.8,0.6637
+2018,30095,Rural,Stillwater County,Montana,9.8,0.036
+2018,31145,Rural,Red Willow County,Nebraska,9.8,0.2373
+2018,36005,Urban,Bronx County,New York,9.8,0.9927
+2018,36041,Rural,Hamilton County,New York,9.8,0.3898
+2018,37001,Urban,Alamance County,North Carolina,9.8,0.7838
+2018,37067,Urban,Forsyth County,North Carolina,9.8,0.6834
+2018,37151,Urban,Randolph County,North Carolina,9.8,0.6965
+2018,38051,Rural,Mcintosh County,North Dakota,9.8,0.1061
+2018,39101,Urban,Marion County,Ohio,9.8,0.6414
+2018,40017,Urban,Canadian County,Oklahoma,9.8,0.2621
+2018,40143,Urban,Tulsa County,Oklahoma,9.8,0.6159
+2018,46123,Rural,Tripp County,South Dakota,9.8,0.3411
+2018,47155,Urban,Sevier County,Tennessee,9.8,0.6111
+2018,48201,Urban,Harris County,Texas,9.8,0.7236
+2018,48407,Rural,San Jacinto County,Texas,9.8,0.6869
+2018,50009,Urban,Essex County,Vermont,9.8,0.2067
+2018,51770,Urban,Roanoke City,Virginia,9.8,0.8038
+2018,53019,Rural,Ferry County,Washington,9.8,0.8223
+2018,53077,Urban,Yakima County,Washington,9.8,0.9277
+2018,1089,Urban,Madison County,Alabama,9.9,0.3076
+2018,2180,Rural,Nome Census Area,Alaska,9.9,0.9299
+2018,5001,Rural,Arkansas County,Arkansas,9.9,0.7787
+2018,5139,Urban,Union County,Arkansas,9.9,0.8054
+2018,8061,Rural,Kiowa County,Colorado,9.9,0.3188
+2018,8113,Rural,San Miguel County,Colorado,9.9,0.0331
+2018,13073,Urban,Columbia County,Georgia,9.9,0.1334
+2018,13307,Rural,Webster County,Georgia,9.9,0.7876
+2018,17095,Urban,Knox County,Illinois,9.9,0.6462
+2018,17163,Urban,St. Clair County,Illinois,9.9,0.5229
+2018,18081,Urban,Johnson County,Indiana,9.9,0.1424
+2018,18137,Rural,Ripley County,Indiana,9.9,0.3774
+2018,19131,Rural,Mitchell County,Iowa,9.9,0.086
+2018,20127,Rural,Morris County,Kansas,9.9,0.2436
+2018,21099,Rural,Hart County,Kentucky,9.9,0.7659
+2018,21219,Rural,Todd County,Kentucky,9.9,0.8092
+2018,22061,Urban,Lincoln Parish,Louisiana,9.9,0.8478
+2018,22113,Urban,Vermilion Parish,Louisiana,9.9,0.8201
+2018,26105,Urban,Mason County,Michigan,9.9,0.3376
+2018,29175,Urban,Randolph County,Missouri,9.9,0.5554
+2018,35029,Urban,Luna County,New Mexico,9.9,0.999
+2018,39067,Rural,Harrison County,Ohio,9.9,0.5194
+2018,40091,Rural,Mcintosh County,Oklahoma,9.9,0.7828
+2018,40115,Urban,Ottawa County,Oklahoma,9.9,0.9576
+2018,46053,Rural,Gregory County,South Dakota,9.9,0.2847
+2018,47103,Rural,Lincoln County,Tennessee,9.9,0.6777
+2018,48289,Rural,Leon County,Texas,9.9,0.6156
+2018,48401,Urban,Rusk County,Texas,9.9,0.7965
+2018,51061,Urban,Fauquier County,Virginia,9.9,0.0287
+2018,53013,Urban,Columbia County,Washington,9.9,0.3146
+2018,53041,Urban,Lewis County,Washington,9.9,0.7889
+2018,5033,Urban,Crawford County,Arkansas,10,0.6105
+2018,12121,Rural,Suwannee County,Florida,10,0.9424
+2018,13109,Rural,Evans County,Georgia,10,0.9847
+2018,13275,Urban,Thomas County,Georgia,10,0.9108
+2018,17161,Urban,Rock Island County,Illinois,10,0.7137
+2018,18067,Urban,Howard County,Indiana,10,0.4815
+2018,19195,Urban,Worth County,Iowa,10,0.0697
+2018,20095,Urban,Kingman County,Kansas,10,0.0513
+2018,21001,Rural,Adair County,Kentucky,10,0.7121
+2018,21013,Urban,Bell County,Kentucky,10,0.8927
+2018,22067,Urban,Morehouse Parish,Louisiana,10,0.8847
+2018,24045,Urban,Wicomico County,Maryland,10,0.7739
+2018,26013,Rural,Baraga County,Michigan,10,0.6599
+2018,26015,Urban,Barry County,Michigan,10,0.0869
+2018,27033,Rural,Cottonwood County,Minnesota,10,0.4726
+2018,27155,Rural,Traverse County,Minnesota,10,0.2602
+2018,29177,Urban,Ray County,Missouri,10,0.2573
+2018,29185,Rural,St. Clair County,Missouri,10,0.4987
+2018,31001,Urban,Adams County,Nebraska,10,0.3592
+2018,32023,Urban,Nye County,Nevada,10,0.7309
+2018,34001,Urban,Atlantic County,New Jersey,10,0.7911
+2018,35047,Urban,San Miguel County,New Mexico,10,0.9863
+2018,36063,Urban,Niagara County,New York,10,0.3318
+2018,38091,Rural,Steele County,North Dakota,10,0.0019
+2018,39085,Urban,Lake County,Ohio,10,0.1293
+2018,39113,Urban,Montgomery County,Ohio,10,0.6726
+2018,40129,Rural,Roger Mills County,Oklahoma,10,0.4003
+2018,45083,Urban,Spartanburg County,South Carolina,10,0.7618
+2018,47045,Urban,Dyer County,Tennessee,10,0.7596
+2018,47119,Urban,Maury County,Tennessee,10,0.3949
+2018,47157,Urban,Shelby County,Tennessee,10,0.7847
+2018,48233,Urban,Hutchinson County,Texas,10,0.6631
+2018,51169,Urban,Scott County,Virginia,10,0.6758
+2018,54025,Rural,Greenbrier County,West Virginia,10,0.5557
+2018,56009,Rural,Converse County,Wyoming,10,0.2048
+2018,4017,Urban,Navajo County,Arizona,10.1,0.9955
+2018,5147,Rural,Woodruff County,Arkansas,10.1,0.849
+2018,6069,Urban,San Benito County,California,10.1,0.5245
+2018,13057,Urban,Cherokee County,Georgia,10.1,0.1185
+2018,13147,Rural,Hart County,Georgia,10.1,0.7194
+2018,13277,Urban,Tift County,Georgia,10.1,0.8809
+2018,16083,Urban,Twin Falls County,Idaho,10.1,0.4955
+2018,16087,Rural,Washington County,Idaho,10.1,0.8506
+2018,17071,Urban,Henderson County,Illinois,10.1,0.0669
+2018,17143,Urban,Peoria County,Illinois,10.1,0.6131
+2018,17179,Urban,Tazewell County,Illinois,10.1,0.107
+2018,17191,Rural,Wayne County,Illinois,10.1,0.4331
+2018,18035,Urban,Delaware County,Indiana,10.1,0.5666
+2018,18063,Urban,Hendricks County,Indiana,10.1,0.0815
+2018,18087,Rural,Lagrange County,Indiana,10.1,0.3707
+2018,18103,Urban,Miami County,Indiana,10.1,0.5879
+2018,18169,Urban,Wabash County,Indiana,10.1,0.2882
+2018,19057,Urban,Des Moines County,Iowa,10.1,0.4653
+2018,20003,Rural,Anderson County,Kansas,10.1,0.2274
+2018,20037,Urban,Crawford County,Kansas,10.1,0.6987
+2018,20085,Urban,Jackson County,Kansas,10.1,0.2694
+2018,20173,Urban,Sedgwick County,Kansas,10.1,0.5357
+2018,21117,Urban,Kenton County,Kentucky,10.1,0.3379
+2018,26033,Urban,Chippewa County,Michigan,10.1,0.7245
+2018,26095,Rural,Luce County,Michigan,10.1,0.5338
+2018,30059,Rural,Meagher County,Montana,10.1,0.0465
+2018,31067,Urban,Gage County,Nebraska,10.1,0.1105
+2018,35045,Urban,San Juan County,New Mexico,10.1,0.9194
+2018,36057,Urban,Montgomery County,New York,10.1,0.8306
+2018,36065,Urban,Oneida County,New York,10.1,0.6946
+2018,37035,Urban,Catawba County,North Carolina,10.1,0.6481
+2018,40031,Urban,Comanche County,Oklahoma,10.1,0.8354
+2018,47109,Rural,Mcnairy County,Tennessee,10.1,0.7172
+2018,47123,Rural,Monroe County,Tennessee,10.1,0.6478
+2018,47127,Urban,Moore County,Tennessee,10.1,0.0914
+2018,48165,Rural,Gaines County,Texas,10.1,0.6825
+2018,48285,Rural,Lavaca County,Texas,10.1,0.6879
+2018,48333,Rural,Mills County,Texas,10.1,0.7688
+2018,48339,Urban,Montgomery County,Texas,10.1,0.3914
+2018,48451,Urban,Tom Green County,Texas,10.1,0.6643
+2018,51103,Rural,Lancaster County,Virginia,10.1,0.1583
+2018,51137,Rural,Orange County,Virginia,10.1,0.465
+2018,51183,Urban,Sussex County,Virginia,10.1,0.9092
+2018,6039,Urban,Madera County,California,10.2,0.9541
+2018,13085,Urban,Dawson County,Georgia,10.2,0.1038
+2018,13123,Rural,Gilmer County,Georgia,10.2,0.5599
+2018,16021,Rural,Boundary County,Idaho,10.2,0.3083
+2018,18017,Urban,Cass County,Indiana,10.2,0.7197
+2018,18019,Urban,Clark County,Indiana,10.2,0.2548
+2018,18161,Urban,Union County,Indiana,10.2,0.1713
+2018,19173,Rural,Taylor County,Iowa,10.2,0.2771
+2018,20135,Rural,Ness County,Kansas,10.2,0.15
+2018,20155,Urban,Reno County,Kansas,10.2,0.5866
+2018,20163,Rural,Rooks County,Kansas,10.2,0.142
+2018,26121,Urban,Muskegon County,Michigan,10.2,0.7035
+2018,26163,Urban,Wayne County,Michigan,10.2,0.8723
+2018,27151,Rural,Swift County,Minnesota,10.2,0.3213
+2018,28031,Rural,Covington County,Mississippi,10.2,0.7879
+2018,31157,Urban,Scotts Bluff County,Nebraska,10.2,0.5675
+2018,34007,Urban,Camden County,New Jersey,10.2,0.6118
+2018,34013,Urban,Essex County,New Jersey,10.2,0.8404
+2018,37009,Rural,Ashe County,North Carolina,10.2,0.4994
+2018,37123,Rural,Montgomery County,North Carolina,10.2,0.8713
+2018,38005,Rural,Benson County,North Dakota,10.2,0.8433
+2018,39095,Urban,Lucas County,Ohio,10.2,0.6876
+2018,41015,Urban,Curry County,Oregon,10.2,0.4879
+2018,42047,Rural,Elk County,Pennsylvania,10.2,0.1166
+2018,47179,Urban,Washington County,Tennessee,10.2,0.4589
+2018,48313,Rural,Madison County,Texas,10.2,0.8376
+2018,51011,Urban,Appomattox County,Virginia,10.2,0.3637
+2018,51197,Rural,Wythe County,Virginia,10.2,0.3965
+2018,55005,Rural,Barron County,Wisconsin,10.2,0.3271
+2018,55065,Rural,Lafayette County,Wisconsin,10.2,0.1596
+2018,1107,Urban,Pickens County,Alabama,10.3,0.9207
+2018,1133,Rural,Winston County,Alabama,10.3,0.7025
+2018,12047,Rural,Hamilton County,Florida,10.3,0.9908
+2018,13009,Urban,Baldwin County,Georgia,10.3,0.8666
+2018,16079,Rural,Shoshone County,Idaho,10.3,0.757
+2018,18153,Urban,Sullivan County,Indiana,10.3,0.6401
+2018,18173,Urban,Warrick County,Indiana,10.3,0.0678
+2018,21005,Urban,Anderson County,Kentucky,10.3,0.2637
+2018,21161,Urban,Mason County,Kentucky,10.3,0.6682
+2018,28065,Rural,Jefferson Davis County,Mississippi,10.3,0.8439
+2018,28131,Rural,Stone County,Mississippi,10.3,0.6045
+2018,35006,Urban,Cibola County,New Mexico,10.3,0.9984
+2018,38063,Rural,Nelson County,North Dakota,10.3,0.035
+2018,42037,Urban,Columbia County,Pennsylvania,10.3,0.2768
+2018,42055,Urban,Franklin County,Pennsylvania,10.3,0.3373
+2018,45037,Urban,Edgefield County,South Carolina,10.3,0.8484
+2018,47051,Urban,Franklin County,Tennessee,10.3,0.3764
+2018,48249,Urban,Jim Wells County,Texas,10.3,0.9226
+2018,51019,Urban,Bedford County,Virginia,10.3,0.0984
+2018,54003,Urban,Berkeley County,West Virginia,10.3,0.4433
+2018,54073,Rural,Pleasants County,West Virginia,10.3,0.4468
+2018,8111,Rural,San Juan County,Colorado,10.4,0.1283
+2018,12105,Urban,Polk County,Florida,10.4,0.9035
+2018,13171,Urban,Lamar County,Georgia,10.4,0.4917
+2018,17177,Urban,Stephenson County,Illinois,10.4,0.5
+2018,20103,Urban,Leavenworth County,Kansas,10.4,0.2404
+2018,21029,Urban,Bullitt County,Kentucky,10.4,0.1385
+2018,24033,Urban,Prince George&#39;s County,Maryland,10.4,0.6261
+2018,26159,Urban,Van Buren County,Michigan,10.4,0.6589
+2018,29049,Urban,Clinton County,Missouri,10.4,0.1643
+2018,36117,Urban,Wayne County,New York,10.4,0.3414
+2018,37133,Urban,Onslow County,North Carolina,10.4,0.7465
+2018,39003,Urban,Allen County,Ohio,10.4,0.5793
+2018,39023,Urban,Clark County,Ohio,10.4,0.7271
+2018,39073,Urban,Hocking County,Ohio,10.4,0.4685
+2018,39147,Urban,Seneca County,Ohio,10.4,0.3755
+2018,42035,Urban,Clinton County,Pennsylvania,10.4,0.486
+2018,45025,Rural,Chesterfield County,South Carolina,10.4,0.9487
+2018,47007,Rural,Bledsoe County,Tennessee,10.4,0.8159
+2018,47013,Urban,Campbell County,Tennessee,10.4,0.7338
+2018,47107,Urban,Mcminn County,Tennessee,10.4,0.6551
+2018,48171,Urban,Gillespie County,Texas,10.4,0.3573
+2018,48259,Urban,Kendall County,Texas,10.4,0.2283
+2018,48439,Urban,Tarrant County,Texas,10.4,0.5475
+2018,48473,Urban,Waller County,Texas,10.4,0.8331
+2018,51143,Urban,Pittsylvania County,Virginia,10.4,0.6427
+2018,51173,Rural,Smyth County,Virginia,10.4,0.7548
+2018,54029,Urban,Hancock County,West Virginia,10.4,0.4051
+2018,1073,Urban,Jefferson County,Alabama,10.5,0.6621
+2018,1081,Urban,Lee County,Alabama,10.5,0.6602
+2018,4011,Rural,Greenlee County,Arizona,10.5,0.6188
+2018,5029,Rural,Conway County,Arkansas,10.5,0.7589
+2018,5103,Urban,Ouachita County,Arkansas,10.5,0.8656
+2018,8009,Rural,Baca County,Colorado,10.5,0.6086
+2018,10001,Urban,Kent County,Delaware,10.5,0.7268
+2018,12125,Rural,Union County,Florida,10.5,0.8382
+2018,13089,Urban,Dekalb County,Georgia,10.5,0.6611
+2018,17057,Urban,Fulton County,Illinois,10.5,0.5761
+2018,18097,Urban,Marion County,Indiana,10.5,0.7971
+2018,19011,Urban,Benton County,Iowa,10.5,0.0118
+2018,19099,Urban,Jasper County,Iowa,10.5,0.2548
+2018,21221,Urban,Trigg County,Kentucky,10.5,0.365
+2018,22001,Urban,Acadia Parish,Louisiana,10.5,0.9182
+2018,26007,Urban,Alpena County,Michigan,10.5,0.3408
+2018,29041,Rural,Chariton County,Missouri,10.5,0.1898
+2018,30021,Rural,Dawson County,Montana,10.5,0.0752
+2018,31105,Rural,Kimball County,Nebraska,10.5,0.5611
+2018,36049,Rural,Lewis County,New York,10.5,0.2911
+2018,40121,Urban,Pittsburg County,Oklahoma,10.5,0.8264
+2018,40147,Urban,Washington County,Oklahoma,10.5,0.4382
+2018,41061,Urban,Union County,Oregon,10.5,0.6729
+2018,45033,Rural,Dillon County,South Carolina,10.5,0.9682
+2018,45057,Urban,Lancaster County,South Carolina,10.5,0.5121
+2018,47079,Urban,Henry County,Tennessee,10.5,0.6347
+2018,48281,Urban,Lampasas County,Texas,10.5,0.5443
+2018,48341,Urban,Moore County,Texas,10.5,0.699
+2018,48477,Urban,Washington County,Texas,10.5,0.7312
+2018,54093,Rural,Tucker County,West Virginia,10.5,0.3672
+2018,1125,Urban,Tuscaloosa County,Alabama,10.6,0.6255
+2018,5059,Urban,Hot Spring County,Arkansas,10.6,0.8188
+2018,5123,Urban,St. Francis County,Arkansas,10.6,0.9691
+2018,12031,Urban,Duval County,Florida,10.6,0.692
+2018,13037,Rural,Calhoun County,Georgia,10.6,0.9774
+2018,13125,Rural,Glascock County,Georgia,10.6,0.686
+2018,13283,Rural,Treutlen County,Georgia,10.6,0.9471
+2018,13311,Rural,White County,Georgia,10.6,0.2357
+2018,19051,Urban,Davis County,Iowa,10.6,0.3503
+2018,20057,Urban,Ford County,Kansas,10.6,0.857
+2018,21089,Urban,Greenup County,Kentucky,10.6,0.3217
+2018,24043,Urban,Washington County,Maryland,10.6,0.614
+2018,26001,Rural,Alcona County,Michigan,10.6,0.2557
+2018,28073,Urban,Lamar County,Mississippi,10.6,0.5306
+2018,28121,Urban,Rankin County,Mississippi,10.6,0.3127
+2018,29207,Rural,Stoddard County,Missouri,10.6,0.4643
+2018,30093,Urban,Silver Bow County,Montana,10.6,0.5258
+2018,36015,Urban,Chemung County,New York,10.6,0.485
+2018,36115,Urban,Washington County,New York,10.6,0.4
+2018,37031,Urban,Carteret County,North Carolina,10.6,0.4255
+2018,38037,Rural,Grant County,North Dakota,10.6,0.071
+2018,39071,Rural,Highland County,Ohio,10.6,0.6898
+2018,39129,Urban,Pickaway County,Ohio,10.6,0.2818
+2018,39167,Urban,Washington County,Ohio,10.6,0.3497
+2018,40081,Urban,Lincoln County,Oklahoma,10.6,0.4787
+2018,45007,Urban,Anderson County,South Carolina,10.6,0.701
+2018,48029,Urban,Bexar County,Texas,10.6,0.8258
+2018,48153,Rural,Floyd County,Texas,10.6,0.8299
+2018,48157,Urban,Fort Bend County,Texas,10.6,0.2873
+2018,48297,Rural,Live Oak County,Texas,10.6,0.6917
+2018,53015,Urban,Cowlitz County,Washington,10.6,0.7885
+2018,1097,Urban,Mobile County,Alabama,10.7,0.7532
+2018,12027,Urban,Desoto County,Florida,10.7,0.9618
+2018,13183,Urban,Long County,Georgia,10.7,0.8271
+2018,13269,Rural,Taylor County,Georgia,10.7,0.9197
+2018,18089,Urban,Lake County,Indiana,10.7,0.7252
+2018,19069,Rural,Franklin County,Iowa,10.7,0.1962
+2018,20107,Urban,Linn County,Kansas,10.7,0.4478
+2018,21199,Urban,Pulaski County,Kentucky,10.7,0.742
+2018,23019,Urban,Penobscot County,Maine,10.7,0.4532
+2018,24011,Rural,Caroline County,Maryland,10.7,0.5535
+2018,26123,Rural,Newaygo County,Michigan,10.7,0.6318
+2018,28077,Rural,Lawrence County,Mississippi,10.7,0.6634
+2018,29023,Urban,Butler County,Missouri,10.7,0.8172
+2018,30051,Rural,Liberty County,Montana,10.7,0.4099
+2018,31043,Urban,Dakota County,Nebraska,10.7,0.8615
+2018,31181,Rural,Webster County,Nebraska,10.7,0.1092
+2018,37179,Urban,Union County,North Carolina,10.7,0.1873
+2018,38061,Rural,Mountrail County,North Dakota,10.7,0.3758
+2018,39013,Urban,Belmont County,Ohio,10.7,0.3596
+2018,42023,Rural,Cameron County,Pennsylvania,10.7,0.3006
+2018,46043,Rural,Douglas County,South Dakota,10.7,0.1503
+2018,46085,Rural,Lyman County,South Dakota,10.7,0.7137
+2018,46129,Rural,Walworth County,South Dakota,10.7,0.3939
+2018,47163,Urban,Sullivan County,Tennessee,10.7,0.5411
+2018,48041,Urban,Brazos County,Texas,10.7,0.6532
+2018,51029,Urban,Buckingham County,Virginia,10.7,0.7901
+2018,51620,Rural,Franklin City,Virginia,10.7,0.7175
+2018,53027,Urban,Grays Harbor County,Washington,10.7,0.8392
+2018,54049,Urban,Marion County,West Virginia,10.7,0.4939
+2018,54069,Urban,Ohio County,West Virginia,10.7,0.3108
+2018,54075,Rural,Pocahontas County,West Virginia,10.7,0.4971
+2018,54083,Urban,Randolph County,West Virginia,10.7,0.5806
+2018,2290,Rural,Yukon-Koyukuk Census Area,Alaska,10.8,0.8812
+2018,8081,Urban,Moffat County,Colorado,10.8,0.5471
+2018,12013,Rural,Calhoun County,Florida,10.8,0.8401
+2018,13025,Urban,Brantley County,Georgia,10.8,0.6229
+2018,13061,Rural,Clay County,Georgia,10.8,0.9309
+2018,13223,Urban,Paulding County,Georgia,10.8,0.1376
+2018,19147,Rural,Palo Alto County,Iowa,10.8,0.1729
+2018,20025,Rural,Clark County,Kansas,10.8,0.3124
+2018,20119,Rural,Meade County,Kansas,10.8,0.3717
+2018,21061,Urban,Edmonson County,Kentucky,10.8,0.6357
+2018,21171,Rural,Monroe County,Kentucky,10.8,0.6975
+2018,22099,Urban,St. Martin Parish,Louisiana,10.8,0.7831
+2018,24510,Urban,Baltimore City,Maryland,10.8,0.8312
+2018,26049,Urban,Genesee County,Michigan,10.8,0.6624
+2018,26131,Rural,Ontonagon County,Michigan,10.8,0.2732
+2018,36073,Urban,Orleans County,New York,10.8,0.643
+2018,37049,Urban,Craven County,North Carolina,10.8,0.8099
+2018,39059,Urban,Guernsey County,Ohio,10.8,0.6707
+2018,40013,Urban,Bryan County,Oklahoma,10.8,0.8127
+2018,42075,Urban,Lebanon County,Pennsylvania,10.8,0.5328
+2018,48123,Rural,Dewitt County,Texas,10.8,0.8229
+2018,48193,Rural,Hamilton County,Texas,10.8,0.6083
+2018,48307,Rural,Mcculloch County,Texas,10.8,0.7395
+2018,48323,Urban,Maverick County,Texas,10.8,0.9742
+2018,48367,Urban,Parker County,Texas,10.8,0.2561
+2018,51001,Rural,Accomack County,Virginia,10.8,0.8025
+2018,51031,Urban,Campbell County,Virginia,10.8,0.2615
+2018,51175,Rural,Southampton County,Virginia,10.8,0.4755
+2018,51710,Urban,Norfolk City,Virginia,10.8,0.7717
+2018,12063,Rural,Jackson County,Florida,10.9,0.9583
+2018,12133,Rural,Washington County,Florida,10.9,0.8939
+2018,17119,Urban,Madison County,Illinois,10.9,0.2965
+2018,17123,Urban,Marshall County,Illinois,10.9,0.0545
+2018,18015,Urban,Carroll County,Indiana,10.9,0.1175
+2018,20159,Rural,Rice County,Kansas,10.9,0.4252
+2018,22019,Urban,Calcasieu Parish,Louisiana,10.9,0.7392
+2018,31047,Urban,Dawson County,Nebraska,10.9,0.7933
+2018,39139,Urban,Richland County,Ohio,10.9,0.6169
+2018,40075,Rural,Kiowa County,Oklahoma,10.9,0.6545
+2018,40135,Urban,Sequoyah County,Oklahoma,10.9,0.9159
+2018,46107,Rural,Potter County,South Dakota,10.9,0.0516
+2018,47149,Urban,Rutherford County,Tennessee,10.9,0.3268
+2018,48055,Urban,Caldwell County,Texas,10.9,0.8732
+2018,48057,Urban,Calhoun County,Texas,10.9,0.8618
+2018,48169,Rural,Garza County,Texas,10.9,0.7213
+2018,48321,Urban,Matagorda County,Texas,10.9,0.9067
+2018,49047,Urban,Uintah County,Utah,10.9,0.4838
+2018,51009,Urban,Amherst County,Virginia,10.9,0.4682
+2018,51065,Urban,Fluvanna County,Virginia,10.9,0.0631
+2018,51760,Urban,Richmond City,Virginia,10.9,0.7729
+2018,1043,Urban,Cullman County,Alabama,11,0.5182
+2018,1061,Urban,Geneva County,Alabama,11,0.7955
+2018,5131,Urban,Sebastian County,Arkansas,11,0.8328
+2018,13013,Urban,Barrow County,Georgia,11,0.4204
+2018,18025,Rural,Crawford County,Indiana,11,0.3889
+2018,18117,Rural,Orange County,Indiana,11,0.6455
+2018,21231,Rural,Wayne County,Kentucky,11,0.7478
+2018,22071,Urban,Orleans Parish,Louisiana,11,0.7449
+2018,26083,Urban,Keweenaw County,Michigan,11,0.0787
+2018,26143,Rural,Roscommon County,Michigan,11,0.4627
+2018,27167,Urban,Wilkin County,Minnesota,11,0.1924
+2018,28005,Urban,Amite County,Mississippi,11,0.8191
+2018,29021,Urban,Buchanan County,Missouri,11,0.7182
+2018,29221,Rural,Washington County,Missouri,11,0.7904
+2018,29227,Rural,Worth County,Missouri,11,0.2239
+2018,35011,Rural,De Baca County,New Mexico,11,0.6939
+2018,36009,Urban,Cattaraugus County,New York,11,0.7283
+2018,37051,Urban,Cumberland County,North Carolina,11,0.864
+2018,37077,Urban,Granville County,North Carolina,11,0.6561
+2018,39173,Urban,Wood County,Ohio,11,0.1662
+2018,40019,Urban,Carter County,Oklahoma,11,0.7914
+2018,42001,Urban,Adams County,Pennsylvania,11,0.2118
+2018,47139,Urban,Polk County,Tennessee,11,0.4904
+2018,47145,Urban,Roane County,Tennessee,11,0.3844
+2018,48383,Rural,Reagan County,Texas,11,0.4806
+2018,49009,Rural,Daggett County,Utah,11,0.0755
+2018,12023,Urban,Columbia County,Florida,11.1,0.8596
+2018,12051,Urban,Hendry County,Florida,11.1,0.9939
+2018,13053,Urban,Chattahoochee County,Georgia,11.1,0.6379
+2018,20009,Urban,Barton County,Kansas,11.1,0.5439
+2018,20099,Urban,Labette County,Kansas,11.1,0.6392
+2018,22033,Urban,East Baton Rouge Parish,Louisiana,11.1,0.6653
+2018,24039,Urban,Somerset County,Maryland,11.1,0.8978
+2018,28117,Rural,Prentiss County,Mississippi,11.1,0.8513
+2018,29043,Urban,Christian County,Missouri,11.1,0.1497
+2018,35015,Urban,Eddy County,New Mexico,11.1,0.7032
+2018,35025,Urban,Lea County,New Mexico,11.1,0.9217
+2018,36123,Urban,Yates County,New York,11.1,0.4392
+2018,37113,Rural,Macon County,North Carolina,11.1,0.3548
+2018,37141,Urban,Pender County,North Carolina,11.1,0.5478
+2018,41031,Rural,Jefferson County,Oregon,11.1,0.9118
+2018,42021,Urban,Cambria County,Pennsylvania,11.1,0.4892
+2018,45015,Urban,Berkeley County,South Carolina,11.1,0.5146
+2018,48167,Urban,Galveston County,Texas,11.1,0.585
+2018,48343,Rural,Morris County,Texas,11.1,0.7299
+2018,48419,Rural,Shelby County,Texas,11.1,0.9522
+2018,51191,Urban,Washington County,Virginia,11.1,0.3646
+2018,6105,Rural,Trinity County,California,11.2,0.7411
+2018,12075,Rural,Levy County,Florida,11.2,0.7793
+2018,17047,Rural,Edwards County,Illinois,11.2,0.2443
+2018,18121,Rural,Parke County,Indiana,11.2,0.5809
+2018,22051,Urban,Jefferson Parish,Louisiana,11.2,0.6121
+2018,28013,Rural,Calhoun County,Mississippi,11.2,0.965
+2018,28017,Rural,Chickasaw County,Mississippi,11.2,0.9143
+2018,29081,Rural,Harrison County,Missouri,11.2,0.7417
+2018,31103,Rural,Keya Paha County,Nebraska,11.2,0.001
+2018,36017,Rural,Chenango County,New York,11.2,0.5646
+2018,37075,Rural,Graham County,North Carolina,11.2,0.6338
+2018,39163,Rural,Vinton County,Ohio,11.2,0.7229
+2018,40107,Rural,Okfuskee County,Oklahoma,11.2,0.9287
+2018,41063,Rural,Wallowa County,Oregon,11.2,0.5032
+2018,45001,Urban,Abbeville County,South Carolina,11.2,0.8564
+2018,47113,Urban,Madison County,Tennessee,11.2,0.7124
+2018,48017,Rural,Bailey County,Texas,11.2,0.8003
+2018,48061,Urban,Cameron County,Texas,11.2,0.9758
+2018,48423,Urban,Smith County,Texas,11.2,0.7462
+2018,1041,Rural,Crenshaw County,Alabama,11.3,0.6873
+2018,2195,Rural,Petersburg Census Area,Alaska,11.3,0.665
+2018,8065,Rural,Lake County,Colorado,11.3,0.4452
+2018,8073,Rural,Lincoln County,Colorado,11.3,0.4857
+2018,12049,Urban,Hardee County,Florida,11.3,0.9831
+2018,16035,Rural,Clearwater County,Idaho,11.3,0.4401
+2018,20145,Rural,Pawnee County,Kansas,11.3,0.2866
+2018,21087,Rural,Green County,Kentucky,11.3,0.5226
+2018,26003,Rural,Alger County,Michigan,11.3,0.4481
+2018,26067,Urban,Ionia County,Michigan,11.3,0.478
+2018,28093,Urban,Marshall County,Mississippi,11.3,0.6904
+2018,31121,Urban,Merrick County,Nebraska,11.3,0.1975
+2018,37003,Urban,Alexander County,North Carolina,11.3,0.6341
+2018,37101,Urban,Johnston County,North Carolina,11.3,0.5395
+2018,37107,Urban,Lenoir County,North Carolina,11.3,0.9933
+2018,39099,Urban,Mahoning County,Ohio,11.3,0.5889
+2018,40029,Rural,Coal County,Oklahoma,11.3,0.8255
+2018,45055,Urban,Kershaw County,South Carolina,11.3,0.4959
+2018,45065,Rural,Mccormick County,South Carolina,11.3,0.7373
+2018,47031,Urban,Coffee County,Tennessee,11.3,0.4914
+2018,48007,Urban,Aransas County,Texas,11.3,0.8019
+2018,48353,Urban,Nolan County,Texas,11.3,0.8866
+2018,51683,Urban,Manassas City,Virginia,11.3,0.4446
+2018,54041,Rural,Lewis County,West Virginia,11.3,0.6761
+2018,1083,Urban,Limestone County,Alabama,11.4,0.5296
+2018,1111,Rural,Randolph County,Alabama,11.4,0.7191
+2018,5035,Urban,Crittenden County,Arkansas,11.4,0.9341
+2018,5061,Rural,Howard County,Arkansas,11.4,0.9045
+2018,13205,Rural,Mitchell County,Georgia,11.4,0.9879
+2018,19145,Rural,Page County,Iowa,11.4,0.3341
+2018,21203,Urban,Rockcastle County,Kentucky,11.4,0.7882
+2018,26113,Urban,Missaukee County,Michigan,11.4,0.4755
+2018,27081,Rural,Lincoln County,Minnesota,11.4,0.0666
+2018,28085,Urban,Lincoln County,Mississippi,11.4,0.7586
+2018,28103,Rural,Noxubee County,Mississippi,11.4,0.986
+2018,29203,Rural,Shannon County,Missouri,11.4,0.6449
+2018,36101,Urban,Steuben County,New York,11.4,0.4691
+2018,40095,Rural,Marshall County,Oklahoma,11.4,0.8545
+2018,40137,Urban,Stephens County,Oklahoma,11.4,0.6051
+2018,42073,Urban,Lawrence County,Pennsylvania,11.4,0.4694
+2018,46047,Rural,Fall River County,South Dakota,11.4,0.4172
+2018,48229,Urban,Hudspeth County,Texas,11.4,0.9825
+2018,51007,Urban,Amelia County,Virginia,11.4,0.3166
+2018,56043,Rural,Washakie County,Wyoming,11.4,0.3732
+2018,1005,Rural,Barbour County,Alabama,11.5,0.9959
+2018,1019,Rural,Cherokee County,Alabama,11.5,0.4516
+2018,1127,Urban,Walker County,Alabama,11.5,0.7452
+2018,4012,Rural,La Paz County,Arizona,11.5,0.9236
+2018,5055,Urban,Greene County,Arkansas,11.5,0.5834
+2018,13027,Urban,Brooks County,Georgia,11.5,0.8398
+2018,16003,Rural,Adams County,Idaho,11.5,0.2936
+2018,17139,Rural,Moultrie County,Illinois,11.5,0.2949
+2018,18071,Urban,Jackson County,Indiana,11.5,0.5389
+2018,18135,Rural,Randolph County,Indiana,11.5,0.4296
+2018,20017,Rural,Chase County,Kansas,11.5,0.4067
+2018,22017,Urban,Caddo Parish,Louisiana,11.5,0.8385
+2018,22025,Rural,Catahoula Parish,Louisiana,11.5,0.7806
+2018,22055,Urban,Lafayette Parish,Louisiana,11.5,0.6217
+2018,22089,Urban,St. Charles Parish,Louisiana,11.5,0.3529
+2018,22109,Urban,Terrebonne Parish,Louisiana,11.5,0.8952
+2018,29199,Rural,Scotland County,Missouri,11.5,0.5303
+2018,30005,Rural,Blaine County,Montana,11.5,0.915
+2018,30023,Rural,Deer Lodge County,Montana,11.5,0.4717
+2018,30087,Rural,Rosebud County,Montana,11.5,0.607
+2018,40015,Rural,Caddo County,Oklahoma,11.5,0.9459
+2018,40097,Rural,Mayes County,Oklahoma,11.5,0.7519
+2018,42015,Urban,Bradford County,Pennsylvania,11.5,0.3471
+2018,48001,Urban,Anderson County,Texas,11.5,0.7946
+2018,48199,Urban,Hardin County,Texas,11.5,0.2532
+2018,48207,Rural,Haskell County,Texas,11.5,0.9755
+2018,48273,Urban,Kleberg County,Texas,11.5,0.9834
+2018,48375,Urban,Potter County,Texas,11.5,0.9248
+2018,48505,Urban,Zapata County,Texas,11.5,0.9895
+2018,54109,Rural,Wyoming County,West Virginia,11.5,0.6443
+2018,1079,Urban,Lawrence County,Alabama,11.6,0.4952
+2018,2198,Rural,Prince of Wales-Hyder Censu,Alaska,11.6,0.7662
+2018,2275,Rural,Wrangell City and Borough,Alaska,11.6,0.5618
+2018,5057,Rural,Hempstead County,Arkansas,11.6,0.9468
+2018,5097,Rural,Montgomery County,Arkansas,11.6,0.7
+2018,8011,Rural,Bent County,Colorado,11.6,0.8981
+2018,8089,Rural,Otero County,Colorado,11.6,0.9561
+2018,12043,Rural,Glades County,Florida,11.6,0.9048
+2018,12107,Urban,Putnam County,Florida,11.6,0.9525
+2018,13221,Urban,Oglethorpe County,Georgia,11.6,0.5217
+2018,17099,Urban,Lasalle County,Illinois,11.6,0.4303
+2018,17127,Urban,Massac County,Illinois,11.6,0.7513
+2018,18055,Rural,Greene County,Indiana,11.6,0.4443
+2018,20073,Rural,Greenwood County,Kansas,11.6,0.2127
+2018,22005,Urban,Ascension Parish,Louisiana,11.6,0.3968
+2018,22097,Urban,St. Landry Parish,Louisiana,11.6,0.922
+2018,37171,Urban,Surry County,North Carolina,11.6,0.7258
+2018,40123,Urban,Pontotoc County,Oklahoma,11.6,0.65
+2018,45041,Urban,Florence County,South Carolina,11.6,0.8987
+2018,47117,Urban,Marshall County,Tennessee,11.6,0.6099
+2018,47169,Urban,Trousdale County,Tennessee,11.6,0.522
+2018,48139,Urban,Ellis County,Texas,11.6,0.3924
+2018,48277,Urban,Lamar County,Texas,11.6,0.8357
+2018,48331,Rural,Milam County,Texas,11.6,0.7627
+2018,48443,Rural,Terrell County,Texas,11.6,0.4713
+2018,56003,Rural,Big Horn County,Wyoming,11.6,0.3955
+2018,5051,Urban,Garland County,Arkansas,11.7,0.828
+2018,6091,Rural,Sierra County,California,11.7,0.0452
+2018,13083,Urban,Dade County,Georgia,11.7,0.5156
+2018,13189,Urban,Mcduffie County,Georgia,11.7,0.9376
+2018,13239,Rural,Quitman County,Georgia,11.7,0.9433
+2018,13263,Rural,Talbot County,Georgia,11.7,0.8589
+2018,13313,Urban,Whitfield County,Georgia,11.7,0.8793
+2018,17081,Urban,Jefferson County,Illinois,11.7,0.8108
+2018,18061,Urban,Harrison County,Indiana,11.7,0.1866
+2018,19085,Urban,Harrison County,Iowa,11.7,0.0646
+2018,21011,Urban,Bath County,Kentucky,11.7,0.729
+2018,21091,Urban,Hancock County,Kentucky,11.7,0.3822
+2018,29510,Urban,St. Louis City,Missouri,11.7,0.7796
+2018,31017,Rural,Brown County,Nebraska,11.7,0.1252
+2018,31083,Rural,Harlan County,Nebraska,11.7,0.1239
+2018,31171,Rural,Thomas County,Nebraska,11.7,0.0035
+2018,36033,Urban,Franklin County,New York,11.7,0.7073
+2018,40071,Urban,Kay County,Oklahoma,11.7,0.842
+2018,47011,Urban,Bradley County,Tennessee,11.7,0.6914
+2018,47073,Urban,Hawkins County,Tennessee,11.7,0.708
+2018,47089,Urban,Jefferson County,Tennessee,11.7,0.5608
+2018,48003,Urban,Andrews County,Texas,11.7,0.4736
+2018,48315,Rural,Marion County,Texas,11.7,0.6885
+2018,48347,Urban,Nacogdoches County,Texas,11.7,0.9822
+2018,48409,Urban,San Patricio County,Texas,11.7,0.8309
+2018,51097,Rural,King And Queen County,Virginia,11.7,0.3245
+2018,51117,Rural,Mecklenburg County,Virginia,11.7,0.7768
+2018,54009,Urban,Brooke County,West Virginia,11.7,0.3306
+2018,54033,Urban,Harrison County,West Virginia,11.7,0.4089
+2018,55053,Rural,Jackson County,Wisconsin,11.7,0.5003
+2018,1037,Urban,Coosa County,Alabama,11.8,0.5261
+2018,13097,Urban,Douglas County,Georgia,11.8,0.5404
+2018,13187,Rural,Lumpkin County,Georgia,11.8,0.4338
+2018,17085,Rural,Jo Daviess County,Illinois,11.8,0.0525
+2018,17141,Urban,Ogle County,Illinois,11.8,0.2917
+2018,20035,Urban,Cowley County,Kansas,11.8,0.7318
+2018,21057,Rural,Cumberland County,Kentucky,11.8,0.5315
+2018,22023,Urban,Cameron Parish,Louisiana,11.8,0.2643
+2018,28039,Rural,George County,Mississippi,11.8,0.6137
+2018,28075,Urban,Lauderdale County,Mississippi,11.8,0.9283
+2018,28163,Urban,Yazoo County,Mississippi,11.8,0.9952
+2018,29025,Urban,Caldwell County,Missouri,11.8,0.4513
+2018,29033,Rural,Carroll County,Missouri,11.8,0.5325
+2018,31123,Rural,Morrill County,Nebraska,11.8,0.422
+2018,32015,Rural,Lander County,Nevada,11.8,0.8261
+2018,39015,Urban,Brown County,Ohio,11.8,0.4048
+2018,39065,Rural,Hardin County,Ohio,11.8,0.471
+2018,40033,Urban,Cotton County,Oklahoma,11.8,0.6742
+2018,41011,Urban,Coos County,Oregon,11.8,0.743
+2018,45043,Urban,Georgetown County,South Carolina,11.8,0.6771
+2018,46025,Rural,Clark County,South Dakota,11.8,0.171
+2018,48399,Rural,Runnels County,Texas,11.8,0.5449
+2018,51161,Urban,Roanoke County,Virginia,11.8,0.1312
+2018,51181,Rural,Surry County,Virginia,11.8,0.3659
+2018,51700,Urban,Newport News City,Virginia,11.8,0.8156
+2018,5043,Rural,Drew County,Arkansas,11.9,0.801
+2018,5091,Urban,Miller County,Arkansas,11.9,0.9124
+2018,13039,Urban,Camden County,Georgia,11.9,0.5159
+2018,13201,Rural,Miller County,Georgia,11.9,0.7799
+2018,17117,Urban,Macoupin County,Illinois,11.9,0.1987
+2018,19179,Urban,Wapello County,Iowa,11.9,0.7439
+2018,21103,Urban,Henry County,Kentucky,11.9,0.5274
+2018,28023,Urban,Clarke County,Mississippi,11.9,0.6669
+2018,29229,Rural,Wright County,Missouri,11.9,0.9006
+2018,40089,Rural,Mccurtain County,Oklahoma,11.9,0.9137
+2018,40153,Urban,Woodward County,Oklahoma,11.9,0.5745
+2018,42061,Urban,Huntingdon County,Pennsylvania,11.9,0.4908
+2018,48145,Urban,Falls County,Texas,11.9,0.9799
+2018,48221,Urban,Hood County,Texas,11.9,0.2602
+2018,54089,Rural,Summers County,West Virginia,11.9,0.829
+2018,5077,Rural,Lee County,Arkansas,12,0.9656
+2018,12003,Urban,Baker County,Florida,12,0.6803
+2018,13193,Rural,Macon County,Georgia,12,0.9312
+2018,13211,Urban,Morgan County,Georgia,12,0.2446
+2018,17077,Urban,Jackson County,Illinois,12,0.7045
+2018,18091,Urban,Laporte County,Indiana,12,0.7217
+2018,20031,Rural,Coffey County,Kansas,12,0.2035
+2018,20195,Rural,Trego County,Kansas,12,0.0389
+2018,21127,Rural,Lawrence County,Kentucky,12,0.7583
+2018,28007,Rural,Attala County,Mississippi,12,0.9844
+2018,29149,Rural,Oregon County,Missouri,12,0.4885
+2018,29163,Rural,Pike County,Missouri,12,0.5376
+2018,30037,Urban,Golden Valley County,Montana,12,0.0519
+2018,32001,Urban,Churchill County,Nevada,12,0.6048
+2018,39145,Urban,Scioto County,Ohio,12,0.8347
+2018,42101,Urban,Philadelphia County,Pennsylvania,12,0.9204
+2018,45061,Rural,Lee County,South Carolina,12,0.921
+2018,47063,Urban,Hamblen County,Tennessee,12,0.8146
+2018,47185,Rural,White County,Tennessee,12,0.5984
+2018,48021,Urban,Bastrop County,Texas,12,0.7459
+2018,48299,Rural,Llano County,Texas,12,0.4666
+2018,48413,Rural,Schleicher County,Texas,12,0.5857
+2018,1049,Rural,Dekalb County,Alabama,12.1,0.8022
+2018,17015,Rural,Carroll County,Illinois,12.1,0.1682
+2018,19135,Rural,Monroe County,Iowa,12.1,0.2519
+2018,20139,Urban,Osage County,Kansas,12.1,0.2341
+2018,20167,Rural,Russell County,Kansas,12.1,0.2392
+2018,22037,Urban,East Feliciana Parish,Louisiana,12.1,0.8185
+2018,26073,Urban,Isabella County,Michigan,12.1,0.6016
+2018,28149,Urban,Warren County,Mississippi,12.1,0.8605
+2018,29159,Urban,Pettis County,Missouri,12.1,0.8035
+2018,37197,Urban,Yadkin County,North Carolina,12.1,0.6404
+2018,40079,Urban,Le Flore County,Oklahoma,12.1,0.9032
+2018,45085,Urban,Sumter County,South Carolina,12.1,0.9732
+2018,47001,Urban,Anderson County,Tennessee,12.1,0.6064
+2018,47005,Rural,Benton County,Tennessee,12.1,0.7029
+2018,48203,Urban,Harrison County,Texas,12.1,0.7306
+2018,48425,Urban,Somervell County,Texas,12.1,0.5605
+2018,54065,Rural,Morgan County,West Virginia,12.1,0.1764
+2018,54067,Rural,Nicholas County,West Virginia,12.1,0.5411
+2018,1045,Urban,Dale County,Alabama,12.2,0.7599
+2018,4001,Rural,Apache County,Arizona,12.2,0.9885
+2018,13111,Rural,Fannin County,Georgia,12.2,0.3003
+2018,17115,Urban,Macon County,Illinois,12.2,0.5971
+2018,17175,Urban,Stark County,Illinois,12.2,0.0634
+2018,20027,Rural,Clay County,Kansas,12.2,0.0494
+2018,21237,Rural,Wolfe County,Kentucky,12.2,0.8621
+2018,22105,Urban,Tangipahoa Parish,Louisiana,12.2,0.8885
+2018,28135,Rural,Tallahatchie County,Mississippi,12.2,0.9736
+2018,29055,Rural,Crawford County,Missouri,12.2,0.7554
+2018,39029,Urban,Columbiana County,Ohio,12.2,0.4854
+2018,40023,Rural,Choctaw County,Oklahoma,12.2,0.9602
+2018,47167,Urban,Tipton County,Tennessee,12.2,0.45
+2018,48073,Urban,Cherokee County,Texas,12.2,0.9191
+2018,48365,Rural,Panola County,Texas,12.2,0.6952
+2018,48437,Rural,Swisher County,Texas,12.2,0.9701
+2018,49037,Rural,San Juan County,Utah,12.2,0.9752
+2018,54015,Urban,Clay County,West Virginia,12.2,0.6885
+2018,54107,Urban,Wood County,West Virginia,12.2,0.3723
+2018,6103,Urban,Tehama County,California,12.3,0.9624
+2018,8023,Rural,Costilla County,Colorado,12.3,0.9379
+2018,18129,Urban,Posey County,Indiana,12.3,0.0105
+2018,20047,Rural,Edwards County,Kansas,12.3,0.372
+2018,21125,Urban,Laurel County,Kentucky,12.3,0.7522
+2018,23003,Rural,Aroostook County,Maine,12.3,0.5946
+2018,28033,Urban,Desoto County,Mississippi,12.3,0.3032
+2018,28049,Urban,Hinds County,Mississippi,12.3,0.8742
+2018,28107,Rural,Panola County,Mississippi,12.3,0.8933
+2018,29087,Rural,Holt County,Missouri,12.3,0.1959
+2018,29201,Urban,Scott County,Missouri,12.3,0.7844
+2018,37085,Urban,Harnett County,North Carolina,12.3,0.7869
+2018,37137,Urban,Pamlico County,North Carolina,12.3,0.7162
+2018,37139,Urban,Pasquotank County,North Carolina,12.3,0.7748
+2018,41009,Urban,Columbia County,Oregon,12.3,0.4025
+2018,48215,Urban,Hidalgo County,Texas,12.3,0.978
+2018,48245,Urban,Jefferson County,Texas,12.3,0.8567
+2018,48421,Rural,Sherman County,Texas,12.3,0.4611
+2018,51800,Urban,Suffolk City,Virginia,12.3,0.3468
+2018,13049,Rural,Charlton County,Georgia,12.4,0.8752
+2018,13063,Urban,Clayton County,Georgia,12.4,0.9102
+2018,13225,Urban,Peach County,Georgia,12.4,0.9404
+2018,18143,Urban,Scott County,Indiana,12.4,0.4201
+2018,18149,Rural,Starke County,Indiana,12.4,0.3417
+2018,19109,Rural,Kossuth County,Iowa,12.4,0.1048
+2018,21131,Rural,Leslie County,Kentucky,12.4,0.7745
+2018,21193,Rural,Perry County,Kentucky,12.4,0.9051
+2018,21229,Rural,Washington County,Kentucky,12.4,0.5127
+2018,28137,Urban,Tate County,Mississippi,12.4,0.865
+2018,29027,Urban,Callaway County,Missouri,12.4,0.3232
+2018,29115,Rural,Linn County,Missouri,12.4,0.272
+2018,29181,Rural,Ripley County,Missouri,12.4,0.715
+2018,37041,Rural,Chowan County,North Carolina,12.4,0.8118
+2018,37161,Urban,Rutherford County,North Carolina,12.4,0.7551
+2018,45071,Urban,Newberry County,South Carolina,12.4,0.9232
+2018,48109,Rural,Culberson County,Texas,12.4,0.9971
+2018,48175,Urban,Goliad County,Texas,12.4,0.5815
+2018,48211,Rural,Hemphill County,Texas,12.4,0.7427
+2018,48469,Urban,Victoria County,Texas,12.4,0.7834
+2018,54039,Urban,Kanawha County,West Virginia,12.4,0.5656
+2018,5003,Rural,Ashley County,Arkansas,12.5,0.8576
+2018,5041,Rural,Desha County,Arkansas,12.5,0.9596
+2018,12041,Urban,Gilchrist County,Florida,12.5,0.7567
+2018,13031,Urban,Bulloch County,Georgia,12.5,0.8121
+2018,13243,Rural,Randolph County,Georgia,12.5,0.9739
+2018,13247,Urban,Rockdale County,Georgia,12.5,0.5529
+2018,18053,Urban,Grant County,Indiana,12.5,0.7331
+2018,21195,Rural,Pike County,Kentucky,12.5,0.7908
+2018,22119,Urban,Webster Parish,Louisiana,12.5,0.879
+2018,26165,Urban,Wexford County,Michigan,12.5,0.5035
+2018,39093,Urban,Lorain County,Ohio,12.5,0.5089
+2018,45067,Rural,Marion County,South Carolina,12.5,0.9293
+2018,46033,Urban,Custer County,South Dakota,12.5,0.228
+2018,47147,Urban,Robertson County,Tennessee,12.5,0.4287
+2018,47177,Urban,Warren County,Tennessee,12.5,0.8322
+2018,47181,Rural,Wayne County,Tennessee,12.5,0.7624
+2018,51141,Rural,Patrick County,Virginia,12.5,0.6389
+2018,6003,Rural,Alpine County,California,12.6,0.7287
+2018,13091,Rural,Dodge County,Georgia,12.6,0.9223
+2018,13215,Urban,Muscogee County,Georgia,12.6,0.9003
+2018,13255,Urban,Spalding County,Georgia,12.6,0.8691
+2018,13273,Urban,Terrell County,Georgia,12.6,0.957
+2018,17153,Rural,Pulaski County,Illinois,12.6,0.6943
+2018,21047,Urban,Christian County,Kentucky,12.6,0.9127
+2018,21107,Urban,Hopkins County,Kentucky,12.6,0.5541
+2018,22083,Rural,Richland Parish,Louisiana,12.6,0.8554
+2018,28101,Rural,Newton County,Mississippi,12.6,0.9213
+2018,29117,Rural,Livingston County,Missouri,12.6,0.3748
+2018,29143,Rural,New Madrid County,Missouri,12.6,0.8968
+2018,39141,Urban,Ross County,Ohio,12.6,0.7255
+2018,45009,Rural,Bamberg County,South Carolina,12.6,0.9516
+2018,48261,Urban,Kenedy County,Texas,12.6,0.7328
+2018,48493,Urban,Wilson County,Texas,12.6,0.4436
+2018,51037,Rural,Charlotte County,Virginia,12.6,0.7057
+2018,51595,Rural,Emporia City,Virginia,12.6,0.9567
+2018,1033,Urban,Colbert County,Alabama,12.7,0.4274
+2018,1069,Urban,Houston County,Alabama,12.7,0.6838
+2018,1085,Urban,Lowndes County,Alabama,12.7,0.9188
+2018,1123,Rural,Tallapoosa County,Alabama,12.7,0.8863
+2018,13029,Urban,Bryan County,Georgia,12.7,0.3389
+2018,17147,Urban,Piatt County,Illinois,12.7,0.0032
+2018,19133,Rural,Monona County,Iowa,12.7,0.1796
+2018,20181,Rural,Sherman County,Kansas,12.7,0.4984
+2018,21053,Rural,Clinton County,Kentucky,12.7,0.778
+2018,21177,Rural,Muhlenberg County,Kentucky,12.7,0.6134
+2018,22121,Urban,West Baton Rouge Parish,Louisiana,12.7,0.7611
+2018,26025,Urban,Calhoun County,Michigan,12.7,0.7242
+2018,26027,Urban,Cass County,Michigan,12.7,0.328
+2018,28025,Rural,Clay County,Mississippi,12.7,0.7054
+2018,29051,Urban,Cole County,Missouri,12.7,0.2583
+2018,29195,Urban,Saline County,Missouri,12.7,0.8162
+2018,37007,Rural,Anson County,North Carolina,12.7,0.9443
+2018,37057,Urban,Davidson County,North Carolina,12.7,0.6841
+2018,37103,Urban,Jones County,North Carolina,12.7,0.8761
+2018,39097,Urban,Madison County,Ohio,12.7,0.3382
+2018,40025,Rural,Cimarron County,Oklahoma,12.7,0.4475
+2018,46007,Rural,Bennett County,South Dakota,12.7,0.7927
+2018,47067,Rural,Hancock County,Tennessee,12.7,0.7666
+2018,47131,Urban,Obion County,Tennessee,12.7,0.7694
+2018,48217,Rural,Hill County,Texas,12.7,0.8707
+2018,51111,Rural,Lunenburg County,Virginia,12.7,0.8643
+2018,54001,Rural,Barbour County,West Virginia,12.7,0.6513
+2018,13145,Urban,Harris County,Georgia,12.8,0.1341
+2018,13207,Urban,Monroe County,Georgia,12.8,0.4596
+2018,13295,Urban,Walker County,Georgia,12.8,0.6408
+2018,17199,Urban,Williamson County,Illinois,12.8,0.4806
+2018,18171,Rural,Warren County,Indiana,12.8,0.078
+2018,19001,Rural,Adair County,Iowa,12.8,0.0538
+2018,20209,Urban,Wyandotte County,Kansas,12.8,0.9242
+2018,21033,Rural,Caldwell County,Kentucky,12.8,0.4981
+2018,21129,Rural,Lee County,Kentucky,12.8,0.8182
+2018,22041,Rural,Franklin Parish,Louisiana,12.8,0.9519
+2018,22093,Urban,St. James Parish,Louisiana,12.8,0.6299
+2018,28115,Urban,Pontotoc County,Mississippi,12.8,0.8962
+2018,32009,Rural,Esmeralda County,Nevada,12.8,0.6395
+2018,37047,Rural,Columbus County,North Carolina,12.8,0.9481
+2018,37177,Urban,Tyrrell County,North Carolina,12.8,0.8764
+2018,38029,Rural,Emmons County,North Dakota,12.8,0.0955
+2018,38067,Rural,Pembina County,North Dakota,12.8,0.0417
+2018,38097,Rural,Traill County,North Dakota,12.8,0.0927
+2018,40083,Urban,Logan County,Oklahoma,12.8,0.2984
+2018,42131,Urban,Wyoming County,Pennsylvania,12.8,0.1121
+2018,55029,Rural,Door County,Wisconsin,12.8,0.0557
+2018,1009,Urban,Blount County,Alabama,12.9,0.4242
+2018,2188,Rural,Northwest Arctic Borough,Alaska,12.9,0.9354
+2018,13115,Urban,Floyd County,Georgia,12.9,0.8854
+2018,13303,Rural,Washington County,Georgia,12.9,0.9462
+2018,13317,Rural,Wilkes County,Georgia,12.9,0.7561
+2018,16025,Urban,Camas County,Idaho,12.9,0.1338
+2018,18183,Urban,Whitley County,Indiana,12.9,0.0315
+2018,20061,Urban,Geary County,Kansas,12.9,0.6576
+2018,21009,Urban,Barren County,Kentucky,12.9,0.7761
+2018,21109,Rural,Jackson County,Kentucky,12.9,0.6662
+2018,26053,Rural,Gogebic County,Michigan,12.9,0.4038
+2018,26141,Rural,Presque Isle County,Michigan,12.9,0.2761
+2018,27023,Rural,Chippewa County,Minnesota,12.9,0.3522
+2018,27069,Rural,Kittson County,Minnesota,12.9,0.0997
+2018,28141,Rural,Tishomingo County,Mississippi,12.9,0.6659
+2018,29079,Rural,Grundy County,Missouri,12.9,0.6185
+2018,30017,Rural,Custer County,Montana,12.9,0.2901
+2018,37061,Rural,Duplin County,North Carolina,12.9,0.979
+2018,37073,Urban,Gates County,North Carolina,12.9,0.3567
+2018,37187,Rural,Washington County,North Carolina,12.9,0.8787
+2018,39161,Urban,Van Wert County,Ohio,12.9,0.1697
+2018,40133,Rural,Seminole County,Oklahoma,12.9,0.929
+2018,40149,Rural,Washita County,Oklahoma,12.9,0.4045
+2018,45029,Rural,Colleton County,South Carolina,12.9,0.8
+2018,46089,Rural,Mcpherson County,South Dakota,12.9,0.2889
+2018,47125,Urban,Montgomery County,Tennessee,12.9,0.5172
+2018,48039,Urban,Brazoria County,Texas,12.9,0.5134
+2018,48137,Rural,Edwards County,Texas,12.9,0.4385
+2018,48293,Rural,Limestone County,Texas,12.9,0.9532
+2018,54057,Urban,Mineral County,West Virginia,12.9,0.5933
+2018,1093,Rural,Marion County,Alabama,13,0.671
+2018,1099,Rural,Monroe County,Alabama,13,0.7481
+2018,2282,Rural,Yakutat City and Borough,Alaska,13,0.5873
+2018,5019,Urban,Clark County,Arkansas,13,0.7892
+2018,13141,Urban,Hancock County,Georgia,13,0.7984
+2018,13251,Rural,Screven County,Georgia,13,0.8525
+2018,19045,Urban,Clinton County,Iowa,13,0.2646
+2018,21135,Rural,Lewis County,Kentucky,13,0.6242
+2018,22077,Urban,Pointe Coupee Parish,Louisiana,13,0.8475
+2018,28109,Urban,Pearl River County,Mississippi,13,0.7051
+2018,37195,Urban,Wilson County,North Carolina,13,0.936
+2018,40053,Rural,Grant County,Oklahoma,13,0.1634
+2018,40093,Rural,Major County,Oklahoma,13,0.3204
+2018,48063,Rural,Camp County,Texas,13,0.9019
+2018,48397,Urban,Rockwall County,Texas,13,0.1124
+2018,51025,Rural,Brunswick County,Virginia,13,0.8955
+2018,1095,Urban,Marshall County,Alabama,13.1,0.7261
+2018,1115,Urban,St. Clair County,Alabama,13.1,0.3656
+2018,1121,Urban,Talladega County,Alabama,13.1,0.8736
+2018,13199,Urban,Meriwether County,Georgia,13.1,0.8701
+2018,13279,Urban,Toombs County,Georgia,13.1,0.9761
+2018,13299,Urban,Ware County,Georgia,13.1,0.8449
+2018,21045,Rural,Casey County,Kentucky,13.1,0.7656
+2018,21081,Urban,Grant County,Kentucky,13.1,0.5602
+2018,21215,Urban,Spencer County,Kentucky,13.1,0.0369
+2018,22013,Rural,Bienville Parish,Louisiana,13.1,0.9401
+2018,22115,Urban,Vernon Parish,Louisiana,13.1,0.7433
+2018,28061,Urban,Jasper County,Mississippi,13.1,0.7691
+2018,28083,Urban,Leflore County,Mississippi,13.1,0.9653
+2018,28111,Urban,Perry County,Mississippi,13.1,0.7086
+2018,29111,Urban,Lewis County,Missouri,13.1,0.4465
+2018,32021,Rural,Mineral County,Nevada,13.1,0.8815
+2018,37079,Rural,Greene County,North Carolina,13.1,0.9924
+2018,37127,Urban,Nash County,North Carolina,13.1,0.8287
+2018,37131,Urban,Northampton County,North Carolina,13.1,0.9022
+2018,39053,Urban,Gallia County,Ohio,13.1,0.664
+2018,40021,Urban,Cherokee County,Oklahoma,13.1,0.9271
+2018,48095,Rural,Concho County,Texas,13.1,0.4283
+2018,48117,Urban,Deaf Smith County,Texas,13.1,0.8411
+2018,48237,Rural,Jack County,Texas,13.1,0.6538
+2018,51083,Rural,Halifax County,Virginia,13.1,0.6723
+2018,51131,Rural,Northampton County,Virginia,13.1,0.6764
+2018,1025,Rural,Clarke County,Alabama,13.2,0.8471
+2018,5111,Urban,Poinsett County,Arkansas,13.2,0.8268
+2018,13003,Rural,Atkinson County,Georgia,13.2,0.9615
+2018,13045,Urban,Carroll County,Georgia,13.2,0.7825
+2018,13259,Rural,Stewart County,Georgia,13.2,0.9245
+2018,17003,Urban,Alexander County,Illinois,13.2,0.9573
+2018,17011,Urban,Bureau County,Illinois,13.2,0.2863
+2018,17133,Urban,Monroe County,Illinois,13.2,0.0016
+2018,17135,Rural,Montgomery County,Illinois,13.2,0.3914
+2018,18077,Urban,Jefferson County,Indiana,13.2,0.4414
+2018,21065,Rural,Estill County,Kentucky,13.2,0.7997
+2018,21115,Rural,Johnson County,Kentucky,13.2,0.8102
+2018,21189,Rural,Owsley County,Kentucky,13.2,0.8414
+2018,21197,Rural,Powell County,Kentucky,13.2,0.7732
+2018,22045,Urban,Iberia Parish,Louisiana,13.2,0.9605
+2018,26039,Rural,Crawford County,Michigan,13.2,0.3697
+2018,28079,Rural,Leake County,Mississippi,13.2,0.9946
+2018,36035,Urban,Fulton County,New York,13.2,0.501
+2018,37069,Urban,Franklin County,North Carolina,13.2,0.6376
+2018,37173,Rural,Swain County,North Carolina,13.2,0.7774
+2018,40077,Rural,Latimer County,Oklahoma,13.2,0.8936
+2018,40101,Urban,Muskogee County,Oklahoma,13.2,0.9338
+2018,42033,Urban,Clearfield County,Pennsylvania,13.2,0.6054
+2018,42121,Urban,Venango County,Pennsylvania,13.2,0.4229
+2018,47105,Urban,Loudon County,Tennessee,13.2,0.3863
+2018,48251,Urban,Johnson County,Texas,13.2,0.5073
+2018,48357,Rural,Ochiltree County,Texas,13.2,0.5787
+2018,48429,Rural,Stephens County,Texas,13.2,0.885
+2018,51053,Urban,Dinwiddie County,Virginia,13.2,0.4182
+2018,54055,Urban,Mercer County,West Virginia,13.2,0.8089
+2018,1007,Urban,Bibb County,Alabama,13.3,0.6003
+2018,5083,Rural,Logan County,Arkansas,13.3,0.8045
+2018,13265,Rural,Taliaferro County,Georgia,13.3,0.9089
+2018,17001,Urban,Adams County,Illinois,13.3,0.249
+2018,17181,Rural,Union County,Illinois,13.3,0.6844
+2018,18119,Urban,Owen County,Indiana,13.3,0.3455
+2018,20001,Rural,Allen County,Kansas,13.3,0.3978
+2018,20043,Urban,Doniphan County,Kansas,13.3,0.2306
+2018,20077,Rural,Harper County,Kansas,13.3,0.3223
+2018,21019,Urban,Boyd County,Kentucky,13.3,0.6908
+2018,22095,Urban,St. John The Baptist Parish,Louisiana,13.3,0.7468
+2018,28041,Rural,Greene County,Mississippi,13.3,0.6067
+2018,45005,Rural,Allendale County,South Carolina,13.3,0.993
+2018,45031,Urban,Darlington County,South Carolina,13.3,0.9268
+2018,48027,Urban,Bell County,Texas,13.3,0.8051
+2018,51015,Urban,Augusta County,Virginia,13.3,0.149
+2018,51057,Rural,Essex County,Virginia,13.3,0.5634
+2018,51650,Urban,Hampton City,Virginia,13.3,0.6675
+2018,1031,Urban,Coffee County,Alabama,13.4,0.5408
+2018,13159,Urban,Jasper County,Georgia,13.4,0.6927
+2018,13175,Urban,Laurens County,Georgia,13.4,0.8013
+2018,22057,Urban,Lafourche Parish,Louisiana,13.4,0.7669
+2018,26119,Rural,Montmorency County,Michigan,13.4,0.3729
+2018,29155,Rural,Pemiscot County,Missouri,13.4,0.9303
+2018,30069,Rural,Petroleum County,Montana,13.4,0.0029
+2018,46071,Rural,Jackson County,South Dakota,13.4,0.9666
+2018,47077,Rural,Henderson County,Tennessee,13.4,0.6981
+2018,48129,Rural,Donley County,Texas,13.4,0.4525
+2018,48173,Urban,Glasscock County,Texas,13.4,0.1761
+2018,48225,Rural,Houston County,Texas,13.4,0.9131
+2018,48255,Rural,Karnes County,Texas,13.4,0.8424
+2018,48393,Rural,Roberts County,Texas,13.4,0.0911
+2018,51135,Rural,Nottoway County,Virginia,13.4,0.9096
+2018,2060,Rural,Bristol Bay Borough,Alaska,13.5,0.3525
+2018,5031,Urban,Craighead County,Arkansas,13.5,0.8041
+2018,28097,Rural,Montgomery County,Mississippi,13.5,0.8914
+2018,47025,Rural,Claiborne County,Tennessee,13.5,0.7102
+2018,47071,Rural,Hardin County,Tennessee,13.5,0.7064
+2018,47081,Urban,Hickman County,Tennessee,13.5,0.5662
+2018,48427,Urban,Starr County,Texas,13.5,0.9815
+2018,48497,Urban,Wise County,Texas,13.5,0.5768
+2018,51740,Urban,Portsmouth City,Virginia,13.5,0.8006
+2018,1129,Rural,Washington County,Alabama,13.6,0.7303
+2018,5095,Rural,Monroe County,Arkansas,13.6,0.8516
+2018,5133,Rural,Sevier County,Arkansas,13.6,0.7675
+2018,18031,Urban,Decatur County,Indiana,13.6,0.2102
+2018,20063,Rural,Gove County,Kansas,13.6,0.0975
+2018,21183,Rural,Ohio County,Kentucky,13.6,0.5799
+2018,22073,Urban,Ouachita Parish,Louisiana,13.6,0.8522
+2018,27125,Rural,Red Lake County,Minnesota,13.6,0.1525
+2018,28043,Urban,Grenada County,Mississippi,13.6,0.8771
+2018,28127,Urban,Simpson County,Mississippi,13.6,0.9073
+2018,29085,Rural,Hickory County,Missouri,13.6,0.4672
+2018,35031,Urban,Mckinley County,New Mexico,13.6,0.9889
+2018,47019,Urban,Carter County,Tennessee,13.6,0.6153
+2018,47137,Rural,Pickett County,Tennessee,13.6,0.4153
+2018,48275,Rural,Knox County,Texas,13.6,0.7962
+2018,51005,Rural,Alleghany County,Virginia,13.6,0.4462
+2018,51033,Urban,Caroline County,Virginia,13.6,0.3481
+2018,51163,Rural,Rockbridge County,Virginia,13.6,0.1433
+2018,51670,Urban,Hopewell City,Virginia,13.6,0.9408
+2018,1091,Rural,Marengo County,Alabama,13.7,0.7621
+2018,1105,Rural,Perry County,Alabama,13.7,0.9949
+2018,5127,Rural,Scott County,Arkansas,13.7,0.8873
+2018,13007,Urban,Baker County,Georgia,13.7,0.7424
+2018,13095,Urban,Dougherty County,Georgia,13.7,0.9513
+2018,13151,Urban,Henry County,Georgia,13.7,0.3137
+2018,17013,Urban,Calhoun County,Illinois,13.7,0.1901
+2018,17091,Urban,Kankakee County,Illinois,13.7,0.6656
+2018,17113,Urban,Mclean County,Illinois,13.7,0.1904
+2018,21207,Rural,Russell County,Kentucky,13.7,0.8634
+2018,21235,Urban,Whitley County,Kentucky,13.7,0.8379
+2018,26035,Rural,Clare County,Michigan,13.7,0.772
+2018,28001,Urban,Adams County,Mississippi,13.7,0.9914
+2018,29129,Rural,Mercer County,Missouri,13.7,0.3045
+2018,34033,Urban,Salem County,New Jersey,13.7,0.5901
+2018,41013,Urban,Crook County,Oregon,13.7,0.5729
+2018,47083,Rural,Houston County,Tennessee,13.7,0.5551
+2018,48005,Urban,Angelina County,Texas,13.7,0.9771
+2018,48065,Urban,Carson County,Texas,13.7,0.0338
+2018,48351,Urban,Newton County,Texas,13.7,0.7207
+2018,54043,Urban,Lincoln County,West Virginia,13.7,0.6057
+2018,54071,Rural,Pendleton County,West Virginia,13.7,0.358
+2018,54097,Rural,Upshur County,West Virginia,13.7,0.6911
+2018,55083,Urban,Oconto County,Wisconsin,13.7,0.064
+2018,5145,Urban,White County,Arkansas,13.8,0.7446
+2018,13241,Rural,Rabun County,Georgia,13.8,0.5341
+2018,18023,Urban,Clinton County,Indiana,13.8,0.571
+2018,20021,Rural,Cherokee County,Kansas,13.8,0.3828
+2018,22035,Rural,East Carroll Parish,Louisiana,13.8,0.9357
+2018,29091,Urban,Howell County,Missouri,13.8,0.6717
+2018,39117,Urban,Morrow County,Ohio,13.8,0.192
+2018,47115,Urban,Marion County,Tennessee,13.8,0.5061
+2018,48301,Rural,Loving County,Texas,13.8,0.7573
+2018,54013,Rural,Calhoun County,West Virginia,13.8,0.5239
+2018,1023,Rural,Choctaw County,Alabama,13.9,0.8748
+2018,13017,Urban,Ben Hill County,Georgia,13.9,0.8726
+2018,13153,Urban,Houston County,Georgia,13.9,0.5669
+2018,13233,Urban,Polk County,Georgia,13.9,0.8048
+2018,17069,Rural,Hardin County,Illinois,13.9,0.5019
+2018,21051,Rural,Clay County,Kentucky,13.9,0.9099
+2018,22069,Urban,Natchitoches Parish,Louisiana,13.9,0.8573
+2018,22081,Rural,Red River Parish,Louisiana,13.9,0.8137
+2018,24019,Urban,Dorchester County,Maryland,13.9,0.7506
+2018,40067,Rural,Jefferson County,Oklahoma,13.9,0.8745
+2018,45011,Rural,Barnwell County,South Carolina,13.9,0.9904
+2018,45075,Urban,Orangeburg County,South Carolina,13.9,0.9229
+2018,48019,Urban,Bandera County,Texas,13.9,0.5076
+2018,48369,Rural,Parmer County,Texas,13.9,0.7576
+2018,1013,Rural,Butler County,Alabama,14,0.8653
+2018,5101,Urban,Newton County,Arkansas,14,0.2815
+2018,6031,Urban,Kings County,California,14,0.9707
+2018,13129,Urban,Gordon County,Georgia,14,0.8806
+2018,15005,Urban,Kalawao County,Hawaii,14,0.3162
+2018,18069,Urban,Huntington County,Indiana,14,0.1248
+2018,20133,Rural,Neosho County,Kansas,14,0.658
+2018,21201,Rural,Robertson County,Kentucky,14,0.3538
+2018,28087,Urban,Lowndes County,Mississippi,14,0.7975
+2018,28119,Rural,Quitman County,Mississippi,14,0.9545
+2018,39001,Rural,Adams County,Ohio,14,0.7704
+2018,46069,Rural,Hyde County,South Dakota,14,0.0943
+2018,48083,Rural,Coleman County,Texas,14,0.4185
+2018,51685,Urban,Manassas Park City,Virginia,14,0.528
+2018,1101,Urban,Montgomery County,Alabama,14.1,0.8427
+2018,13163,Rural,Jefferson County,Georgia,14.1,0.9439
+2018,13195,Urban,Madison County,Georgia,14.1,0.6417
+2018,13319,Rural,Wilkinson County,Georgia,14.1,0.7873
+2018,17149,Rural,Pike County,Illinois,14.1,0.3494
+2018,21007,Urban,Ballard County,Kentucky,14.1,0.4459
+2018,26041,Urban,Delta County,Michigan,14.1,0.3545
+2018,28055,Rural,Issaquena County,Mississippi,14.1,0.951
+2018,28139,Rural,Tippah County,Mississippi,14.1,0.8646
+2018,37117,Rural,Martin County,North Carolina,14.1,0.7541
+2018,39079,Urban,Jackson County,Ohio,14.1,0.7726
+2018,40125,Urban,Pottawatomie County,Oklahoma,14.1,0.7815
+2018,48213,Urban,Henderson County,Texas,14.1,0.7201
+2018,13075,Rural,Cook County,Georgia,14.2,0.851
+2018,13169,Urban,Jones County,Georgia,14.2,0.3793
+2018,18177,Urban,Wayne County,Indiana,14.2,0.7105
+2018,22007,Rural,Assumption Parish,Louisiana,14.2,0.779
+2018,22009,Rural,Avoyelles Parish,Louisiana,14.2,0.9634
+2018,22043,Urban,Grant Parish,Louisiana,14.2,0.6274
+2018,22087,Urban,St. Bernard Parish,Louisiana,14.2,0.7713
+2018,38073,Rural,Ransom County,North Dakota,14.2,0.0857
+2018,42053,Rural,Forest County,Pennsylvania,14.2,0.7115
+2018,45059,Urban,Laurens County,South Carolina,14.2,0.9172
+2018,48227,Urban,Howard County,Texas,14.2,0.9153
+2018,48247,Rural,Jim Hogg County,Texas,14.2,0.9917
+2018,48433,Rural,Stonewall County,Texas,14.2,0.3236
+2018,51027,Rural,Buchanan County,Virginia,14.2,0.7545
+2018,12059,Rural,Holmes County,Florida,14.3,0.9347
+2018,17051,Rural,Fayette County,Illinois,14.3,0.5949
+2018,18109,Urban,Morgan County,Indiana,14.3,0.2156
+2018,21101,Urban,Henderson County,Kentucky,14.3,0.7089
+2018,30033,Rural,Garfield County,Montana,14.3,0.0076
+2018,48181,Urban,Grayson County,Texas,14.3,0.6592
+2018,1015,Urban,Calhoun County,Alabama,14.4,0.8252
+2018,2013,Rural,Aleutians East Borough,Alaska,14.4,0.5803
+2018,6015,Urban,Del Norte County,California,14.4,0.9713
+2018,19029,Rural,Cass County,Iowa,14.4,0.1981
+2018,21021,Urban,Boyle County,Kentucky,14.4,0.4315
+2018,22059,Rural,Lasalle Parish,Louisiana,14.4,0.7634
+2018,28147,Rural,Walthall County,Mississippi,14.4,0.8611
+2018,45049,Rural,Hampton County,South Carolina,14.4,0.8032
+2018,47043,Urban,Dickson County,Tennessee,14.4,0.429
+2018,51077,Rural,Grayson County,Virginia,14.4,0.6459
+2018,54023,Rural,Grant County,West Virginia,14.4,0.3675
+2018,1059,Rural,Franklin County,Alabama,14.5,0.8417
+2018,1087,Rural,Macon County,Alabama,14.5,0.8971
+2018,13173,Urban,Lanier County,Georgia,14.5,0.8697
+2018,13261,Urban,Sumter County,Georgia,14.5,0.9764
+2018,17105,Urban,Livingston County,Illinois,14.5,0.4841
+2018,28159,Rural,Winston County,Mississippi,14.5,0.9306
+2018,45023,Urban,Chester County,South Carolina,14.5,0.7363
+2018,47143,Urban,Rhea County,Tennessee,14.5,0.8207
+2018,48431,Rural,Sterling County,Texas,14.5,0.4127
+2018,48495,Rural,Winkler County,Texas,14.5,0.6541
+2018,49031,Rural,Piute County,Utah,14.5,0.2713
+2018,54031,Rural,Hardy County,West Virginia,14.5,0.285
+2018,5141,Rural,Van Buren County,Arkansas,14.6,0.7226
+2018,13087,Urban,Decatur County,Georgia,14.6,0.9455
+2018,16061,Rural,Lewis County,Idaho,14.6,0.5678
+2018,17189,Rural,Washington County,Illinois,14.6,0.0653
+2018,17203,Urban,Woodford County,Illinois,14.6,0.0188
+2018,20097,Rural,Kiowa County,Kansas,14.6,0.258
+2018,22031,Urban,De Soto Parish,Louisiana,14.6,0.8917
+2018,22107,Rural,Tensas Parish,Louisiana,14.6,0.8366
+2018,28067,Urban,Jones County,Mississippi,14.6,0.892
+2018,28095,Rural,Monroe County,Mississippi,14.6,0.6398
+2018,29069,Urban,Dunklin County,Missouri,14.6,0.958
+2018,40001,Rural,Adair County,Oklahoma,14.6,0.8965
+2018,48097,Urban,Cooke County,Texas,14.6,0.6226
+2018,48223,Urban,Hopkins County,Texas,14.6,0.7067
+2018,48327,Rural,Menard County,Texas,14.6,0.5854
+2018,51119,Rural,Middlesex County,Virginia,14.6,0.2025
+2018,1055,Urban,Etowah County,Alabama,14.7,0.6564
+2018,13301,Rural,Warren County,Georgia,14.7,0.8946
+2018,17145,Rural,Perry County,Illinois,14.7,0.6487
+2018,18095,Urban,Madison County,Indiana,14.7,0.6713
+2018,22111,Urban,Union Parish,Louisiana,14.7,0.808
+2018,29137,Rural,Monroe County,Missouri,14.7,0.3876
+2018,39125,Rural,Paulding County,Ohio,14.7,0.2885
+2018,41001,Rural,Baker County,Oregon,14.7,0.6854
+2018,42065,Rural,Jefferson County,Pennsylvania,14.7,0.3312
+2018,42087,Urban,Mifflin County,Pennsylvania,14.7,0.4723
+2018,48231,Urban,Hunt County,Texas,14.7,0.8341
+2018,1119,Rural,Sumter County,Alabama,14.8,0.9557
+2018,5053,Urban,Grant County,Arkansas,14.8,0.3541
+2018,5105,Urban,Perry County,Arkansas,14.8,0.636
+2018,5113,Rural,Polk County,Arkansas,14.8,0.8949
+2018,13191,Urban,Mcintosh County,Georgia,14.8,0.5863
+2018,18009,Rural,Blackford County,Indiana,14.8,0.371
+2018,20083,Rural,Hodgeman County,Kansas,14.8,0.1118
+2018,21041,Rural,Carroll County,Kentucky,14.8,0.8904
+2018,28051,Rural,Holmes County,Mississippi,14.8,0.9818
+2018,37093,Urban,Hoke County,North Carolina,14.8,0.8924
+2018,40055,Rural,Greer County,Oklahoma,14.8,0.7742
+2018,46017,Rural,Buffalo County,South Dakota,14.8,0.971
+2018,48045,Rural,Briscoe County,Texas,14.8,0.4564
+2018,48363,Urban,Palo Pinto County,Texas,14.8,0.8799
+2018,48467,Rural,Van Zandt County,Texas,14.8,0.5589
+2018,51091,Rural,Highland County,Virginia,14.8,0.065
+2018,51113,Rural,Madison County,Virginia,14.8,0.164
+2018,51590,Urban,Danville City,Virginia,14.8,0.9589
+2018,1051,Urban,Elmore County,Alabama,14.9,0.5401
+2018,5069,Urban,Jefferson County,Arkansas,14.9,0.9436
+2018,13245,Urban,Richmond County,Georgia,14.9,0.9328
+2018,13293,Urban,Upson County,Georgia,14.9,0.8532
+2018,16029,Rural,Caribou County,Idaho,14.9,0.1917
+2018,22003,Rural,Allen Parish,Louisiana,14.9,0.9261
+2018,22039,Rural,Evangeline Parish,Louisiana,14.9,0.9975
+2018,26129,Rural,Ogemaw County,Michigan,14.9,0.6258
+2018,26149,Urban,St. Joseph County,Michigan,14.9,0.6516
+2018,37153,Urban,Richmond County,North Carolina,14.9,0.9796
+2018,39175,Rural,Wyandot County,Ohio,14.9,0.2274
+2018,40141,Rural,Tillman County,Oklahoma,14.9,0.871
+2018,48009,Urban,Archer County,Texas,14.9,0.0898
+2018,48159,Rural,Franklin County,Texas,14.9,0.5277
+2018,51730,Urban,Petersburg City,Virginia,14.9,0.9643
+2018,5115,Urban,Pope County,Arkansas,15,0.7936
+2018,13069,Urban,Coffee County,Georgia,15,0.9506
+2018,13101,Urban,Echols County,Georgia,15,0.6615
+2018,13107,Rural,Emanuel County,Georgia,15,0.9768
+2018,18075,Rural,Jay County,Indiana,15,0.6748
+2018,28011,Urban,Bolivar County,Mississippi,15,0.9675
+2018,28161,Rural,Yalobusha County,Mississippi,15,0.7347
+2018,39037,Urban,Darke County,Ohio,15,0.1347
+2018,48267,Rural,Kimble County,Texas,15,0.5885
+2018,48447,Rural,Throckmorton County,Texas,15,0.2678
+2018,51790,Urban,Staunton City,Virginia,15,0.4449
+2018,54081,Urban,Raleigh County,West Virginia,15,0.7685
+2018,1067,Urban,Henry County,Alabama,15.1,0.5519
+2018,5109,Rural,Pike County,Arkansas,15.1,0.7124
+2018,6035,Urban,Lassen County,California,15.1,0.5997
+2018,8017,Rural,Cheyenne County,Colorado,15.1,0.2589
+2018,13179,Urban,Liberty County,Georgia,15.1,0.8882
+2018,13309,Rural,Wheeler County,Georgia,15.1,0.8124
+2018,17155,Urban,Putnam County,Illinois,15.1,0.0277
+2018,21043,Rural,Carter County,Kentucky,15.1,0.8204
+2018,22047,Urban,Iberville Parish,Louisiana,15.1,0.886
+2018,28057,Urban,Itawamba County,Mississippi,15.1,0.5487
+2018,30035,Rural,Glacier County,Montana,15.1,0.8583
+2018,48013,Urban,Atascosa County,Texas,15.1,0.8497
+2018,48059,Urban,Callahan County,Texas,15.1,0.2968
+2018,48279,Rural,Lamb County,Texas,15.1,0.8975
+2018,54099,Urban,Wayne County,West Virginia,15.1,0.6006
+2018,1131,Rural,Wilcox County,Alabama,15.2,0.928
+2018,13185,Urban,Lowndes County,Georgia,15.2,0.8662
+2018,18145,Urban,Shelby County,Indiana,15.2,0.2182
+2018,21071,Rural,Floyd County,Kentucky,15.2,0.8503
+2018,21153,Rural,Magoffin County,Kentucky,15.2,0.8057
+2018,28063,Rural,Jefferson County,Mississippi,15.2,0.9637
+2018,46031,Rural,Corson County,South Dakota,15.2,0.8395
+2018,48481,Urban,Wharton County,Texas,15.2,0.8758
+2018,5027,Urban,Columbia County,Arkansas,15.3,0.9398
+2018,5037,Rural,Cross County,Arkansas,15.3,0.7013
+2018,13285,Urban,Troup County,Georgia,15.3,0.9013
+2018,21133,Rural,Letcher County,Kentucky,15.3,0.8755
+2018,22101,Urban,St. Mary Parish,Louisiana,15.3,0.9162
+2018,26051,Rural,Gladwin County,Michigan,15.3,0.5398
+2018,28113,Urban,Pike County,Mississippi,15.3,0.9882
+2018,29119,Urban,Mcdonald County,Missouri,15.3,0.8631
+2018,32011,Urban,Eureka County,Nevada,15.3,0.0675
+2018,40035,Rural,Craig County,Oklahoma,15.3,0.8538
+2018,42005,Urban,Armstrong County,Pennsylvania,15.3,0.2475
+2018,45053,Urban,Jasper County,South Carolina,15.3,0.9449
+2018,48389,Urban,Reeves County,Texas,15.3,0.7803
+2018,48411,Rural,San Saba County,Texas,15.3,0.7315
+2018,51167,Rural,Russell County,Virginia,15.3,0.4487
+2018,54019,Urban,Fayette County,West Virginia,15.3,0.764
+2018,13043,Rural,Candler County,Georgia,15.4,0.9828
+2018,17171,Urban,Scott County,Illinois,15.4,0.1354
+2018,17185,Rural,Wabash County,Illinois,15.4,0.3207
+2018,21025,Rural,Breathitt County,Kentucky,15.4,0.822
+2018,22021,Rural,Caldwell Parish,Louisiana,15.4,0.9331
+2018,29151,Urban,Osage County,Missouri,15.4,0.0497
+2018,48043,Rural,Brewster County,Texas,15.4,0.6573
+2018,48241,Rural,Jasper County,Texas,15.4,0.8239
+2018,54051,Urban,Marshall County,West Virginia,15.4,0.2153
+2018,1065,Urban,Hale County,Alabama,15.5,0.9599
+2018,1109,Urban,Pike County,Alabama,15.5,0.9016
+2018,5093,Urban,Mississippi County,Arkansas,15.5,0.9554
+2018,13021,Urban,Bibb County,Georgia,15.5,0.9175
+2018,37121,Rural,Mitchell County,North Carolina,15.5,0.4223
+2018,37191,Urban,Wayne County,North Carolina,15.5,0.9503
+2018,38039,Rural,Griggs County,North Dakota,15.5,0.0732
+2018,48125,Rural,Dickens County,Texas,15.5,0.8796
+2018,13055,Urban,Chattooga County,Georgia,15.6,0.9252
+2018,17009,Rural,Brown County,Illinois,15.6,0.4745
+2018,29045,Urban,Clark County,Missouri,15.6,0.342
+2018,46095,Rural,Mellette County,South Dakota,15.6,0.9156
+2018,48507,Rural,Zavala County,Texas,15.6,0.9987
+2018,1071,Urban,Jackson County,Alabama,15.7,0.5726
+2018,12039,Urban,Gadsden County,Florida,15.7,0.9901
+2018,22079,Urban,Rapides Parish,Louisiana,15.7,0.9086
+2018,28053,Rural,Humphreys County,Mississippi,15.7,0.9369
+2018,29123,Rural,Madison County,Missouri,15.7,0.4777
+2018,37169,Urban,Stokes County,North Carolina,15.7,0.3067
+2018,39087,Urban,Lawrence County,Ohio,15.7,0.5583
+2018,45089,Rural,Williamsburg County,South Carolina,15.7,0.9704
+2018,47059,Urban,Greene County,Tennessee,15.7,0.5446
+2018,48051,Urban,Burleson County,Texas,15.7,0.608
+2018,48143,Urban,Erath County,Texas,15.7,0.6252
+2018,48239,Rural,Jackson County,Texas,15.7,0.6774
+2018,48295,Rural,Lipscomb County,Texas,15.7,0.4605
+2018,17059,Rural,Gallatin County,Illinois,15.8,0.4538
+2018,18083,Urban,Knox County,Indiana,15.8,0.5927
+2018,26079,Urban,Kalkaska County,Michigan,15.8,0.5083
+2018,39105,Rural,Meigs County,Ohio,15.8,0.6787
+2018,48257,Urban,Kaufman County,Texas,15.8,0.5691
+2018,48503,Rural,Young County,Texas,15.8,0.5532
+2018,5107,Urban,Phillips County,Arkansas,15.9,0.9239
+2018,19175,Rural,Union County,Iowa,15.9,0.4455
+2018,28099,Rural,Neshoba County,Mississippi,15.9,0.9685
+2018,45039,Urban,Fairfield County,South Carolina,15.9,0.7484
+2018,47171,Urban,Unicoi County,Tennessee,15.9,0.7981
+2018,51099,Rural,King George County,Virginia,15.9,0.0159
+2018,51820,Urban,Waynesboro City,Virginia,15.9,0.6013
+2018,1057,Rural,Fayette County,Alabama,16,0.7038
+2018,40103,Rural,Noble County,Oklahoma,16,0.3385
+2018,46137,Rural,Ziebach County,South Dakota,16,0.9538
+2018,47039,Rural,Decatur County,Tennessee,16,0.5086
+2018,51139,Rural,Page County,Virginia,16,0.3936
+2018,51735,Urban,Poquoson City,Virginia,16,0.0127
+2018,13213,Urban,Murray County,Georgia,16.1,0.7134
+2018,17041,Rural,Douglas County,Illinois,16.1,0.4439
+2018,18131,Rural,Pulaski County,Indiana,16.1,0.2309
+2018,22127,Rural,Winn Parish,Louisiana,16.1,0.7755
+2018,26135,Rural,Oscoda County,Michigan,16.1,0.6694
+2018,37149,Rural,Polk County,North Carolina,16.1,0.3825
+2018,47053,Rural,Gibson County,Tennessee,16.1,0.735
+2018,54063,Rural,Monroe County,West Virginia,16.1,0.4662
+2018,55078,Urban,Menominee County,Wisconsin,16.1,0.7672
+2018,21095,Rural,Harlan County,Kentucky,16.2,0.8803
+2018,30109,Rural,Wibaux County,Montana,16.2,0.3933
+2018,48379,Rural,Rains County,Texas,16.2,0.4016
+2018,48471,Urban,Walker County,Texas,16.2,0.6997
+2018,54091,Urban,Taylor County,West Virginia,16.2,0.4949
+2018,1021,Urban,Chilton County,Alabama,16.3,0.7602
+2018,13033,Urban,Burke County,Georgia,16.3,0.8455
+2018,13047,Urban,Catoosa County,Georgia,16.3,0.1318
+2018,17195,Urban,Whiteside County,Illinois,16.3,0.3283
+2018,22011,Urban,Beauregard Parish,Louisiana,16.3,0.6519
+2018,30003,Rural,Big Horn County,Montana,16.3,0.8274
+2018,48031,Rural,Blanco County,Texas,16.3,0.2783
+2018,48265,Urban,Kerr County,Texas,16.3,0.6959
+2018,48361,Urban,Orange County,Texas,16.3,0.5812
+2018,13011,Rural,Banks County,Georgia,16.4,0.5586
+2018,13217,Urban,Newton County,Georgia,16.4,0.707
+2018,17005,Urban,Bond County,Illinois,16.4,0.3732
+2018,22065,Rural,Madison Parish,Louisiana,16.4,0.9697
+2018,30085,Rural,Roosevelt County,Montana,16.4,0.8879
+2018,39171,Rural,Williams County,Ohio,16.4,0.2691
+2018,16063,Urban,Lincoln County,Idaho,16.5,0.5576
+2018,17159,Rural,Richland County,Illinois,16.5,0.4105
+2018,18133,Urban,Putnam County,Indiana,16.5,0.3484
+2018,28069,Urban,Kemper County,Mississippi,16.5,0.9274
+2018,39021,Urban,Champaign County,Ohio,16.5,0.2978
+2018,40063,Rural,Hughes County,Oklahoma,16.5,0.8115
+2018,46121,Rural,Todd County,South Dakota,16.5,0.9564
+2018,51105,Rural,Lee County,Virginia,16.5,0.8073
+2018,51678,Rural,Lexington City,Virginia,16.5,0.3226
+2018,13093,Rural,Dooly County,Georgia,16.6,0.9484
+2018,37163,Rural,Sampson County,North Carolina,16.6,0.9723
+2018,38079,Rural,Rolette County,North Dakota,16.6,0.907
+2018,48445,Rural,Terry County,Texas,16.6,0.9876
+2018,54035,Rural,Jackson County,West Virginia,16.6,0.2529
+2018,13099,Rural,Early County,Georgia,16.7,0.9201
+2018,17129,Urban,Menard County,Illinois,16.7,0.0484
+2018,28027,Urban,Coahoma County,Mississippi,16.7,0.9322
+2018,28153,Rural,Wayne County,Mississippi,16.7,0.8997
+2018,31173,Rural,Thurston County,Nebraska,16.7,0.8866
+2018,42057,Rural,Fulton County,Pennsylvania,16.7,0.2201
+2018,6049,Rural,Modoc County,California,16.8,0.7516
+2018,17021,Urban,Christian County,Illinois,16.8,0.2408
+2018,19007,Rural,Appanoose County,Iowa,16.8,0.3783
+2018,22117,Urban,Washington Parish,Louisiana,16.8,0.9962
+2018,28015,Urban,Carroll County,Mississippi,16.8,0.6303
+2018,38019,Rural,Cavalier County,North Dakota,16.8,0.0172
+2018,47097,Rural,Lauderdale County,Tennessee,16.8,0.9672
+2018,48387,Rural,Red River County,Texas,16.8,0.565
+2018,48485,Urban,Wichita County,Texas,16.8,0.8166
+2018,51036,Urban,Charles City County,Virginia,16.8,0.2366
+2018,51195,Urban,Wise County,Virginia,16.8,0.8599
+2018,54103,Rural,Wetzel County,West Virginia,16.8,0.4752
+2018,1047,Urban,Dallas County,Alabama,16.9,0.949
+2018,13253,Rural,Seminole County,Georgia,16.9,0.8344
+2018,17083,Urban,Jersey County,Illinois,16.9,0.1041
+2018,17157,Rural,Randolph County,Illinois,16.9,0.4567
+2018,28019,Rural,Choctaw County,Mississippi,16.9,0.8541
+2018,28151,Urban,Washington County,Mississippi,16.9,0.9783
+2018,37083,Urban,Halifax County,North Carolina,16.9,0.9646
+2018,37155,Urban,Robeson County,North Carolina,16.9,0.9911
+2018,37165,Urban,Scotland County,North Carolina,16.9,0.9936
+2018,48049,Urban,Brown County,Texas,16.9,0.6277
+2018,48349,Urban,Navarro County,Texas,16.9,0.9662
+2018,17075,Rural,Iroquois County,Illinois,17,0.3404
+2018,20205,Rural,Wilson County,Kansas,17,0.6366
+2018,29223,Rural,Wayne County,Missouri,17,0.7646
+2018,42067,Rural,Juniata County,Pennsylvania,17,0.4484
+2018,1017,Urban,Chambers County,Alabama,17.1,0.7382
+2018,5121,Rural,Randolph County,Arkansas,17.1,0.7166
+2018,18111,Urban,Newton County,Indiana,17.1,0.3366
+2018,21137,Urban,Lincoln County,Kentucky,17.1,0.7083
+2018,28133,Urban,Sunflower County,Mississippi,17.1,0.9494
+2018,54053,Urban,Mason County,West Virginia,17.1,0.5497
+2018,22049,Rural,Jackson Parish,Louisiana,17.2,0.9382
+2018,37185,Rural,Warren County,North Carolina,17.2,0.8943
+2018,47029,Urban,Cocke County,Tennessee,17.2,0.6857
+2018,48101,Rural,Cottle County,Texas,17.2,0.9363
+2018,48133,Rural,Eastland County,Texas,17.2,0.8067
+2018,13079,Urban,Crawford County,Georgia,17.3,0.6815
+2018,20075,Rural,Hamilton County,Kansas,17.3,0.2586
+2018,28021,Urban,Claiborne County,Mississippi,17.3,0.992
+2018,37095,Rural,Hyde County,North Carolina,17.3,0.8627
+2018,47021,Urban,Cheatham County,Tennessee,17.3,0.2369
+2018,1039,Rural,Covington County,Alabama,17.4,0.7723
+2018,1053,Rural,Escambia County,Alabama,17.4,0.8557
+2018,1113,Urban,Russell County,Alabama,17.4,0.9115
+2018,5099,Rural,Nevada County,Arkansas,17.4,0.8841
+2018,17029,Urban,Coles County,Illinois,17.4,0.4978
+2018,21119,Rural,Knott County,Kentucky,17.4,0.8548
+2018,28125,Rural,Sharkey County,Mississippi,17.4,0.9729
+2018,37065,Urban,Edgecombe County,North Carolina,17.4,0.9726
+2018,17023,Rural,Clark County,Illinois,17.5,0.2073
+2018,17055,Rural,Franklin County,Illinois,17.5,0.6092
+2018,48105,Rural,Crockett County,Texas,17.5,0.6892
+2018,51089,Urban,Henry County,Virginia,17.5,0.8857
+2018,55011,Rural,Buffalo County,Wisconsin,17.5,0.0576
+2018,13315,Rural,Wilcox County,Georgia,17.6,0.8169
+2018,28143,Urban,Tunica County,Mississippi,17.6,0.972
+2018,54095,Rural,Tyler County,West Virginia,17.6,0.2213
+2018,5025,Urban,Cleveland County,Arkansas,17.8,0.5643
+2018,13071,Urban,Colquitt County,Georgia,17.8,0.9812
+2018,18045,Rural,Fountain County,Indiana,17.8,0.2032
+2018,26127,Rural,Oceana County,Michigan,17.8,0.858
+2018,37045,Urban,Cleveland County,North Carolina,17.8,0.835
+2018,48191,Rural,Hall County,Texas,17.8,0.95
+2018,48373,Rural,Polk County,Texas,17.8,0.9121
+2018,51580,Rural,Covington City,Virginia,17.8,0.4634
+2018,18021,Urban,Clay County,Indiana,17.9,0.3338
+2018,20049,Rural,Elk County,Kansas,18,0.3895
+2018,46041,Rural,Dewey County,South Dakota,18,0.8831
+2018,48499,Rural,Wood County,Texas,18,0.6322
+2018,48185,Rural,Grimes County,Texas,18.1,0.8602
+2018,48253,Urban,Jones County,Texas,18.2,0.6328
+2018,51530,Rural,Buena Vista City,Virginia,18.2,0.3242
+2018,13165,Rural,Jenkins County,Georgia,18.3,0.8283
+2018,17025,Rural,Clay County,Illinois,18.3,0.6115
+2018,47151,Rural,Scott County,Tennessee,18.3,0.7637
+2018,13289,Urban,Twiggs County,Georgia,18.4,0.758
+2018,16077,Rural,Power County,Idaho,18.4,0.5162
+2018,20207,Rural,Woodson County,Kansas,18.4,0.4398
+2018,42127,Rural,Wayne County,Pennsylvania,18.4,0.2631
+2018,48035,Rural,Bosque County,Texas,18.4,0.6175
+2018,48487,Urban,Wilbarger County,Texas,18.4,0.9083
+2018,51640,Rural,Galax City,Virginia,18.4,0.9838
+2018,51690,Urban,Martinsville City,Virginia,18.4,0.9105
+2018,54077,Urban,Preston County,West Virginia,18.4,0.5732
+2018,1075,Rural,Lamar County,Alabama,18.5,0.6264
+2018,13131,Rural,Grady County,Georgia,18.5,0.9258
+2018,13235,Urban,Pulaski County,Georgia,18.5,0.8459
+2018,13305,Urban,Wayne County,Georgia,18.5,0.9166
+2018,16073,Urban,Owyhee County,Idaho,18.5,0.8245
+2018,2164,Rural,Lake and Peninsula Borough,Alaska,18.6,0.7978
+2018,21159,Rural,Martin County,Kentucky,18.6,0.8494
+2018,28009,Urban,Benton County,Mississippi,18.6,0.6605
+2018,40145,Urban,Wagoner County,Oklahoma,18.6,0.4245
+2018,47111,Urban,Macon County,Tennessee,18.6,0.6927
+2018,48077,Urban,Clay County,Texas,18.6,0.3182
+2018,48449,Urban,Titus County,Texas,18.6,0.8901
+2018,13155,Rural,Irwin County,Georgia,18.7,0.8408
+2018,28029,Urban,Copiah County,Mississippi,18.7,0.9411
+2018,48075,Rural,Childress County,Texas,18.7,0.75
+2018,48345,Rural,Motley County,Texas,18.7,0.7003
+2018,48385,Rural,Real County,Texas,18.7,0.7169
+2018,51021,Rural,Bland County,Virginia,18.7,0.3449
+2018,13149,Urban,Heard County,Georgia,18.8,0.7232
+2018,17173,Rural,Shelby County,Illinois,18.8,0.085
+2018,37181,Urban,Vance County,North Carolina,18.8,0.9787
+2018,46117,Urban,Stanley County,South Dakota,18.8,0.1099
+2018,48037,Urban,Bowie County,Texas,18.8,0.8529
+2018,47061,Rural,Grundy County,Tennessee,18.9,0.8685
+2018,48195,Rural,Hansford County,Texas,18.9,0.7615
+2018,48269,Rural,King County,Texas,18.9,0.1955
+2018,54047,Rural,Mcdowell County,West Virginia,18.9,0.9029
+2018,21187,Rural,Owen County,Kentucky,19,0.5264
+2018,45069,Urban,Marlboro County,South Carolina,19,0.9869
+2018,5135,Rural,Sharp County,Arkansas,19.1,0.6191
+2018,17035,Urban,Cumberland County,Illinois,19.1,0.1627
+2018,17137,Urban,Morgan County,Illinois,19.1,0.5045
+2018,40117,Urban,Pawnee County,Oklahoma,19.2,0.5424
+2018,48461,Rural,Upton County,Texas,19.2,0.6519
+2018,13177,Urban,Lee County,Georgia,19.3,0.3519
+2018,22029,Urban,Concordia Parish,Louisiana,19.3,0.9134
+2018,29093,Rural,Iron County,Missouri,19.4,0.7822
+2018,42059,Rural,Greene County,Pennsylvania,19.4,0.435
+2018,54101,Rural,Webster County,West Virginia,19.4,0.7487
+2018,13257,Urban,Stephens County,Georgia,19.5,0.7968
+2018,18079,Urban,Jennings County,Indiana,19.5,0.3847
+2018,32033,Rural,White Pine County,Nevada,19.6,0.3742
+2018,22123,Rural,West Carroll Parish,Louisiana,19.7,0.6685
+2018,51081,Rural,Greensville County,Virginia,19.7,0.814
+2018,1011,Rural,Bullock County,Alabama,19.8,0.8898
+2018,13161,Rural,Jeff Davis County,Georgia,19.8,0.9373
+2018,17121,Urban,Marion County,Illinois,19.8,0.7385
+2018,5047,Rural,Franklin County,Arkansas,19.9,0.5943
+2018,20109,Rural,Logan County,Kansas,19.9,0.1296
+2018,37091,Rural,Hertford County,North Carolina,20,0.9873
+2018,40073,Rural,Kingfisher County,Oklahoma,20,0.3806
+2018,54005,Urban,Boone County,West Virginia,20,0.7041
+2018,47075,Rural,Haywood County,Tennessee,20.1,0.8717
+2018,13197,Urban,Marion County,Georgia,20.2,0.8519
+2018,47041,Rural,Dekalb County,Tennessee,20.2,0.4306
+2018,21165,Urban,Menifee County,Kentucky,20.3,0.5847
+2018,13229,Urban,Pierce County,Georgia,20.4,0.657
+2018,13249,Urban,Schley County,Georgia,20.4,0.8248
+2018,37017,Rural,Bladen County,North Carolina,20.4,0.9446
+2018,48405,Rural,San Augustine County,Texas,20.5,0.8889
+2018,48455,Urban,Trinity County,Texas,20.5,0.8016
+2018,31007,Urban,Banner County,Nebraska,20.6,0.0041
+2018,54087,Rural,Roane County,West Virginia,20.6,0.6465
+2018,13227,Urban,Pickens County,Georgia,20.7,0.2796
+2018,48489,Urban,Willacy County,Texas,20.7,0.9892
+2018,17079,Rural,Jasper County,Illinois,20.8,0.2417
+2018,21105,Rural,Hickman County,Kentucky,20.8,0.5739
+2018,28037,Rural,Franklin County,Mississippi,20.8,0.5717
+2018,48417,Rural,Shackelford County,Texas,20.8,0.685
+2018,48291,Urban,Liberty County,Texas,20.9,0.9427
+2018,17193,Rural,White County,Illinois,21,0.5382
+2018,54017,Urban,Doddridge County,West Virginia,21,0.3608
+2018,38085,Urban,Sioux County,North Dakota,21.1,0.8844
+2018,46102,Rural,Oglala Lakota County,South Dakota,21.1,0.9943
+2018,1035,Rural,Conecuh County,Alabama,21.4,0.8086
+2018,28123,Rural,Scott County,Mississippi,21.4,0.985
+2018,48415,Urban,Scurry County,Texas,21.6,0.6994
+2018,29225,Urban,Webster County,Missouri,21.7,0.6385
+2018,48337,Rural,Montague County,Texas,21.8,0.5841
+2018,54059,Rural,Mingo County,West Virginia,21.8,0.785
+2018,48377,Rural,Presidio County,Texas,22,0.9981
+2018,18159,Rural,Tipton County,Indiana,22.2,0.0726
+2018,29083,Rural,Henry County,Missouri,22.2,0.5959
+2018,48161,Rural,Freestone County,Texas,22.2,0.843
+2018,47135,Rural,Perry County,Tennessee,22.3,0.6799
+2018,39131,Rural,Pike County,Ohio,22.5,0.7994
+2018,31115,Rural,Loup County,Nebraska,22.6,0.0045
+2018,54021,Rural,Gilmer County,West Virginia,22.6,0.7564
+2018,46111,Rural,Sanborn County,South Dakota,22.8,0.0385
+2018,13267,Rural,Tattnall County,Georgia,22.9,0.908
+2018,47069,Rural,Hardeman County,Tennessee,23.1,0.8672
+2018,13231,Urban,Pike County,Georgia,23.3,0.151
+2018,13035,Urban,Butts County,Georgia,23.5,0.7653
+2018,48263,Rural,Kent County,Texas,23.5,0.4427
+2018,48403,Rural,Sabine County,Texas,23.7,0.5309
+2018,54045,Urban,Logan County,West Virginia,23.7,0.7471
+2018,13209,Urban,Montgomery County,Georgia,23.8,0.8465
+2018,37015,Rural,Bertie County,North Carolina,23.9,0.9385
+2018,17107,Urban,Logan County,Illinois,24,0.2271
+2018,48335,Rural,Mitchell County,Texas,24,0.6213
+2018,18155,Rural,Switzerland County,Indiana,24.2,0.6271
+2018,18125,Urban,Pike County,Indiana,24.3,0.1745
+2018,48177,Rural,Gonzales County,Texas,24.3,0.8959
+2018,13321,Urban,Worth County,Georgia,24.4,0.7357
+2018,17187,Rural,Warren County,Illinois,24.5,0.6073
+2018,5129,Rural,Searcy County,Arkansas,24.6,0.4376
+2018,17087,Rural,Johnson County,Illinois,24.7,0.4624
+2018,22027,Rural,Claiborne Parish,Louisiana,25,0.9478
+2018,48305,Urban,Lynn County,Texas,25.2,0.8908
+2018,48067,Rural,Cass County,Texas,25.4,0.7841
+2018,30103,Rural,Treasure County,Montana,25.9,0.0567
+2018,17061,Rural,Greene County,Illinois,26,0.1952
+2018,37027,Urban,Caldwell County,North Carolina,26,0.651
+2018,37199,Rural,Yancey County,North Carolina,26.1,0.5736
+2018,55001,Rural,Adams County,Wisconsin,26.1,0.5685
+2018,13287,Rural,Turner County,Georgia,27.3,0.9809
+2018,17169,Rural,Schuyler County,Illinois,27.5,0.5707
+2018,1063,Rural,Greene County,Alabama,27.7,0.9854
+2018,21181,Rural,Nicholas County,Kentucky,28.9,0.8197
+2018,51520,Urban,Bristol City,Virginia,29,0.751
+2018,47129,Urban,Morgan County,Tennessee,29.3,0.7494
+2018,46073,Rural,Jerauld County,South Dakota,29.5,0.0506
+2018,48283,Rural,La Salle County,Texas,30.6,0.8191
+2018,13271,Rural,Telfair County,Georgia,31.5,0.8369
+2018,40105,Rural,Nowata County,Oklahoma,31.7,0.5895
+2018,19185,Rural,Wayne County,Iowa,31.9,0.4583
+2018,47101,Rural,Lewis County,Tennessee,32,0.6363
+2018,48197,Rural,Hardeman County,Texas,32.1,0.728
+2018,8025,Rural,Crowley County,Colorado,32.4,0.893
+2018,17039,Urban,De Witt County,Illinois,33.1,0.129
+2018,47095,Rural,Lake County,Tennessee,33.4,0.9185
+2018,17045,Rural,Edgar County,Illinois,34.3,0.3433
+2018,21147,Rural,Mccreary County,Kentucky,35.3,0.878
+2018,48163,Rural,Frio County,Texas,35.8,0.9866
+2018,46003,Rural,Aurora County,South Dakota,36.5,0.2726
+2018,48179,Urban,Gray County,Texas,37.8,0.8446
+2018,48025,Urban,Bee County,Texas,37.9,0.9694
+2018,17101,Rural,Lawrence County,Illinois,39.8,0.7783
+2018,48155,Rural,Foard County,Texas,44.3,0.4783
+2018,5067,Rural,Jackson County,Arkansas,51.7,0.765
+US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.,,,,,,

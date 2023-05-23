@@ -1,0 +1,3146 @@
+Severe Housing Cost Burden-Percent; NaturalBreaks,,,,,
+Data downloaded on 13-May-2023,,,,,
+Year,County_FIPS,County,State,Newly Diagnosed Diabetes Rate per 1000,Severe Housing Cost Burden
+2018,56039,Teton County,Wyoming,1.6,11.592565972
+2018,53055,San Juan County,Washington,2.1,15.825254941
+2018,38043,Kidder County,North Dakota,2.5,5.3359683794
+2018,39075,Holmes County,Ohio,3,7.3122698861
+2018,6057,Nevada County,California,3.1,18.834518682
+2018,47091,Johnson County,Tennessee,3.1,10.810810811
+2018,46021,Campbell County,South Dakota,3.2,7.2419106317
+2018,8027,Custer County,Colorado,3.5,9.0034965035
+2018,19191,Winneshiek County,Iowa,3.5,9.0339556447
+2018,5015,Carroll County,Arkansas,3.6,9.0572837633
+2018,8091,Ouray County,Colorado,3.6,19.492293744
+2018,8093,Park County,Colorado,3.6,10.906720742
+2018,8107,Routt County,Colorado,3.6,15.368141954
+2018,30031,Gallatin County,Montana,3.6,14.289587852
+2018,49043,Summit County,Utah,3.6,11.841445058
+2018,12087,Monroe County,Florida,3.7,21.985391348
+2018,8037,Eagle County,Colorado,3.8,20.594081272
+2018,16081,Teton County,Idaho,3.8,9.3298602889
+2018,16085,Valley County,Idaho,3.8,11.817946729
+2018,20131,Nemaha County,Kansas,3.8,7.220950928
+2018,26047,Emmet County,Michigan,3.9,11.499816648
+2018,30067,Park County,Montana,3.9,12.121212121
+2018,35049,Santa Fe County,New Mexico,3.9,14.714868458
+2018,8069,Larimer County,Colorado,4,15.07959457
+2018,8087,Morgan County,Colorado,4,12.285387257
+2018,8097,Pitkin County,Colorado,4,12.168421053
+2018,8117,Summit County,Colorado,4,11.649973643
+2018,19041,Clay County,Iowa,4,10.395068647
+2018,53031,Jefferson County,Washington,4,13.719953165
+2018,55063,La Crosse County,Wisconsin,4,11.920276781
+2018,8007,Archuleta County,Colorado,4.1,14.381388791
+2018,8035,Douglas County,Colorado,4.1,10.268725176
+2018,27101,Murray County,Minnesota,4.1,6.7571469824
+2018,31091,Hooker County,Nebraska,4.1,9.0604026846
+2018,34019,Hunterdon County,New Jersey,4.2,11.686204172
+2018,49055,Wayne County,Utah,4.2,7.1134020619
+2018,55089,Ozaukee County,Wisconsin,4.2,10.224874054
+2018,8013,Boulder County,Colorado,4.3,17.66764362
+2018,8059,Jefferson County,Colorado,4.3,12.202890579
+2018,8067,La Plata County,Colorado,4.3,12.446310506
+2018,19093,Ida County,Iowa,4.3,4.8473967684
+2018,19151,Pocahontas County,Iowa,4.3,6.8036375884
+2018,27075,Lake County,Minnesota,4.3,10.760741033
+2018,29173,Ralls County,Missouri,4.3,11.704002014
+2018,35055,Taos County,New Mexico,4.3,13.323770146
+2018,37005,Alleghany County,North Carolina,4.3,13.837011885
+2018,51013,Arlington County,Virginia,4.3,12.881672195
+2018,56019,Johnson County,Wyoming,4.3,8.073289436
+2018,6041,Marin County,California,4.4,18.655032199
+2018,19089,Howard County,Iowa,4.4,5.6572379368
+2018,19143,Osceola County,Iowa,4.4,6.5662417922
+2018,21167,Mercer County,Kentucky,4.4,8.8042970574
+2018,29003,Andrew County,Missouri,4.4,9.1496394231
+2018,27067,Kandiyohi County,Minnesota,4.5,10.926150121
+2018,27131,Rice County,Minnesota,4.5,10.50866899
+2018,29141,Morgan County,Missouri,4.5,11.530708238
+2018,30011,Carter County,Montana,4.5,11.07266436
+2018,34027,Morris County,New Jersey,4.5,13.437291721
+2018,34035,Somerset County,New Jersey,4.5,14.849681399
+2018,51063,Floyd County,Virginia,4.5,11.688107939
+2018,55075,Marinette County,Wisconsin,4.5,9.8258844405
+2018,8103,Rio Blanco County,Colorado,4.6,11.723570547
+2018,12115,Sarasota County,Florida,4.6,14.406237462
+2018,30063,Missoula County,Montana,4.6,14.898424501
+2018,41003,Benton County,Oregon,4.6,18.219633943
+2018,41057,Tillamook County,Oregon,4.6,10.097993467
+2018,46063,Harding County,South Dakota,4.6,5.9770114943
+2018,51079,Greene County,Virginia,4.6,7.9001792362
+2018,55109,St. Croix County,Wisconsin,4.6,8.599479882
+2018,8063,Kit Carson County,Colorado,4.7,10.294117647
+2018,13291,Union County,Georgia,4.7,13.329875519
+2018,16041,Franklin County,Idaho,4.7,8.5838879963
+2018,20165,Rush County,Kansas,4.7,6.6811909949
+2018,27045,Fillmore County,Minnesota,4.7,8.4904541681
+2018,49051,Wasatch County,Utah,4.7,11.738616203
+2018,50001,Addison County,Vermont,4.7,11.917243307
+2018,51059,Fairfax County,Virginia,4.7,12.229076953
+2018,55007,Bayfield County,Wisconsin,4.7,9.105548236
+2018,55025,Dane County,Wisconsin,4.7,12.773340258
+2018,55069,Lincoln County,Wisconsin,4.7,8.1652490887
+2018,6061,Placer County,California,4.8,14.564606742
+2018,19071,Fremont County,Iowa,4.8,6.5263157895
+2018,25017,Middlesex County,Massachusetts,4.8,14.213296223
+2018,25019,Nantucket County,Massachusetts,4.8,17.46031746
+2018,27043,Faribault County,Minnesota,4.8,8.1399317406
+2018,30009,Carbon County,Montana,4.8,9.9333180041
+2018,30057,Madison County,Montana,4.8,11.728395062
+2018,31027,Cedar County,Nebraska,4.8,6.1469265367
+2018,46097,Miner County,South Dakota,4.8,11.419068736
+2018,55043,Grant County,Wisconsin,4.8,11.198511826
+2018,55127,Walworth County,Wisconsin,4.8,12.233000074
+2018,6087,Santa Cruz County,California,4.9,20.421551163
+2018,12085,Martin County,Florida,4.9,14.09563541
+2018,18101,Martin County,Indiana,4.9,7.6787067441
+2018,25015,Hampshire County,Massachusetts,4.9,14.746559535
+2018,27005,Becker County,Minnesota,4.9,9.6037708057
+2018,31039,Cuming County,Nebraska,4.9,5.8236721488
+2018,35007,Colfax County,New Mexico,4.9,10.462594868
+2018,35027,Lincoln County,New Mexico,4.9,10.674583123
+2018,37129,New Hanover County,North Carolina,4.9,17.423346566
+2018,41027,Hood River County,Oregon,4.9,8.9833116345
+2018,50025,Windham County,Vermont,4.9,16.03920935
+2018,55019,Clark County,Wisconsin,4.9,8.9298655286
+2018,55055,Jefferson County,Wisconsin,4.9,10.000924015
+2018,55073,Marathon County,Wisconsin,4.9,8.8416187495
+2018,2068,Denali Borough,Alaska,5,7.2135785007
+2018,12021,Collier County,Florida,5,16.87214469
+2018,18147,Spencer County,Indiana,5,5.869916677
+2018,19081,Hancock County,Iowa,5,9.0416305291
+2018,19161,Sac County,Iowa,5,6.6303575657
+2018,20183,Smith County,Kansas,5,6.3994828701
+2018,26055,Grand Traverse County,Michigan,5,11.375761168
+2018,27055,Houston County,Minnesota,5,7.9275905119
+2018,27117,Pipestone County,Minnesota,5,10.490956072
+2018,34025,Monmouth County,New Jersey,5,16.290322581
+2018,36061,New York County,New York,5,19.745008584
+2018,36079,Putnam County,New York,5,15.940177145
+2018,41065,Wasco County,Oregon,5,10.702541106
+2018,44009,Washington County,Rhode Island,5,12.087122534
+2018,49019,Grand County,Utah,5,15.711947627
+2018,51075,Goochland County,Virginia,5,7.6050620821
+2018,51510,Alexandria City,Virginia,5,13.778453494
+2018,55045,Green County,Wisconsin,5,9.0332591243
+2018,55085,Oneida County,Wisconsin,5,9.3513935921
+2018,56001,Albany County,Wyoming,5,21.817604067
+2018,6021,Glenn County,California,5.1,19.51093151
+2018,6083,Santa Barbara County,California,5.1,19.641755454
+2018,8049,Grand County,Colorado,5.1,10.834432718
+2018,12086,Miami-Dade County,Florida,5.1,25.304486002
+2018,17103,Lee County,Illinois,5.1,9.4484629295
+2018,18049,Fulton County,Indiana,5.1,9.3577257173
+2018,19049,Dallas County,Iowa,5.1,6.7862378201
+2018,19157,Poweshiek County,Iowa,5.1,12.020493957
+2018,19189,Winnebago County,Iowa,5.1,5.9377100605
+2018,27035,Crow Wing County,Minnesota,5.1,10.446544377
+2018,27051,Grant County,Minnesota,5.1,7.7290836653
+2018,27145,Stearns County,Minnesota,5.1,10.696074741
+2018,30007,Broadwater County,Montana,5.1,7.1367521368
+2018,31009,Blaine County,Nebraska,5.1,10.43956044
+2018,31069,Garden County,Nebraska,5.1,5.376344086
+2018,38045,Lamoure County,North Dakota,5.1,5.0837666089
+2018,38069,Pierce County,North Dakota,5.1,18.068887634
+2018,46051,Grant County,South Dakota,5.1,8.0865224626
+2018,50007,Chittenden County,Vermont,5.1,15.673656119
+2018,56035,Sublette County,Wyoming,5.1,7.2011661808
+2018,8015,Chaffee County,Colorado,5.2,13.709677419
+2018,8041,El Paso County,Colorado,5.2,14.026499146
+2018,12071,Lee County,Florida,5.2,15.620909919
+2018,24035,Queen Anne&#39;s County,Maryland,5.2,11.329807535
+2018,25001,Barnstable County,Massachusetts,5.2,15.612894964
+2018,27047,Freeborn County,Minnesota,5.2,8.2315872391
+2018,27053,Hennepin County,Minnesota,5.2,12.554632219
+2018,29186,Ste. Genevieve County,Missouri,5.2,7.5053003534
+2018,30043,Jefferson County,Montana,5.2,8.1182543407
+2018,30099,Teton County,Montana,5.2,10.617928634
+2018,35023,Hidalgo County,New Mexico,5.2,11.603243918
+2018,37115,Madison County,North Carolina,5.2,11.479855372
+2018,37125,Moore County,North Carolina,5.2,11.387142567
+2018,42011,Berks County,Pennsylvania,5.2,11.978174033
+2018,42019,Butler County,Pennsylvania,5.2,9.4893684294
+2018,42025,Carbon County,Pennsylvania,5.2,12.724382584
+2018,44001,Bristol County,Rhode Island,5.2,15.017839766
+2018,44005,Newport County,Rhode Island,5.2,14.997922725
+2018,49001,Beaver County,Utah,5.2,6.1419472247
+2018,51107,Loudoun County,Virginia,5.2,8.8577249472
+2018,55017,Chippewa County,Wisconsin,5.2,9.7565755948
+2018,4005,Coconino County,Arizona,5.3,15.750422306
+2018,6001,Alameda County,California,5.3,17.07669449
+2018,8051,Gunnison County,Colorado,5.3,17.631103074
+2018,26089,Leelanau County,Michigan,5.3,10.17699115
+2018,27139,Scott County,Minnesota,5.3,8.0363563724
+2018,27171,Wright County,Minnesota,5.3,8.403483009
+2018,31071,Garfield County,Nebraska,5.3,8.3044982699
+2018,31085,Hayes County,Nebraska,5.3,11.797752809
+2018,31095,Jefferson County,Nebraska,5.3,11.505588429
+2018,32005,Douglas County,Nevada,5.3,12.871769868
+2018,33003,Carroll County,New Hampshire,5.3,13.244849993
+2018,35028,Los Alamos County,New Mexico,5.3,3.4695451041
+2018,39137,Putnam County,Ohio,5.3,5.3732944964
+2018,45013,Beaufort County,South Carolina,5.3,13.762254394
+2018,55051,Iron County,Wisconsin,5.3,12.386487468
+2018,55131,Washington County,Wisconsin,5.3,7.2843628269
+2018,55135,Waupaca County,Wisconsin,5.3,10.078647088
+2018,4019,Pima County,Arizona,5.4,14.612485531
+2018,4025,Yavapai County,Arizona,5.4,14.471824495
+2018,9001,Fairfield County,Connecticut,5.4,18.881856852
+2018,16057,Latah County,Idaho,5.4,15.231702595
+2018,19079,Hamilton County,Iowa,5.4,7.3846153846
+2018,19123,Mahaska County,Iowa,5.4,10.60713442
+2018,27049,Goodhue County,Minnesota,5.4,10.138998164
+2018,29107,Lafayette County,Missouri,5.4,8.8903362371
+2018,29121,Macon County,Missouri,5.4,7.7713887437
+2018,29131,Miller County,Missouri,5.4,6.7323151125
+2018,29153,Ozark County,Missouri,5.4,9.0112298001
+2018,46055,Haakon County,South Dakota,5.4,6.5040650407
+2018,51115,Mathews County,Virginia,5.4,11.166448231
+2018,51610,Falls Church City,Virginia,5.4,11.834319527
+2018,6023,Humboldt County,California,5.5,21.584379144
+2018,8029,Delta County,Colorado,5.5,18.044541927
+2018,16013,Blaine County,Idaho,5.5,13.084702908
+2018,19039,Clarke County,Iowa,5.5,13.976531943
+2018,23023,Sagadahoc County,Maine,5.5,11.315772525
+2018,26155,Shiawassee County,Michigan,5.5,9.2028611459
+2018,27027,Clay County,Minnesota,5.5,13.174892348
+2018,27037,Dakota County,Minnesota,5.5,9.0526954412
+2018,27107,Norman County,Minnesota,5.5,8.0468454855
+2018,29035,Carter County,Missouri,5.5,5.2728106373
+2018,33009,Grafton County,New Hampshire,5.5,13.599113418
+2018,33015,Rockingham County,New Hampshire,5.5,11.50216443
+2018,34039,Union County,New Jersey,5.5,18.371591927
+2018,35001,Bernalillo County,New Mexico,5.5,15.929421296
+2018,6011,Colusa County,California,5.6,11.267806268
+2018,6097,Sonoma County,California,5.6,18.20354338
+2018,8014,Broomfield County,Colorado,5.6,10.768254916
+2018,8045,Garfield County,Colorado,5.6,10.513343129
+2018,12103,Pinellas County,Florida,5.6,15.833795372
+2018,17165,Saline County,Illinois,5.6,12.405665254
+2018,19031,Cedar County,Iowa,5.6,6.8774265114
+2018,19129,Mills County,Iowa,5.6,8.8946780796
+2018,23005,Cumberland County,Maine,5.6,12.684850749
+2018,24041,Talbot County,Maryland,5.6,15.943285245
+2018,29029,Camden County,Missouri,5.6,11.560902256
+2018,29161,Phelps County,Missouri,5.6,12.728842832
+2018,30001,Beaverhead County,Montana,5.6,16.175359033
+2018,31113,Logan County,Nebraska,5.6,14.444444444
+2018,35057,Torrance County,New Mexico,5.6,10.718700336
+2018,37021,Buncombe County,North Carolina,5.6,12.144425518
+2018,37109,Lincoln County,North Carolina,5.6,9.8515519568
+2018,46105,Perkins County,South Dakota,5.6,8.3125519534
+2018,55081,Monroe County,Wisconsin,5.6,8.6485253009
+2018,55123,Vernon County,Wisconsin,5.6,12.082834161
+2018,6073,San Diego County,California,5.7,20.404607904
+2018,8031,Denver County,Colorado,5.7,15.46178615
+2018,8115,Sedgwick County,Colorado,5.7,9.2693565976
+2018,9005,Litchfield County,Connecticut,5.7,13.988331644
+2018,11001,District Of Columbia,District of Columbia,5.7,16.839312966
+2018,18151,Steuben County,Indiana,5.7,8.101918122
+2018,21063,Elliott County,Kentucky,5.7,8.5906040268
+2018,21209,Scott County,Kentucky,5.7,6.7354487055
+2018,21233,Webster County,Kentucky,5.7,8.8568935428
+2018,23013,Knox County,Maine,5.7,11.007330338
+2018,27057,Hubbard County,Minnesota,5.7,9.4156224382
+2018,27113,Pennington County,Minnesota,5.7,9.1140962421
+2018,30055,Mccone County,Montana,5.7,10.094212651
+2018,31031,Cherry County,Nebraska,5.7,10.579710145
+2018,33013,Merrimack County,New Hampshire,5.7,11.675998763
+2018,36071,Orange County,New York,5.7,18.640549904
+2018,36119,Westchester County,New York,5.7,19.616864915
+2018,42029,Chester County,Pennsylvania,5.7,11.159894081
+2018,42119,Union County,Pennsylvania,5.7,11.469509241
+2018,46081,Lawrence County,South Dakota,5.7,12.113378266
+2018,47187,Williamson County,Tennessee,5.7,9.2771447974
+2018,49005,Cache County,Utah,5.7,11.869948
+2018,49053,Washington County,Utah,5.7,12.394235399
+2018,55121,Trempealeau County,Wisconsin,5.7,7.712585034
+2018,12035,Flagler County,Florida,5.8,13.571962966
+2018,19077,Guthrie County,Iowa,5.8,9.7617395327
+2018,24027,Howard County,Maryland,5.8,11.11876526
+2018,27001,Aitkin County,Minnesota,5.8,12.82967033
+2018,27021,Cass County,Minnesota,5.8,11.251648949
+2018,27103,Nicollet County,Minnesota,5.8,10.788022065
+2018,27111,Otter Tail County,Minnesota,5.8,10.297922056
+2018,27133,Rock County,Minnesota,5.8,5.722350526
+2018,27163,Washington County,Minnesota,5.8,9.0159259885
+2018,30029,Flathead County,Montana,5.8,12.903308937
+2018,31143,Polk County,Nebraska,5.8,4.4050632911
+2018,35003,Catron County,New Mexico,5.8,6.8989547038
+2018,35041,Roosevelt County,New Mexico,5.8,16.70057912
+2018,37039,Cherokee County,North Carolina,5.8,9.8732106339
+2018,38009,Bottineau County,North Dakota,5.8,7.0997515087
+2018,40045,Ellis County,Oklahoma,5.8,6.1643835616
+2018,46045,Edmunds County,South Dakota,5.8,9.0479405807
+2018,49049,Utah County,Utah,5.8,11.011070898
+2018,50013,Grand Isle County,Vermont,5.8,15.295322636
+2018,55041,Forest County,Wisconsin,5.8,9.7180399672
+2018,56007,Carbon County,Wyoming,5.8,9.0519458255
+2018,56011,Crook County,Wyoming,5.8,10.076923077
+2018,4013,Maricopa County,Arizona,5.9,13.806087854
+2018,5137,Stone County,Arkansas,5.9,11.628949137
+2018,8039,Elbert County,Colorado,5.9,11.859273066
+2018,8043,Fremont County,Colorado,5.9,11.778974147
+2018,8047,Gilpin County,Colorado,5.9,14.538878843
+2018,9013,Tolland County,Connecticut,5.9,13.209368398
+2018,12073,Leon County,Florida,5.9,18.826808677
+2018,12109,St. Johns County,Florida,5.9,11.612223865
+2018,19017,Bremer County,Iowa,5.9,6.7796610169
+2018,19149,Plymouth County,Iowa,5.9,5.9671605927
+2018,20199,Wallace County,Kansas,5.9,2.5782688766
+2018,24031,Montgomery County,Maryland,5.9,14.447812339
+2018,25011,Franklin County,Massachusetts,5.9,15.679558379
+2018,27109,Olmsted County,Minnesota,5.9,10.351299326
+2018,30049,Lewis And Clark County,Montana,5.9,10.164157219
+2018,30079,Prairie County,Montana,5.9,7.3226544622
+2018,30081,Ravalli County,Montana,5.9,13.557948362
+2018,31165,Sioux County,Nebraska,5.9,6.712962963
+2018,32031,Washoe County,Nevada,5.9,13.783154651
+2018,36077,Otsego County,New York,5.9,12.064784341
+2018,37135,Orange County,North Carolina,5.9,14.741297667
+2018,46067,Hutchinson County,South Dakota,5.9,7.3983169705
+2018,48033,Borden County,Texas,5.9,No Data
+2018,48107,Crosby County,Texas,5.9,7.3678861789
+2018,48371,Pecos County,Texas,5.9,8.8986784141
+2018,56033,Sheridan County,Wyoming,5.9,13.404657017
+2018,5009,Boone County,Arkansas,6,7.556605084
+2018,12089,Nassau County,Florida,6,10.62383242
+2018,17067,Hancock County,Illinois,6,4.8907103825
+2018,19053,Decatur County,Iowa,6,9.9707697304
+2018,20071,Greeley County,Kansas,6,5.8558558559
+2018,20081,Haskell County,Kansas,6,9.649122807
+2018,20179,Sheridan County,Kansas,6,8.5064292779
+2018,20187,Stanton County,Kansas,6,4.7872340426
+2018,26093,Livingston County,Michigan,6,8.7105347378
+2018,27073,Lac Qui Parle County,Minnesota,6,7.7027948194
+2018,27097,Morrison County,Minnesota,6,9.2894517328
+2018,27137,St. Louis County,Minnesota,6,11.575245631
+2018,29105,Laclede County,Missouri,6,8.2417982105
+2018,29147,Nodaway County,Missouri,6,11.325533711
+2018,31177,Washington County,Nebraska,6,7.1482317532
+2018,33001,Belknap County,New Hampshire,6,13.955253696
+2018,39149,Shelby County,Ohio,6,5.9891702675
+2018,41017,Deschutes County,Oregon,6,15.741715413
+2018,46015,Brule County,South Dakota,6,6.9185475957
+2018,46101,Moody County,South Dakota,6,8.8871096878
+2018,53043,Lincoln County,Washington,6,8.2819986311
+2018,55047,Green Lake County,Wisconsin,6,9.4972067039
+2018,55071,Manitowoc County,Wisconsin,6,7.6603078386
+2018,55117,Sheboygan County,Wisconsin,6,8.1513426241
+2018,2110,Juneau City and Borough,Alaska,6.1,9.2483274301
+2018,6045,Mendocino County,California,6.1,20.068758058
+2018,6115,Yuba County,California,6.1,15.437211847
+2018,8119,Teller County,Colorado,6.1,11.311053985
+2018,8123,Weld County,Colorado,6.1,13.172805953
+2018,12011,Broward County,Florida,6.1,21.462881778
+2018,19137,Montgomery County,Iowa,6.1,7.0530726257
+2018,20091,Johnson County,Kansas,6.1,8.7316336101
+2018,20115,Marion County,Kansas,6.1,5.9711007225
+2018,26087,Lapeer County,Michigan,6.1,10.158587672
+2018,26161,Washtenaw County,Michigan,6.1,15.979348269
+2018,27041,Douglas County,Minnesota,6.1,9.9993925035
+2018,29019,Boone County,Missouri,6.1,14.616644123
+2018,30025,Fallon County,Montana,6.1,6.6608238387
+2018,30065,Musselshell County,Montana,6.1,9.682224429
+2018,31005,Arthur County,Nebraska,6.1,15.243902439
+2018,31097,Johnson County,Nebraska,6.1,8.9125560538
+2018,31135,Perkins County,Nebraska,6.1,8.4055459272
+2018,36059,Nassau County,New York,6.1,17.99256118
+2018,36069,Ontario County,New York,6.1,9.2813169165
+2018,36103,Suffolk County,New York,6.1,18.336135767
+2018,37167,Stanly County,North Carolina,6.1,9.4425883594
+2018,38065,Oliver County,North Dakota,6.1,9.2957746479
+2018,38089,Stark County,North Dakota,6.1,12.152606479
+2018,47161,Stewart County,Tennessee,6.1,6.7796610169
+2018,48093,Comanche County,Texas,6.1,6.807003738
+2018,49033,Rich County,Utah,6.1,3.8983050847
+2018,50023,Washington County,Vermont,6.1,11.811500565
+2018,51045,Craig County,Virginia,6.1,6.2875635691
+2018,51133,Northumberland County,Virginia,6.1,12.77686253
+2018,51145,Powhatan County,Virginia,6.1,6.0641742714
+2018,51179,Stafford County,Virginia,6.1,8.55174448
+2018,55003,Ashland County,Wisconsin,6.1,11.347291034
+2018,55027,Dodge County,Wisconsin,6.1,10.190711894
+2018,55107,Rusk County,Wisconsin,6.1,9.2712028378
+2018,5087,Madison County,Arkansas,6.2,7.0925730377
+2018,6111,Ventura County,California,6.2,18.396612381
+2018,16001,Ada County,Idaho,6.2,10.635863284
+2018,16051,Jefferson County,Idaho,6.2,7.2615092549
+2018,18027,Daviess County,Indiana,6.2,8.7618340449
+2018,18057,Hamilton County,Indiana,6.2,7.3790365664
+2018,19061,Dubuque County,Iowa,6.2,10.196119781
+2018,19127,Marshall County,Iowa,6.2,7.9548526629
+2018,19171,Tama County,Iowa,6.2,10.33982928
+2018,21151,Madison County,Kentucky,6.2,12.339926559
+2018,26085,Lake County,Michigan,6.2,13.02247427
+2018,26101,Manistee County,Michigan,6.2,9.2737666737
+2018,27121,Pope County,Minnesota,6.2,9.6360628619
+2018,29179,Reynolds County,Missouri,6.2,5.76
+2018,31011,Boone County,Nebraska,6.2,8.0348943985
+2018,32027,Pershing County,Nevada,6.2,6.940874036
+2018,36027,Dutchess County,New York,6.2,16.339577758
+2018,42117,Tioga County,Pennsylvania,6.2,10.404329831
+2018,46039,Deuel County,South Dakota,6.2,5.0558495003
+2018,48453,Travis County,Texas,6.2,14.917579222
+2018,50015,Lamoille County,Vermont,6.2,15.440889583
+2018,53037,Kittitas County,Washington,6.2,19.013588869
+2018,53065,Stevens County,Washington,6.2,11.185318543
+2018,55133,Waukesha County,Wisconsin,6.2,10.366019264
+2018,56029,Park County,Wyoming,6.2,8.3900226757
+2018,6007,Butte County,California,6.3,18.406006066
+2018,6013,Contra Costa County,California,6.3,16.470856534
+2018,6043,Mariposa County,California,6.3,19.160244486
+2018,6079,San Luis Obispo County,California,6.3,18.420543947
+2018,8125,Yuma County,Colorado,6.3,8.714880333
+2018,12099,Palm Beach County,Florida,6.3,19.360687456
+2018,16009,Benewah County,Idaho,6.3,8.1862886896
+2018,17007,Boone County,Illinois,6.3,12.074186223
+2018,19021,Buena Vista County,Iowa,6.3,7.1672821775
+2018,20151,Pratt County,Kansas,6.3,8.4495259342
+2018,21039,Carlisle County,Kentucky,6.3,6.967882417
+2018,25009,Essex County,Massachusetts,6.3,17.234274926
+2018,26011,Arenac County,Michigan,6.3,8.2105922908
+2018,26021,Berrien County,Michigan,6.3,12.473297132
+2018,27011,Big Stone County,Minnesota,6.3,7.8341013825
+2018,27079,Le Sueur County,Minnesota,6.3,8.2224247949
+2018,27141,Sherburne County,Minnesota,6.3,8.1435727236
+2018,31045,Dawes County,Nebraska,6.3,11.150234742
+2018,31075,Grant County,Nebraska,6.3,17.24137931
+2018,31129,Nuckolls County,Nebraska,6.3,4.2777777778
+2018,35035,Otero County,New Mexico,6.3,9.530524975
+2018,36113,Warren County,New York,6.3,11.350093438
+2018,38093,Stutsman County,North Dakota,6.3,13.067729084
+2018,46075,Jones County,South Dakota,6.3,4.8257372654
+2018,46103,Pennington County,South Dakota,6.3,10.33073207
+2018,48069,Castro County,Texas,6.3,10.620220901
+2018,48205,Hartley County,Texas,6.3,9.7966728281
+2018,49023,Juab County,Utah,6.3,5.7488207547
+2018,49035,Salt Lake County,Utah,6.3,11.024554472
+2018,51043,Clarke County,Virginia,6.3,13.404333456
+2018,53007,Chelan County,Washington,6.3,10.710073973
+2018,53033,King County,Washington,6.3,14.282333894
+2018,53057,Skagit County,Washington,6.3,12.663655475
+2018,55035,Eau Claire County,Wisconsin,6.3,11.052425665
+2018,4023,Santa Cruz County,Arizona,6.4,12.670603675
+2018,5063,Independence County,Arkansas,6.4,10.017053459
+2018,6063,Plumas County,California,6.4,14.166354907
+2018,12015,Charlotte County,Florida,6.4,13.492226648
+2018,12061,Indian River County,Florida,6.4,12.716714358
+2018,13005,Bacon County,Georgia,6.4,14.08004607
+2018,16017,Bonner County,Idaho,6.4,14.300482426
+2018,18007,Benton County,Indiana,6.4,10.156011013
+2018,21227,Warren County,Kentucky,6.4,14.077079943
+2018,24013,Carroll County,Maryland,6.4,8.8304376072
+2018,26043,Dickinson County,Michigan,6.4,8.1417196028
+2018,26139,Ottawa County,Michigan,6.4,8.5951617604
+2018,27019,Carver County,Minnesota,6.4,8.0383241312
+2018,27153,Todd County,Minnesota,6.4,8.5518102372
+2018,30015,Chouteau County,Montana,6.4,7.5980392157
+2018,31099,Kearney County,Nebraska,6.4,8.6887835703
+2018,38015,Burleigh County,North Dakota,6.4,9.0728715729
+2018,41005,Clackamas County,Oregon,6.4,14.179285204
+2018,42091,Montgomery County,Pennsylvania,6.4,12.193024245
+2018,46065,Hughes County,South Dakota,6.4,7.5041006014
+2018,55021,Columbia County,Wisconsin,6.4,9.4792889485
+2018,56013,Fremont County,Wyoming,6.4,8.6975149957
+2018,56025,Natrona County,Wyoming,6.4,9.4945397816
+2018,1003,Baldwin County,Alabama,6.5,11.45081422
+2018,2261,Valdez-Cordova Census Area,Alaska,6.5,6.390861377
+2018,6075,San Francisco County,California,6.5,16.2613598
+2018,9007,Middlesex County,Connecticut,6.5,13.525562558
+2018,12117,Seminole County,Florida,6.5,14.319798066
+2018,16033,Clark County,Idaho,6.5,3.0201342282
+2018,19043,Clayton County,Iowa,6.5,9.6062133806
+2018,20051,Ellis County,Kansas,6.5,12.144295596
+2018,20161,Riley County,Kansas,6.5,17.621262965
+2018,21113,Jessamine County,Kentucky,6.5,10.696894276
+2018,21211,Shelby County,Kentucky,6.5,9.2261904762
+2018,25021,Norfolk County,Massachusetts,6.5,14.056646471
+2018,26029,Charlevoix County,Michigan,6.5,8.0705738492
+2018,26107,Mecosta County,Michigan,6.5,12.638977636
+2018,26157,Tuscola County,Michigan,6.5,9.4140066698
+2018,27003,Anoka County,Minnesota,6.5,8.4906544977
+2018,27169,Winona County,Minnesota,6.5,10.094142259
+2018,29053,Cooper County,Missouri,6.5,11.016253489
+2018,36021,Columbia County,New York,6.5,14.18477373
+2018,36053,Madison County,New York,6.5,11.973906551
+2018,36109,Tompkins County,New York,6.5,20.915999388
+2018,38023,Divide County,North Dakota,6.5,9.7087378641
+2018,38099,Walsh County,North Dakota,6.5,7.6144366197
+2018,39051,Fulton County,Ohio,6.5,7.2647458885
+2018,39091,Logan County,Ohio,6.5,8.4094453108
+2018,41051,Multnomah County,Oregon,6.5,17.489854771
+2018,48091,Comal County,Texas,6.5,11.32339758
+2018,48103,Crane County,Texas,6.5,5.5027173913
+2018,53047,Okanogan County,Washington,6.5,11.521373679
+2018,55057,Juneau County,Wisconsin,6.5,10.450918181
+2018,55059,Kenosha County,Wisconsin,6.5,13.734081453
+2018,5125,Saline County,Arkansas,6.6,7.8098703662
+2018,6017,El Dorado County,California,6.6,15.669650963
+2018,6059,Orange County,California,6.6,19.680292624
+2018,6095,Solano County,California,6.6,15.924790766
+2018,8077,Mesa County,Colorado,6.6,14.152193745
+2018,16055,Kootenai County,Idaho,6.6,11.383925069
+2018,17043,Dupage County,Illinois,6.6,12.30595457
+2018,18051,Gibson County,Indiana,6.6,7.1045677614
+2018,19067,Floyd County,Iowa,6.6,8.3885542169
+2018,20067,Grant County,Kansas,6.6,3.3050847458
+2018,20069,Gray County,Kansas,6.6,3.0157970321
+2018,21017,Bourbon County,Kentucky,6.6,11.882368526
+2018,24021,Frederick County,Maryland,6.6,10.841253835
+2018,27093,Meeker County,Minnesota,6.6,7.6846417894
+2018,28045,Hancock County,Mississippi,6.6,12.77100271
+2018,29067,Douglas County,Missouri,6.6,8.9605734767
+2018,29071,Franklin County,Missouri,6.6,9.1517967476
+2018,30111,Yellowstone County,Montana,6.6,11.889345794
+2018,31021,Burt County,Nebraska,6.6,7.2092159049
+2018,31093,Howard County,Nebraska,6.6,10.483242401
+2018,31139,Pierce County,Nebraska,6.6,6.8794326241
+2018,33005,Cheshire County,New Hampshire,6.6,12.603173534
+2018,33019,Sullivan County,New Hampshire,6.6,11.638445027
+2018,34003,Bergen County,New Jersey,6.6,18.250321687
+2018,34031,Passaic County,New Jersey,6.6,22.371248565
+2018,35043,Sandoval County,New Mexico,6.6,10.380203993
+2018,37037,Chatham County,North Carolina,6.6,12.840751043
+2018,37099,Jackson County,North Carolina,6.6,13.909251769
+2018,38001,Adams County,North Dakota,6.6,8.8685015291
+2018,38095,Towner County,North Dakota,6.6,5.7344064386
+2018,39005,Ashland County,Ohio,6.6,8.7606300005
+2018,39077,Huron County,Ohio,6.6,9.68463431
+2018,42079,Luzerne County,Pennsylvania,6.6,11.786609438
+2018,46079,Lake County,South Dakota,6.6,8.5794960904
+2018,47049,Fentress County,Tennessee,6.6,7.1868289191
+2018,49029,Morgan County,Utah,6.6,5.1350549124
+2018,53063,Spokane County,Washington,6.6,12.977276202
+2018,53073,Whatcom County,Washington,6.6,16.685815391
+2018,54079,Putnam County,West Virginia,6.6,7.7556491766
+2018,55039,Fond Du Lac County,Wisconsin,6.6,7.9589748587
+2018,55061,Kewaunee County,Wisconsin,6.6,6.8493150685
+2018,55093,Pierce County,Wisconsin,6.6,9.8782831518
+2018,55097,Portage County,Wisconsin,6.6,9.9795400028
+2018,55101,Racine County,Wisconsin,6.6,12.743174005
+2018,55125,Vilas County,Wisconsin,6.6,11.763043888
+2018,55141,Wood County,Wisconsin,6.6,9.1168002003
+2018,56027,Niobrara County,Wyoming,6.6,12.577833126
+2018,5021,Clay County,Arkansas,6.7,9.4072594073
+2018,6081,San Mateo County,California,6.7,17.791802746
+2018,6109,Tuolumne County,California,6.7,16.863010607
+2018,8005,Arapahoe County,Colorado,6.7,14.268636934
+2018,8019,Clear Creek County,Colorado,6.7,10.409874243
+2018,12081,Manatee County,Florida,6.7,14.373236324
+2018,16049,Idaho County,Idaho,6.7,9.519120302
+2018,16059,Lemhi County,Idaho,6.7,13.41183228
+2018,16065,Madison County,Idaho,6.7,20.781330142
+2018,20105,Lincoln County,Kansas,6.7,9.0534979424
+2018,21097,Harrison County,Kentucky,6.7,11.249137336
+2018,21185,Oldham County,Kentucky,6.7,6.122253602
+2018,23015,Lincoln County,Maine,6.7,10.923535253
+2018,24015,Cecil County,Maryland,6.7,10.624450791
+2018,24047,Worcester County,Maryland,6.7,13.899543379
+2018,25005,Bristol County,Massachusetts,6.7,14.460674785
+2018,26111,Midland County,Michigan,6.7,9.690312648
+2018,27119,Polk County,Minnesota,6.7,10.761111569
+2018,29001,Adair County,Missouri,6.7,13.736393753
+2018,29089,Howard County,Missouri,6.7,8.8685916323
+2018,29125,Maries County,Missouri,6.7,8.8185415489
+2018,31125,Nance County,Nebraska,6.7,7.6458752515
+2018,31133,Pawnee County,Nebraska,6.7,7.6058772688
+2018,34037,Sussex County,New Jersey,6.7,13.334461301
+2018,34041,Warren County,New Jersey,6.7,12.492144066
+2018,35017,Grant County,New Mexico,6.7,13.291844696
+2018,35059,Union County,New Mexico,6.7,6.5711878686
+2018,36001,Albany County,New York,6.7,13.439130746
+2018,36087,Rockland County,New York,6.7,22.061793215
+2018,37055,Dare County,North Carolina,6.7,12.923934894
+2018,38007,Billings County,North Dakota,6.7,6.784660767
+2018,38081,Sargent County,North Dakota,6.7,4.2494481236
+2018,41055,Sherman County,Oregon,6.7,9.552238806
+2018,42049,Erie County,Pennsylvania,6.7,13.091517857
+2018,42133,York County,Pennsylvania,6.7,10.71129805
+2018,46049,Faulk County,South Dakota,6.7,8.6513994911
+2018,46083,Lincoln County,South Dakota,6.7,6.7252332738
+2018,46127,Union County,South Dakota,6.7,8.045112782
+2018,48149,Fayette County,Texas,6.7,8.9321298793
+2018,51127,New Kent County,Virginia,6.7,10.652146702
+2018,51720,Norton City,Virginia,6.7,17.197096594
+2018,55033,Dunn County,Wisconsin,6.7,11.740281622
+2018,56015,Goshen County,Wyoming,6.7,10.991207034
+2018,12009,Brevard County,Florida,6.8,13.855471307
+2018,12057,Hillsborough County,Florida,6.8,16.117017119
+2018,16015,Boise County,Idaho,6.8,10.683229814
+2018,18073,Jasper County,Indiana,6.8,7.8460038986
+2018,19015,Boone County,Iowa,6.8,5.8817948961
+2018,19047,Crawford County,Iowa,6.8,8.674060586
+2018,19121,Madison County,Iowa,6.8,7.6293436293
+2018,21055,Crittenden County,Kentucky,6.8,9.1170549324
+2018,21213,Simpson County,Kentucky,6.8,7.8931924883
+2018,25027,Worcester County,Massachusetts,6.8,13.548511411
+2018,26103,Marquette County,Michigan,6.8,11.598971333
+2018,27147,Steele County,Minnesota,6.8,9.0435378814
+2018,29037,Cass County,Missouri,6.8,8.1003112584
+2018,29073,Gasconade County,Missouri,6.8,5.0951086957
+2018,30075,Powder River County,Montana,6.8,5.4329371817
+2018,30089,Sanders County,Montana,6.8,14.700117601
+2018,31063,Frontier County,Nebraska,6.8,7.4626865672
+2018,31101,Keith County,Nebraska,6.8,10.152008686
+2018,31163,Sherman County,Nebraska,6.8,9.0277777778
+2018,32510,Carson City,Nevada,6.8,12.88010329
+2018,35051,Sierra County,New Mexico,6.8,14.053728949
+2018,36023,Cortland County,New York,6.8,11.10982659
+2018,36031,Essex County,New York,6.8,10.625557396
+2018,36083,Rensselaer County,New York,6.8,10.563006862
+2018,37111,Mcdowell County,North Carolina,6.8,6.4879631211
+2018,38053,Mckenzie County,North Dakota,6.8,7.9774753637
+2018,38057,Mercer County,North Dakota,6.8,6.2675660483
+2018,38077,Richland County,North Dakota,6.8,11.092488191
+2018,40061,Haskell County,Oklahoma,6.8,10.820399113
+2018,41023,Grant County,Oregon,6.8,14.329643296
+2018,46099,Minnehaha County,South Dakota,6.8,9.4303928682
+2018,47173,Union County,Tennessee,6.8,8.3309227654
+2018,51035,Carroll County,Virginia,6.8,8.7508698678
+2018,53009,Clallam County,Washington,6.8,13.001615107
+2018,55113,Sawyer County,Wisconsin,6.8,9.72
+2018,5049,Fulton County,Arkansas,6.9,10.567757978
+2018,6009,Calaveras County,California,6.9,17.931449188
+2018,8055,Huerfano County,Colorado,6.9,13.549752999
+2018,8109,Saguache County,Colorado,6.9,13.340935006
+2018,12111,St. Lucie County,Florida,6.9,15.513203095
+2018,18105,Monroe County,Indiana,6.9,17.775899452
+2018,19101,Jefferson County,Iowa,6.9,11.185857322
+2018,19103,Johnson County,Iowa,6.9,16.762857728
+2018,20019,Chautauqua County,Kansas,6.9,7.5079872204
+2018,20059,Franklin County,Kansas,6.9,9.798766306
+2018,21049,Clark County,Kentucky,6.9,11.833158079
+2018,26009,Antrim County,Michigan,6.9,9.8766680146
+2018,27013,Blue Earth County,Minnesota,6.9,13.000232216
+2018,27029,Clearwater County,Minnesota,6.9,10.894941634
+2018,27123,Ramsey County,Minnesota,6.9,13.391295102
+2018,28145,Union County,Mississippi,6.9,9.776506726
+2018,29135,Moniteau County,Missouri,6.9,6.2749572162
+2018,29183,St. Charles County,Missouri,6.9,7.3918020905
+2018,29217,Vernon County,Missouri,6.9,9.2620108965
+2018,30053,Lincoln County,Montana,6.9,15.939233181
+2018,31077,Greeley County,Nebraska,6.9,9.0909090909
+2018,31179,Wayne County,Nebraska,6.9,14.574353448
+2018,33011,Hillsborough County,New Hampshire,6.9,12.671331113
+2018,38013,Burke County,North Dakota,6.9,2.847754655
+2018,38017,Cass County,North Dakota,6.9,10.514905861
+2018,38025,Dunn County,North Dakota,6.9,5.1052967454
+2018,40007,Beaver County,Oklahoma,6.9,7.9694323144
+2018,41041,Lincoln County,Oregon,6.9,14.714872481
+2018,42115,Susquehanna County,Pennsylvania,6.9,11.762182041
+2018,44003,Kent County,Rhode Island,6.9,13.334785766
+2018,46093,Meade County,South Dakota,6.9,6.1131725417
+2018,48011,Armstrong County,Texas,6.9,6.9111424542
+2018,50017,Orange County,Vermont,6.9,13.389830508
+2018,51003,Albemarle County,Virginia,6.9,12.514048375
+2018,51600,Fairfax City,Virginia,6.9,16.325553561
+2018,53005,Benton County,Washington,6.9,9.7566090227
+2018,55139,Winnebago County,Wisconsin,6.9,9.7893058727
+2018,56023,Lincoln County,Wyoming,6.9,5.9151785714
+2018,6037,Los Angeles County,California,7,23.582411655
+2018,8001,Adams County,Colorado,7,14.038411328
+2018,13113,Fayette County,Georgia,7,10.598769719
+2018,18029,Dearborn County,Indiana,7,8.2360466976
+2018,18047,Franklin County,Indiana,7,4.8729550992
+2018,20143,Ottawa County,Kansas,7,8.5034013605
+2018,26125,Oakland County,Michigan,7,11.416312615
+2018,26153,Schoolcraft County,Michigan,7,9.8667422739
+2018,27017,Carlton County,Minnesota,7,8.4813796179
+2018,27149,Stevens County,Minnesota,7,10.909090909
+2018,28089,Madison County,Mississippi,7,10.198631705
+2018,30071,Phillips County,Montana,7,5.6776556777
+2018,35013,Doña Ana County,New Mexico,7,15.879086821
+2018,36091,Saratoga County,New York,7,9.6059818635
+2018,37089,Henderson County,North Carolina,7,10.084310775
+2018,39157,Tuscarawas County,Ohio,7,10.126759381
+2018,41039,Lane County,Oregon,7,17.62445473
+2018,42003,Allegheny County,Pennsylvania,7,12.25568309
+2018,42081,Lycoming County,Pennsylvania,7,12.396895787
+2018,47133,Overton County,Tennessee,7,9.881706297
+2018,49041,Sevier County,Utah,7,8.0530489472
+2018,50019,Orleans County,Vermont,7,16.06411398
+2018,51125,Nelson County,Virginia,7,10.821917808
+2018,53029,Island County,Washington,7,13.565509648
+2018,53075,Whitman County,Washington,7,26.139834823
+2018,56037,Sweetwater County,Wyoming,7,8.6837473108
+2018,2230,Skagway Municipality,Alaska,7.1,1.5831134565
+2018,4003,Cochise County,Arizona,7.1,10.704225352
+2018,6085,Santa Clara County,California,7.1,15.804495813
+2018,6113,Yolo County,California,7.1,19.07497525
+2018,8095,Phillips County,Colorado,7.1,5.1785714286
+2018,12017,Citrus County,Florida,7.1,11.22556367
+2018,17097,Lake County,Illinois,7.1,12.974595198
+2018,18013,Brown County,Indiana,7.1,10.014306152
+2018,18123,Perry County,Indiana,7.1,7.160954794
+2018,18175,Washington County,Indiana,7.1,8.2692307692
+2018,19003,Adams County,Iowa,7.1,7.5786769428
+2018,19095,Iowa County,Iowa,7.1,7.7760736196
+2018,19113,Linn County,Iowa,7.1,8.7713056337
+2018,20045,Douglas County,Kansas,7.1,16.060670344
+2018,20153,Rawlins County,Kansas,7.1,8.7160262418
+2018,21023,Bracken County,Kentucky,7.1,11.22311828
+2018,21157,Marshall County,Kentucky,7.1,7.0253164557
+2018,21223,Trimble County,Kentucky,7.1,10.452853598
+2018,27085,Mcleod County,Minnesota,7.1,8.5209560097
+2018,29097,Jasper County,Missouri,7.1,10.387858347
+2018,30107,Wheatland County,Montana,7.1,15.796897038
+2018,31051,Dixon County,Nebraska,7.1,8.0159433127
+2018,31065,Furnas County,Nebraska,7.1,9.2885375494
+2018,31089,Holt County,Nebraska,7.1,8.386487125
+2018,31141,Platte County,Nebraska,7.1,6.9601612153
+2018,32013,Humboldt County,Nevada,7.1,7.3983341499
+2018,36007,Broome County,New York,7.1,14.082033537
+2018,36043,Herkimer County,New York,7.1,8.4670634106
+2018,36111,Ulster County,New York,7.1,18.074807644
+2018,37053,Currituck County,North Carolina,7.1,11.253805175
+2018,37063,Durham County,North Carolina,7.1,13.227825212
+2018,37087,Haywood County,North Carolina,7.1,12.81801914
+2018,45081,Saluda County,South Carolina,7.1,10.775047259
+2018,46037,Day County,South Dakota,7.1,9.6498371336
+2018,46059,Hand County,South Dakota,7.1,9.3406593407
+2018,48189,Hale County,Texas,7.1,11.633349586
+2018,48303,Lubbock County,Texas,7.1,17.068559606
+2018,48317,Martin County,Texas,7.1,6.2288422478
+2018,48435,Sutton County,Texas,7.1,7.9749103943
+2018,51199,York County,Virginia,7.1,10.502811117
+2018,51830,Williamsburg City,Virginia,7.1,15.206536541
+2018,55099,Price County,Wisconsin,7.1,11.484810911
+2018,56005,Campbell County,Wyoming,7.1,11.517431948
+2018,2220,Sitka City and Borough,Alaska,7.2,10.142815506
+2018,6005,Amador County,California,7.2,16.133942161
+2018,8083,Montezuma County,Colorado,7.2,9.988179669
+2018,18001,Adams County,Indiana,7.2,8.8404605263
+2018,18141,St. Joseph County,Indiana,7.2,11.624126959
+2018,19087,Henry County,Iowa,7.2,6.3935102434
+2018,20157,Republic County,Kansas,7.2,7.470703125
+2018,21079,Garrard County,Kentucky,7.2,10.074912093
+2018,23007,Franklin County,Maine,7.2,7.8907940736
+2018,24025,Harford County,Maryland,7.2,10.813388924
+2018,27007,Beltrami County,Minnesota,7.2,14.150293002
+2018,27173,Yellow Medicine County,Minnesota,7.2,7.5466935891
+2018,29189,St. Louis County,Missouri,7.2,11.822795159
+2018,29219,Warren County,Missouri,7.2,8.2228939006
+2018,31023,Butler County,Nebraska,7.2,8.0516287646
+2018,31117,Mcpherson County,Nebraska,7.2,2.9239766082
+2018,32017,Lincoln County,Nevada,7.2,9.7072419106
+2018,34029,Ocean County,New Jersey,7.2,17.10415091
+2018,37183,Wake County,North Carolina,7.2,10.500866461
+2018,38031,Foster County,North Dakota,7.2,6.4584811923
+2018,39011,Auglaize County,Ohio,7.2,6.7650876055
+2018,39159,Union County,Ohio,7.2,6.6167474184
+2018,40005,Atoka County,Oklahoma,7.2,8.5837793331
+2018,40087,Mcclain County,Oklahoma,7.2,7.9532000836
+2018,41067,Washington County,Oregon,7.2,13.285178168
+2018,42031,Clarion County,Pennsylvania,7.2,11.000719001
+2018,46011,Brookings County,South Dakota,7.2,10.616543665
+2018,46029,Codington County,South Dakota,7.2,11.313617607
+2018,51680,Lynchburg City,Virginia,7.2,13.239004058
+2018,53067,Thurston County,Washington,7.2,13.692429352
+2018,55015,Calumet County,Wisconsin,7.2,7.9638793939
+2018,1029,Cleburne County,Alabama,7.3,7.2544642857
+2018,2170,Matanuska-Susitna Borough,Alaska,7.3,13.090462016
+2018,4015,Mohave County,Arizona,7.3,11.84225703
+2018,5017,Chicot County,Arkansas,7.3,10.937934873
+2018,8003,Alamosa County,Colorado,7.3,11.564513464
+2018,8101,Pueblo County,Colorado,7.3,15.260822186
+2018,12001,Alachua County,Florida,7.3,19.446046129
+2018,12101,Pasco County,Florida,7.3,13.056703426
+2018,13133,Greene County,Georgia,7.3,13.706945229
+2018,17037,Dekalb County,Illinois,7.3,14.812339607
+2018,17063,Grundy County,Illinois,7.3,10.111452922
+2018,20079,Harvey County,Kansas,7.3,8.3605685187
+2018,20111,Lyon County,Kansas,7.3,10.581970331
+2018,23009,Hancock County,Maine,7.3,10.495526497
+2018,25003,Berkshire County,Massachusetts,7.3,13.824472448
+2018,26147,St. Clair County,Michigan,7.3,10.597362296
+2018,29009,Barry County,Missouri,7.3,10.03805175
+2018,29011,Barton County,Missouri,7.3,12.072743208
+2018,29139,Montgomery County,Missouri,7.3,9.2307692308
+2018,29167,Polk County,Missouri,7.3,12.11613131
+2018,29211,Sullivan County,Missouri,7.3,6.8716962999
+2018,30091,Sheridan County,Montana,7.3,10.814510609
+2018,31161,Sheridan County,Nebraska,7.3,8.8345864662
+2018,31175,Valley County,Nebraska,7.3,9.20671685
+2018,31183,Wheeler County,Nebraska,7.3,10.322580645
+2018,35005,Chaves County,New Mexico,7.3,11.730717549
+2018,36003,Allegany County,New York,7.3,10.265110127
+2018,36047,Kings County,New York,7.3,26.142683188
+2018,36055,Monroe County,New York,7.3,14.737207958
+2018,39165,Warren County,Ohio,7.3,8.0128940347
+2018,40009,Beckham County,Oklahoma,7.3,9.6751707793
+2018,41035,Klamath County,Oregon,7.3,16.845865073
+2018,42013,Blair County,Pennsylvania,7.3,11.055125667
+2018,42063,Indiana County,Pennsylvania,7.3,11.872568994
+2018,45021,Cherokee County,South Carolina,7.3,9.8861145271
+2018,48135,Ector County,Texas,7.3,11.830478257
+2018,48209,Hays County,Texas,7.3,16.563396905
+2018,48329,Midland County,Texas,7.3,10.899442823
+2018,48381,Randall County,Texas,7.3,10.663294444
+2018,48441,Taylor County,Texas,7.3,11.049040424
+2018,50027,Windsor County,Vermont,7.3,13.311078656
+2018,51165,Rockingham County,Virginia,7.3,8.0621644907
+2018,51540,Charlottesville City,Virginia,7.3,19.484738169
+2018,53035,Kitsap County,Washington,7.3,12.771597679
+2018,54027,Hampshire County,West Virginia,7.3,6.9947275923
+2018,2100,Haines Borough,Alaska,7.4,8.5005903188
+2018,5007,Benton County,Arkansas,7.4,7.5045728261
+2018,6053,Monterey County,California,7.4,18.414165111
+2018,6065,Riverside County,California,7.4,19.129315412
+2018,12095,Orange County,Florida,7.4,17.853460122
+2018,17111,Mchenry County,Illinois,7.4,10.224293881
+2018,17125,Mason County,Illinois,7.4,8.9798087141
+2018,18011,Boone County,Indiana,7.4,8.2064231042
+2018,18039,Elkhart County,Indiana,7.4,10.271548327
+2018,19009,Audubon County,Iowa,7.4,8.0384615385
+2018,19167,Sioux County,Iowa,7.4,7.0143437526
+2018,20147,Phillips County,Kansas,7.4,4.9404499338
+2018,21123,Larue County,Kentucky,7.4,10.001798885
+2018,23027,Waldo County,Maine,7.4,10.917599668
+2018,26137,Otsego County,Michigan,7.4,11.420982736
+2018,27063,Jackson County,Minnesota,7.4,6.8853974122
+2018,29059,Dallas County,Missouri,7.4,8.7904713974
+2018,29101,Johnson County,Missouri,7.4,10.18651363
+2018,29145,Newton County,Missouri,7.4,8.6504704395
+2018,30083,Richland County,Montana,7.4,11.894484412
+2018,31037,Colfax County,Nebraska,7.4,3.0864197531
+2018,31159,Seward County,Nebraska,7.4,8.9495925143
+2018,31167,Stanton County,Nebraska,7.4,8.4065244668
+2018,32007,Elko County,Nevada,7.4,8.5036702428
+2018,34021,Mercer County,New Jersey,7.4,16.841139231
+2018,36067,Onondaga County,New York,7.4,13.600289193
+2018,36105,Sullivan County,New York,7.4,14.36280013
+2018,39121,Noble County,Ohio,7.4,5.1524710831
+2018,41007,Clatsop County,Oregon,7.4,13.930348259
+2018,42113,Sullivan County,Pennsylvania,7.4,9.3889716841
+2018,47027,Clay County,Tennessee,7.4,8.67754252
+2018,48085,Collin County,Texas,7.4,11.313110356
+2018,53017,Douglas County,Washington,7.4,9.221213569
+2018,55023,Crawford County,Wisconsin,7.4,9.7090449083
+2018,2240,Southeast Fairbanks Census Area,Alaska,7.5,6.6348448687
+2018,6027,Inyo County,California,7.5,13.816141101
+2018,8121,Washington County,Colorado,7.5,12.519809826
+2018,10003,New Castle County,Delaware,7.5,13.195113718
+2018,16071,Oneida County,Idaho,7.5,7.6359193647
+2018,17131,Mercer County,Illinois,7.5,8.1580624602
+2018,19005,Allamakee County,Iowa,7.5,9.390818642
+2018,21075,Fulton County,Kentucky,7.5,13.551595524
+2018,24003,Anne Arundel County,Maryland,7.5,11.152888766
+2018,25013,Hampden County,Massachusetts,7.5,15.928726315
+2018,26019,Benzie County,Michigan,7.5,10.679323643
+2018,26023,Branch County,Michigan,7.5,8.7622814064
+2018,26059,Hillsdale County,Michigan,7.5,8.643738574
+2018,26063,Huron County,Michigan,7.5,8.9404220416
+2018,26091,Lenawee County,Michigan,7.5,9.6636990463
+2018,27015,Brown County,Minnesota,7.5,6.3872446057
+2018,27099,Mower County,Minnesota,7.5,9.6048121079
+2018,27165,Watonwan County,Minnesota,7.5,9.5896834701
+2018,29005,Atchison County,Missouri,7.5,6.7697450898
+2018,29061,Daviess County,Missouri,7.5,8.8912133891
+2018,30045,Judith Basin County,Montana,7.5,15.260545906
+2018,30047,Lake County,Montana,7.5,12.292271169
+2018,36025,Delaware County,New York,7.5,12.32365373
+2018,38027,Eddy County,North Dakota,7.5,9.0373280943
+2018,38075,Renville County,North Dakota,7.5,5.1876379691
+2018,39107,Mercer County,Ohio,7.5,6.7809572366
+2018,39123,Ottawa County,Ohio,7.5,7.949790795
+2018,40069,Johnston County,Oklahoma,7.5,7.6535750252
+2018,41033,Josephine County,Oregon,7.5,18.154260694
+2018,42007,Beaver County,Pennsylvania,7.5,8.6661794001
+2018,42045,Delaware County,Pennsylvania,7.5,14.972759539
+2018,42125,Washington County,Pennsylvania,7.5,8.5731870678
+2018,46061,Hanson County,South Dakota,7.5,8.6999022483
+2018,47087,Jackson County,Tennessee,7.5,8.6337760911
+2018,48187,Guadalupe County,Texas,7.5,8.2885337654
+2018,51121,Montgomery County,Virginia,7.5,16.404494382
+2018,55119,Taylor County,Wisconsin,7.5,10.80752884
+2018,4027,Yuma County,Arizona,7.6,12.876314835
+2018,6025,Imperial County,California,7.6,18.693424231
+2018,6067,Sacramento County,California,7.6,17.35571203
+2018,6071,San Bernardino County,California,7.6,18.488254301
+2018,8021,Conejos County,Colorado,7.6,11.304931231
+2018,12113,Santa Rosa County,Florida,7.6,11.011032849
+2018,13219,Oconee County,Georgia,7.6,7.3743264191
+2018,18139,Rush County,Indiana,7.6,8.601983881
+2018,19013,Black Hawk County,Iowa,7.6,12.493044496
+2018,19119,Lyon County,Iowa,7.6,4.9551569507
+2018,19139,Muscatine County,Iowa,7.6,8.6767626614
+2018,19153,Polk County,Iowa,7.6,10.352352735
+2018,19169,Story County,Iowa,7.6,18.423113271
+2018,20029,Cloud County,Kansas,7.6,7.9401611047
+2018,20121,Miami County,Kansas,7.6,11.831315892
+2018,21035,Calloway County,Kentucky,7.6,15.060365643
+2018,24029,Kent County,Maryland,7.6,13.870189254
+2018,25023,Plymouth County,Massachusetts,7.6,14.369256026
+2018,26005,Allegan County,Michigan,7.6,7.3726259724
+2018,26115,Monroe County,Michigan,7.6,9.5982442032
+2018,29047,Clay County,Missouri,7.6,8.8047210065
+2018,31087,Hitchcock County,Nebraska,7.6,6.7543859649
+2018,34017,Hudson County,New Jersey,7.6,20.327547318
+2018,35033,Mora County,New Mexico,7.6,6.8045977011
+2018,36107,Tioga County,New York,7.6,8.5161418694
+2018,37071,Gaston County,North Carolina,7.6,13.264427218
+2018,37143,Perquimans County,North Carolina,7.6,13.000715308
+2018,38103,Wells County,North Dakota,7.6,5.8662280702
+2018,39041,Delaware County,Ohio,7.6,8.2822345927
+2018,42043,Dauphin County,Pennsylvania,7.6,12.381982957
+2018,42129,Westmoreland County,Pennsylvania,7.6,9.3337889997
+2018,46115,Spink County,South Dakota,7.6,6.9890288501
+2018,47009,Blount County,Tennessee,7.6,9.0083376969
+2018,48131,Duval County,Texas,7.6,6.5438373571
+2018,51069,Frederick County,Virginia,7.6,8.6884303328
+2018,55009,Brown County,Wisconsin,7.6,9.8449664365
+2018,56041,Uinta County,Wyoming,7.6,5.5942219304
+2018,6089,Shasta County,California,7.7,18.783586089
+2018,9003,Hartford County,Connecticut,7.7,15.271505369
+2018,9011,New London County,Connecticut,7.7,12.610845681
+2018,13067,Cobb County,Georgia,7.7,11.794512173
+2018,18115,Ohio County,Indiana,7.7,6.4814814815
+2018,19097,Jackson County,Iowa,7.7,7.3204770363
+2018,20055,Finney County,Kansas,7.7,10.090386196
+2018,20169,Saline County,Kansas,7.7,10.59372977
+2018,20175,Seward County,Kansas,7.7,10.694345025
+2018,23011,Kennebec County,Maine,7.7,10.625929967
+2018,24009,Calvert County,Maryland,7.7,9.3119051334
+2018,29099,Jefferson County,Missouri,7.7,8.3987951807
+2018,29171,Putnam County,Missouri,7.7,7.9608083282
+2018,31061,Franklin County,Nebraska,7.7,9.21875
+2018,31109,Lancaster County,Nebraska,7.7,11.868507646
+2018,31119,Madison County,Nebraska,7.7,11.176427364
+2018,34009,Cape May County,New Jersey,7.7,17.793792981
+2018,37011,Avery County,North Carolina,7.7,10.388567759
+2018,37175,Transylvania County,North Carolina,7.7,8.6336605288
+2018,37189,Watauga County,North Carolina,7.7,20.420303281
+2018,40047,Garfield County,Oklahoma,7.7,9.2563081009
+2018,40059,Harper County,Oklahoma,7.7,6.4946619217
+2018,41053,Polk County,Oregon,7.7,14.555283215
+2018,41071,Yamhill County,Oregon,7.7,13.740353939
+2018,44007,Providence County,Rhode Island,7.7,16.135986945
+2018,45019,Charleston County,South Carolina,7.7,16.30658469
+2018,47035,Cumberland County,Tennessee,7.7,10.446759807
+2018,50011,Franklin County,Vermont,7.7,13.709938491
+2018,56021,Laramie County,Wyoming,7.7,10.065762643
+2018,2020,Anchorage Municipality,Alaska,7.8,12.800417973
+2018,2090,Fairbanks North Star Borough,Alaska,7.8,11.679596806
+2018,10005,Sussex County,Delaware,7.8,12.513731931
+2018,13127,Glynn County,Georgia,7.8,13.17954166
+2018,15009,Maui County,Hawaii,7.8,18.45413162
+2018,17089,Kane County,Illinois,7.8,12.607729749
+2018,17183,Vermilion County,Illinois,7.8,11.388657908
+2018,19065,Fayette County,Iowa,7.8,9.5442494635
+2018,19091,Humboldt County,Iowa,7.8,6.3862138875
+2018,19187,Webster County,Iowa,7.8,11.169686985
+2018,20033,Comanche County,Kansas,7.8,4.6831955923
+2018,20197,Wabaunsee County,Kansas,7.8,4.3181818182
+2018,23031,York County,Maine,7.8,11.791662272
+2018,27083,Lyon County,Minnesota,7.8,10.215434409
+2018,27135,Roseau County,Minnesota,7.8,8.803301238
+2018,29215,Texas County,Missouri,7.8,13.120333773
+2018,30027,Fergus County,Montana,7.8,13.122270742
+2018,30097,Sweet Grass County,Montana,7.8,9.7970608817
+2018,35061,Valencia County,New Mexico,7.8,11.003883724
+2018,38101,Ward County,North Dakota,7.8,12.361895851
+2018,42027,Centre County,Pennsylvania,7.8,17.401206558
+2018,42083,Mckean County,Pennsylvania,7.8,8.9822550155
+2018,42095,Northampton County,Pennsylvania,7.8,12.037110529
+2018,42097,Northumberland County,Pennsylvania,7.8,9.9246799564
+2018,46013,Brown County,South Dakota,7.8,9.3579020187
+2018,46135,Yankton County,South Dakota,7.8,5.7158176944
+2018,47003,Bedford County,Tennessee,7.8,12.317732832
+2018,47023,Chester County,Tennessee,7.8,9.7099183603
+2018,47037,Davidson County,Tennessee,7.8,14.717452233
+2018,48311,Mcmullen County,Texas,7.8,4.6728971963
+2018,49007,Carbon County,Utah,7.8,13.366139114
+2018,49011,Davis County,Utah,7.8,7.0738456598
+2018,49017,Garfield County,Utah,7.8,12.444196429
+2018,51085,Hanover County,Virginia,7.8,8.1580575317
+2018,51093,Isle Of Wight County,Virginia,7.8,10.56772273
+2018,51095,James City County,Virginia,7.8,11.392838787
+2018,12037,Franklin County,Florida,7.9,12.826927451
+2018,13121,Fulton County,Georgia,7.9,16.433387293
+2018,19055,Delaware County,Iowa,7.9,9.6984999257
+2018,19125,Marion County,Iowa,7.9,7.3467548077
+2018,19165,Shelby County,Iowa,7.9,8.0578512397
+2018,19181,Warren County,Iowa,7.9,8.606124604
+2018,21067,Fayette County,Kentucky,7.9,13.95113375
+2018,21239,Woodford County,Kentucky,7.9,10.200102617
+2018,25007,Dukes County,Massachusetts,7.9,22.825244224
+2018,26045,Eaton County,Michigan,7.9,8.5213596383
+2018,26081,Kent County,Michigan,7.9,10.688862755
+2018,27031,Cook County,Minnesota,7.9,10.155316607
+2018,27061,Itasca County,Minnesota,7.9,11.399371069
+2018,27077,Lake Of The Woods County,Minnesota,7.9,9.6026490066
+2018,27115,Pine County,Minnesota,7.9,10.750279955
+2018,27157,Wabasha County,Minnesota,7.9,10.054102795
+2018,29165,Platte County,Missouri,7.9,8.3054202192
+2018,29169,Pulaski County,Missouri,7.9,11.68230748
+2018,31025,Cass County,Nebraska,7.9,7.1196754564
+2018,31029,Chase County,Nebraska,7.9,7.9103493738
+2018,36029,Erie County,New York,7.9,13.764178745
+2018,36039,Greene County,New York,7.9,15.243796129
+2018,37159,Rowan County,North Carolina,7.9,11.444416436
+2018,38021,Dickey County,North Dakota,7.9,7.1356275304
+2018,38047,Logan County,North Dakota,7.9,5.9299191375
+2018,38083,Sheridan County,North Dakota,7.9,9.3701996928
+2018,39103,Medina County,Ohio,7.9,8.3836880054
+2018,39127,Perry County,Ohio,7.9,11.568262823
+2018,40027,Cleveland County,Oklahoma,7.9,10.95392923
+2018,40131,Rogers County,Oklahoma,7.9,7.9505351883
+2018,45077,Pickens County,South Carolina,7.9,13.916043703
+2018,46019,Butte County,South Dakota,7.9,11.910609037
+2018,47015,Cannon County,Tennessee,7.9,10.645591316
+2018,47085,Humphreys County,Tennessee,7.9,8.7962962963
+2018,48491,Williamson County,Texas,7.9,10.472629455
+2018,49015,Emery County,Utah,7.9,4.2286380869
+2018,49057,Weber County,Utah,7.9,8.5407341092
+2018,50003,Bennington County,Vermont,7.9,13.703099511
+2018,51017,Bath County,Virginia,7.9,10.230466554
+2018,51810,Virginia Beach City,Virginia,7.9,12.688514309
+2018,55103,Richland County,Wisconsin,7.9,12.258512856
+2018,56045,Weston County,Wyoming,7.9,9.4698354662
+2018,5143,Washington County,Arkansas,8,11.568387285
+2018,6077,San Joaquin County,California,8,17.822279293
+2018,6099,Stanislaus County,California,8,17.552799354
+2018,12127,Volusia County,Florida,8,15.526888186
+2018,16023,Butte County,Idaho,8,10.742857143
+2018,20203,Wichita County,Kansas,8,4.9397590361
+2018,25025,Suffolk County,Massachusetts,8,21.331796289
+2018,26061,Houghton County,Michigan,8,14.050719671
+2018,27129,Renville County,Minnesota,8,8.5778391439
+2018,29209,Stone County,Missouri,8,9.6984179301
+2018,30013,Cascade County,Montana,8,11.859079889
+2018,30077,Powell County,Montana,8,6.7550235143
+2018,31033,Cheyenne County,Nebraska,8,10.274454609
+2018,31057,Dundy County,Nebraska,8,7.8167115903
+2018,31127,Nemaha County,Nebraska,8,8.4057971014
+2018,35019,Guadalupe County,New Mexico,8,6.5420560748
+2018,37119,Mecklenburg County,North Carolina,8,13.37987357
+2018,38033,Golden Valley County,North Dakota,8,5.9343434343
+2018,38041,Hettinger County,North Dakota,8,8.8118811881
+2018,38087,Slope County,North Dakota,8,3.1948881789
+2018,39109,Miami County,Ohio,8,9.1291512915
+2018,40151,Woods County,Oklahoma,8,8.9428191489
+2018,41025,Harney County,Oregon,8,9.4086021505
+2018,42077,Lehigh County,Pennsylvania,8,14.002846404
+2018,47165,Sumner County,Tennessee,8,10.13611439
+2018,47175,Van Buren County,Tennessee,8,4.1847041847
+2018,47183,Weakley County,Tennessee,8,8.2124088164
+2018,48121,Denton County,Texas,8,11.208814995
+2018,48235,Irion County,Texas,8,13.731825525
+2018,49013,Duchesne County,Utah,8,10.901972594
+2018,49021,Iron County,Utah,8,10.469742859
+2018,50021,Rutland County,Vermont,8,14.671565263
+2018,53023,Garfield County,Washington,8,5.738575983
+2018,53061,Snohomish County,Washington,8,12.976104617
+2018,55087,Outagamie County,Wisconsin,8,7.2900093828
+2018,55091,Pepin County,Wisconsin,8,10.285335103
+2018,1077,Lauderdale County,Alabama,8.1,11.397358552
+2018,5085,Lonoke County,Arkansas,8.1,9.2114338263
+2018,5149,Yell County,Arkansas,8.1,7.1230982019
+2018,6047,Merced County,California,8.1,15.364784738
+2018,6093,Siskiyou County,California,8.1,14.884299308
+2018,12091,Okaloosa County,Florida,8.1,12.876609414
+2018,13117,Forsyth County,Georgia,8.1,8.5458200068
+2018,13237,Putnam County,Georgia,8.1,16.038352582
+2018,17065,Hamilton County,Illinois,8.1,5.7324840764
+2018,18099,Marshall County,Indiana,8.1,9.585384661
+2018,19037,Chickasaw County,Iowa,8.1,7.5494549859
+2018,19115,Louisa County,Iowa,8.1,8.5101253616
+2018,20185,Stafford County,Kansas,8.1,7.7248038624
+2018,23017,Oxford County,Maine,8.1,10.709641464
+2018,26065,Ingham County,Michigan,8.1,15.307874428
+2018,27009,Benton County,Minnesota,8.1,9.1104822835
+2018,27039,Dodge County,Minnesota,8.1,5.6571727201
+2018,27059,Isanti County,Minnesota,8.1,9.859060851
+2018,27095,Mille Lacs County,Minnesota,8.1,11.241217799
+2018,30105,Valley County,Montana,8.1,8.484270734
+2018,31147,Richardson County,Nebraska,8.1,6.971362453
+2018,34015,Gloucester County,New Jersey,8.1,13.409229829
+2018,39135,Preble County,Ohio,8.1,7.1451034656
+2018,40051,Grady County,Oklahoma,8.1,6.9913833136
+2018,40065,Jackson County,Oklahoma,8.1,7.2925764192
+2018,40119,Payne County,Oklahoma,8.1,21.945708875
+2018,47141,Putnam County,Tennessee,8.1,13.511316337
+2018,47153,Sequatchie County,Tennessee,8.1,9.7276264591
+2018,48119,Delta County,Texas,8.1,10.085298545
+2018,48391,Refugio County,Texas,8.1,9.9239864865
+2018,49039,Sanpete County,Utah,8.1,8.5565217391
+2018,51049,Cumberland County,Virginia,8.1,10.338725986
+2018,51087,Henrico County,Virginia,8.1,13.241881081
+2018,55105,Rock County,Wisconsin,8.1,12.056238466
+2018,1103,Morgan County,Alabama,8.2,9.9789511803
+2018,1117,Shelby County,Alabama,8.2,9.0396553909
+2018,5089,Marion County,Arkansas,8.2,11.415594247
+2018,6107,Tulare County,California,8.2,18.400691078
+2018,8053,Hinsdale County,Colorado,8.2,25.555555556
+2018,13143,Haralson County,Georgia,8.2,12.094717668
+2018,15007,Kauai County,Hawaii,8.2,16.757930941
+2018,17019,Champaign County,Illinois,8.2,16.356901148
+2018,19033,Cerro Gordo County,Iowa,8.2,7.40915774
+2018,21015,Boone County,Kentucky,8.2,8.0501963463
+2018,24017,Charles County,Maryland,8.2,12.347523027
+2018,27091,Martin County,Minnesota,8.2,9.4791177851
+2018,27127,Redwood County,Minnesota,8.2,7.9480006582
+2018,29039,Cedar County,Missouri,8.2,9.5660559306
+2018,31107,Knox County,Nebraska,8.2,5.4685190659
+2018,33017,Strafford County,New Hampshire,8.2,13.288366311
+2018,36051,Livingston County,New York,8.2,11.737672339
+2018,36075,Oswego County,New York,8.2,12.20749867
+2018,36085,Richmond County,New York,8.2,20.261506795
+2018,39055,Geauga County,Ohio,8.2,8.7678204795
+2018,39063,Hancock County,Ohio,8.2,8.5077779912
+2018,40057,Harmon County,Oklahoma,8.2,6.6666666667
+2018,41029,Jackson County,Oregon,8.2,16.230558938
+2018,42089,Monroe County,Pennsylvania,8.2,14.665823607
+2018,42103,Pike County,Pennsylvania,8.2,16.540680771
+2018,42111,Somerset County,Pennsylvania,8.2,7.3430631264
+2018,42123,Warren County,Pennsylvania,8.2,7.6815896286
+2018,46109,Roberts County,South Dakota,8.2,8.4705257568
+2018,48023,Baylor County,Texas,8.2,4.5662100457
+2018,49003,Box Elder County,Utah,8.2,9.6995708155
+2018,51153,Prince William County,Virginia,8.2,11.806743693
+2018,51157,Rappahannock County,Virginia,8.2,9.9926524614
+2018,51570,Colonial Heights City,Virginia,8.2,12.304800463
+2018,53011,Clark County,Washington,8.2,12.487445215
+2018,53039,Klickitat County,Washington,8.2,11.58162675
+2018,53059,Skamania County,Washington,8.2,11.132154882
+2018,55031,Douglas County,Wisconsin,8.2,9.6269424441
+2018,55111,Sauk County,Wisconsin,8.2,10.91624637
+2018,5071,Johnson County,Arkansas,8.3,10.238653313
+2018,5117,Prairie County,Arkansas,8.3,5.5778032037
+2018,6029,Kern County,California,8.3,17.160285676
+2018,6051,Mono County,California,8.3,9.4686376348
+2018,12069,Lake County,Florida,8.3,12.776723593
+2018,12119,Sumter County,Florida,8.3,11.127308066
+2018,12129,Wakulla County,Florida,8.3,7.1634010426
+2018,13137,Habersham County,Georgia,8.3,10.680198951
+2018,17031,Cook County,Illinois,8.3,17.618326033
+2018,17053,Ford County,Illinois,8.3,9.7730927282
+2018,18033,Dekalb County,Indiana,8.3,6.7847674138
+2018,18043,Floyd County,Indiana,8.3,8.2403403543
+2018,19035,Cherokee County,Iowa,8.3,6.6446473674
+2018,19105,Jones County,Iowa,8.3,9.0039037905
+2018,21027,Breckinridge County,Kentucky,8.3,7.6323348379
+2018,26069,Iosco County,Michigan,8.3,8.5547521561
+2018,26151,Sanilac County,Michigan,8.3,8.7263318829
+2018,27071,Koochiching County,Minnesota,8.3,10.251893606
+2018,27161,Waseca County,Minnesota,8.3,10.395153518
+2018,29187,St. Francois County,Missouri,8.3,10.493389498
+2018,35009,Curry County,New Mexico,8.3,14.158014547
+2018,35053,Socorro County,New Mexico,8.3,6.6076574722
+2018,36093,Schenectady County,New York,8.3,13.874839721
+2018,37105,Lee County,North Carolina,8.3,13.290639937
+2018,37193,Wilkes County,North Carolina,8.3,8.6059640996
+2018,38055,Mclean County,North Dakota,8.3,7.1529080675
+2018,38059,Morton County,North Dakota,8.3,8.9725145756
+2018,40139,Texas County,Oklahoma,8.3,9.8378378378
+2018,41059,Umatilla County,Oregon,8.3,10.23890785
+2018,42093,Montour County,Pennsylvania,8.3,9.5265017668
+2018,45091,York County,South Carolina,8.3,9.7003334026
+2018,46119,Sully County,South Dakota,8.3,6.5099457505
+2018,48127,Dimmit County,Texas,8.3,20.226648352
+2018,48309,Mclennan County,Texas,8.3,16.272645289
+2018,51840,Winchester City,Virginia,8.3,12.161515644
+2018,53049,Pacific County,Washington,8.3,11.645864184
+2018,55077,Marquette County,Wisconsin,8.3,9.13359588
+2018,56031,Platte County,Wyoming,8.3,9.7301717089
+2018,5023,Cleburne County,Arkansas,8.4,6.8942177529
+2018,8085,Montrose County,Colorado,8.4,12.409787009
+2018,12093,Okeechobee County,Florida,8.4,9.7487652995
+2018,16039,Elmore County,Idaho,8.4,8.2228886524
+2018,16045,Gem County,Idaho,8.4,8.2162815285
+2018,17049,Effingham County,Illinois,8.4,6.4654852821
+2018,18107,Montgomery County,Indiana,8.4,8.5107781283
+2018,18113,Noble County,Indiana,8.4,5.8656360123
+2018,19019,Buchanan County,Iowa,8.4,8.392328485
+2018,19027,Carroll County,Iowa,8.4,7.1377840909
+2018,24023,Garrett County,Maryland,8.4,10.838412123
+2018,26017,Bay County,Michigan,8.4,10.658732165
+2018,26133,Osceola County,Michigan,8.4,10.473537604
+2018,30041,Hill County,Montana,8.4,12.163704549
+2018,32003,Clark County,Nevada,8.4,16.710550128
+2018,34023,Middlesex County,New Jersey,8.4,16.063390182
+2018,37081,Guilford County,North Carolina,8.4,13.20839595
+2018,37145,Person County,North Carolina,8.4,12.213109543
+2018,39035,Cuyahoga County,Ohio,8.4,15.045951328
+2018,40003,Alfalfa County,Oklahoma,8.4,6.1418202122
+2018,40011,Blaine County,Oklahoma,8.4,8.024691358
+2018,40111,Okmulgee County,Oklahoma,8.4,9.7714907508
+2018,42017,Bucks County,Pennsylvania,8.4,12.636377065
+2018,46091,Marshall County,South Dakota,8.4,3.9194338596
+2018,47121,Meigs County,Tennessee,8.4,10.233242278
+2018,48457,Tyler County,Texas,8.4,9.7105920376
+2018,51101,King William County,Virginia,8.4,6.817447496
+2018,51155,Pulaski County,Virginia,8.4,12.44472971
+2018,51177,Spotsylvania County,Virginia,8.4,10.253829811
+2018,1027,Clay County,Alabama,8.5,6.7202638631
+2018,2130,Ketchikan Gateway Borough,Alaska,8.5,13.646967341
+2018,4007,Gila County,Arizona,8.5,10.853924075
+2018,5005,Baxter County,Arkansas,8.5,7.4012335389
+2018,5013,Calhoun County,Arkansas,8.5,6.9110576923
+2018,5073,Lafayette County,Arkansas,8.5,11.448598131
+2018,8105,Rio Grande County,Colorado,8.5,12.237685001
+2018,9009,New Haven County,Connecticut,8.5,17.487078589
+2018,16037,Custer County,Idaho,8.5,12.410763317
+2018,16043,Fremont County,Idaho,8.5,7.7152014652
+2018,18037,Dubois County,Indiana,8.5,7.4010327022
+2018,19117,Lucas County,Iowa,8.5,10.153417015
+2018,20005,Atchison County,Kansas,8.5,10.911650827
+2018,20113,Mcpherson County,Kansas,8.5,9.7643375082
+2018,21031,Butler County,Kentucky,8.5,7.667876588
+2018,21205,Rowan County,Kentucky,8.5,11.028867506
+2018,24005,Baltimore County,Maryland,8.5,14.125599043
+2018,27089,Marshall County,Minnesota,8.5,7.4805194805
+2018,29197,Schuyler County,Missouri,8.5,6.529992407
+2018,30019,Daniels County,Montana,8.5,8.5714285714
+2018,30039,Granite County,Montana,8.5,7.5650118203
+2018,30101,Toole County,Montana,8.5,9.1879075282
+2018,31079,Hall County,Nebraska,8.5,8.832849221
+2018,31185,York County,Nebraska,8.5,8.4291187739
+2018,37023,Burke County,North Carolina,8.5,8.5854118757
+2018,38049,Mchenry County,North Dakota,8.5,8.1548599671
+2018,41019,Douglas County,Oregon,8.5,12.607691624
+2018,42009,Bedford County,Pennsylvania,8.5,9.0823133897
+2018,45045,Greenville County,South Carolina,8.5,10.942952707
+2018,48015,Austin County,Texas,8.5,11.456745854
+2018,48319,Mason County,Texas,8.5,12.035763411
+2018,48475,Ward County,Texas,8.5,8.7867177522
+2018,49027,Millard County,Utah,8.5,5.3212359
+2018,53071,Walla Walla County,Washington,8.5,12.420181671
+2018,55013,Burnett County,Wisconsin,8.5,10.366462284
+2018,56017,Hot Springs County,Wyoming,8.5,9.1405861898
+2018,2150,Kodiak Island Borough,Alaska,8.6,10.927944696
+2018,6055,Napa County,California,8.6,17.199577614
+2018,12067,Lafayette County,Florida,8.6,11.455956184
+2018,13019,Berrien County,Georgia,8.6,9.5090209997
+2018,13023,Bleckley County,Georgia,8.6,11.980627071
+2018,17033,Crawford County,Illinois,8.6,11.182795699
+2018,17151,Pope County,Illinois,8.6,6.0224089636
+2018,19063,Emmet County,Iowa,8.6,8.8672475654
+2018,19177,Van Buren County,Iowa,8.6,7.9789103691
+2018,19197,Wright County,Iowa,8.6,6.3020439061
+2018,20013,Brown County,Kansas,8.6,7.4002217295
+2018,20041,Dickinson County,Kansas,8.6,7.7726975833
+2018,20149,Pottawatomie County,Kansas,8.6,6.3654547594
+2018,27025,Chisago County,Minnesota,8.6,8.6432713457
+2018,27159,Wadena County,Minnesota,8.6,8.8957613244
+2018,29095,Jackson County,Missouri,8.6,13.473530981
+2018,29103,Knox County,Missouri,8.6,8.4410646388
+2018,29127,Marion County,Missouri,8.6,9.680998613
+2018,31019,Buffalo County,Nebraska,8.6,11.534733441
+2018,31111,Lincoln County,Nebraska,8.6,11.264367816
+2018,31149,Rock County,Nebraska,8.6,3.7664783427
+2018,31155,Saunders County,Nebraska,8.6,7.2081829122
+2018,36011,Cayuga County,New York,8.6,11.355858999
+2018,37025,Cabarrus County,North Carolina,8.6,9.700064714
+2018,37029,Camden County,North Carolina,8.6,10.029263102
+2018,38035,Grand Forks County,North Dakota,8.6,14.525083612
+2018,39007,Ashtabula County,Ohio,8.6,12.753435382
+2018,39033,Crawford County,Ohio,8.6,8.2987072946
+2018,39111,Monroe County,Ohio,8.6,8.6932549164
+2018,39115,Morgan County,Ohio,8.6,8.1355349157
+2018,41043,Linn County,Oregon,8.6,14.070298621
+2018,41045,Malheur County,Oregon,8.6,13.800539084
+2018,42071,Lancaster County,Pennsylvania,8.6,12.086793865
+2018,42099,Perry County,Pennsylvania,8.6,8.0206196996
+2018,48115,Dawson County,Texas,8.6,13.248985438
+2018,50005,Caledonia County,Vermont,8.6,13.367022577
+2018,2050,Bethel Census Area,Alaska,8.7,11.402195609
+2018,5011,Bradley County,Arkansas,8.7,11.447028424
+2018,5075,Lawrence County,Arkansas,8.7,7.2371638142
+2018,5079,Lincoln County,Arkansas,8.7,9.0352220521
+2018,6033,Lake County,California,8.7,17.152735408
+2018,8099,Prowers County,Colorado,8.7,10.012782275
+2018,9015,Windham County,Connecticut,8.7,12.410864332
+2018,12055,Highlands County,Florida,8.7,10.075357213
+2018,17093,Kendall County,Illinois,8.7,10.790632068
+2018,17109,Mcdonough County,Illinois,8.7,18.227439735
+2018,18041,Fayette County,Indiana,8.7,10.478723404
+2018,19155,Pottawattamie County,Iowa,8.7,9.8911248566
+2018,19159,Ringgold County,Iowa,8.7,4.4495151169
+2018,20125,Montgomery County,Kansas,8.7,11.755391344
+2018,21037,Campbell County,Kentucky,8.7,13.665075994
+2018,21121,Knox County,Kentucky,8.7,13.350437096
+2018,21139,Livingston County,Kentucky,8.7,10.810810811
+2018,21175,Morgan County,Kentucky,8.7,10.949410949
+2018,21191,Pendleton County,Kentucky,8.7,16.378972146
+2018,22075,Plaquemines Parish,Louisiana,8.7,11.969792322
+2018,26031,Cheboygan County,Michigan,8.7,10.355002305
+2018,26075,Jackson County,Michigan,8.7,10.809248555
+2018,27065,Kanabec County,Minnesota,8.7,8.909512761
+2018,28129,Smith County,Mississippi,8.7,5.3370267775
+2018,28155,Webster County,Mississippi,8.7,10.939289805
+2018,29113,Lincoln County,Missouri,8.7,10.419451013
+2018,31003,Antelope County,Nebraska,8.7,7.5989032511
+2018,32019,Lyon County,Nevada,8.7,10.842683218
+2018,35039,Rio Arriba County,New Mexico,8.7,10.18845194
+2018,36121,Wyoming County,New York,8.7,7.8815519013
+2018,37019,Brunswick County,North Carolina,8.7,14.175118735
+2018,39031,Coshocton County,Ohio,8.7,10.221210612
+2018,39081,Jefferson County,Ohio,8.7,10.516464207
+2018,46077,Kingsbury County,South Dakota,8.7,11.641500244
+2018,47017,Carroll County,Tennessee,8.7,8.3709754926
+2018,47057,Grainger County,Tennessee,8.7,11.015068333
+2018,47099,Lawrence County,Tennessee,8.7,10.863491219
+2018,48071,Chambers County,Texas,8.7,12.833225551
+2018,48099,Coryell County,Texas,8.7,9.5093436436
+2018,48183,Gregg County,Texas,8.7,12.786242538
+2018,48325,Medina County,Texas,8.7,9.7026502909
+2018,51023,Botetourt County,Virginia,8.7,6.7116697703
+2018,51630,Fredericksburg City,Virginia,8.7,17.151002391
+2018,54105,Wirt County,West Virginia,8.7,7.670221493
+2018,55079,Milwaukee County,Wisconsin,8.7,17.369922536
+2018,55115,Shawano County,Wisconsin,8.7,7.9801245211
+2018,55129,Washburn County,Wisconsin,8.7,8.6112708453
+2018,12005,Bay County,Florida,8.8,13.717147481
+2018,12131,Walton County,Florida,8.8,12.945346692
+2018,13167,Johnson County,Georgia,8.8,8.3278035833
+2018,17017,Cass County,Illinois,8.8,6.8783068783
+2018,17201,Winnebago County,Illinois,8.8,12.747531335
+2018,18157,Tippecanoe County,Indiana,8.8,15.062057766
+2018,18179,Wells County,Indiana,8.8,8.120756102
+2018,19059,Dickinson County,Iowa,8.8,9.7546087169
+2018,19075,Grundy County,Iowa,8.8,4.8270313757
+2018,20039,Decatur County,Kansas,8.8,7.0318282754
+2018,22063,Livingston Parish,Louisiana,8.8,7.0345300317
+2018,23025,Somerset County,Maine,8.8,11.325033777
+2018,24037,St. Mary&#39;s County,Maryland,8.8,11.807276206
+2018,32029,Storey County,Nevada,8.8,9.4873305834
+2018,36019,Clinton County,New York,8.8,10.109478252
+2018,36037,Genesee County,New York,8.8,10.413834126
+2018,38003,Barnes County,North Dakota,8.8,8.2211342309
+2018,39045,Fairfield County,Ohio,8.8,9.6826269758
+2018,40049,Garvin County,Oklahoma,8.8,7.605344296
+2018,40113,Osage County,Oklahoma,8.8,9.657178712
+2018,41037,Lake County,Oregon,8.8,14.09856519
+2018,42105,Potter County,Pennsylvania,8.8,10.667918035
+2018,47189,Wilson County,Tennessee,8.8,9.1179524038
+2018,48243,Jeff Davis County,Texas,8.8,12.632696391
+2018,51067,Franklin County,Virginia,8.8,10.90362838
+2018,51660,Harrisonburg City,Virginia,8.8,17.668062054
+2018,53003,Asotin County,Washington,8.8,9.6518289996
+2018,55137,Waushara County,Wisconsin,8.8,10.119047619
+2018,12045,Gulf County,Florida,8.9,12.907878132
+2018,13059,Clarke County,Georgia,8.9,23.59409625
+2018,13065,Clinch County,Georgia,8.9,11.796643633
+2018,13077,Coweta County,Georgia,8.9,9.3308199811
+2018,13105,Elbert County,Georgia,8.9,15.606548578
+2018,13139,Hall County,Georgia,8.9,12.452263194
+2018,16053,Jerome County,Idaho,8.9,9.6930111039
+2018,17197,Will County,Illinois,8.9,11.529478781
+2018,18003,Allen County,Indiana,8.9,9.6575523184
+2018,18065,Henry County,Indiana,8.9,8.1544824503
+2018,20189,Stevens County,Kansas,8.9,11.302681992
+2018,20201,Washington County,Kansas,8.9,5.0442477876
+2018,21003,Allen County,Kentucky,8.9,11.130434783
+2018,21069,Fleming County,Kentucky,8.9,9.7895699909
+2018,26097,Mackinac County,Michigan,8.9,13.012295082
+2018,28059,Jackson County,Mississippi,8.9,12.708540654
+2018,29013,Bates County,Missouri,8.9,9.5994914177
+2018,31041,Custer County,Nebraska,8.9,10.281597904
+2018,31053,Dodge County,Nebraska,8.9,9.200837668
+2018,31137,Phelps County,Nebraska,8.9,12.987707108
+2018,31169,Thayer County,Nebraska,8.9,5.0697674419
+2018,35037,Quay County,New Mexico,8.9,8.5120422303
+2018,36099,Seneca County,New York,8.9,10.567222181
+2018,37043,Clay County,North Carolina,8.9,14.93360572
+2018,38105,Williams County,North Dakota,8.9,6.9631815627
+2018,39039,Defiance County,Ohio,8.9,7.6667772984
+2018,39049,Franklin County,Ohio,8.9,13.349210477
+2018,39061,Hamilton County,Ohio,8.9,13.957396761
+2018,39069,Henry County,Ohio,8.9,6.5748104309
+2018,39119,Muskingum County,Ohio,8.9,11.94955174
+2018,39153,Summit County,Ohio,8.9,12.233366359
+2018,42051,Fayette County,Pennsylvania,8.9,11.255295599
+2018,45079,Richland County,South Carolina,8.9,16.96100659
+2018,48087,Collingsworth County,Texas,8.9,8.9690721649
+2018,48141,El Paso County,Texas,8.9,13.928883486
+2018,51109,Louisa County,Virginia,8.9,9.0616045845
+2018,51185,Tazewell County,Virginia,8.9,10.369795707
+2018,51193,Westmoreland County,Virginia,8.9,14.049586777
+2018,6019,Fresno County,California,9,18.542997821
+2018,16005,Bannock County,Idaho,9,10.744656772
+2018,16007,Bear Lake County,Idaho,9,7.9322638146
+2018,18085,Kosciusko County,Indiana,9,8.4919472914
+2018,19083,Hardin County,Iowa,9,9.2145677929
+2018,19141,O&#39;brien County,Iowa,9,8.5600415872
+2018,19193,Woodbury County,Iowa,9,10.191182208
+2018,20093,Kearny County,Kansas,9,8.7572977481
+2018,20101,Lane County,Kansas,9,1.3422818792
+2018,20129,Morton County,Kansas,9,11.96013289
+2018,20171,Scott County,Kansas,9,8.4577114428
+2018,20193,Thomas County,Kansas,9,5.9141494436
+2018,21163,Meade County,Kentucky,9,8.425014476
+2018,21179,Nelson County,Kentucky,9,7.6313237894
+2018,24001,Allegany County,Maryland,9,12.258188087
+2018,26099,Macomb County,Michigan,9,12.005697441
+2018,27143,Sibley County,Minnesota,9,9.2535259718
+2018,31073,Gosper County,Nebraska,9,6.5909090909
+2018,33007,Coos County,New Hampshire,9,11.277423142
+2018,36045,Jefferson County,New York,9,12.37362848
+2018,38011,Bowman County,North Dakota,9,5.9725585149
+2018,39057,Greene County,Ohio,9,9.1657366071
+2018,39133,Portage County,Ohio,9,12.834347002
+2018,40039,Custer County,Oklahoma,9,13.742030407
+2018,40043,Dewey County,Oklahoma,9,6.5189873418
+2018,41049,Morrow County,Oregon,9,7.6395939086
+2018,42041,Cumberland County,Pennsylvania,9,9.8198884833
+2018,46027,Clay County,South Dakota,9,17.491096161
+2018,47055,Giles County,Tennessee,9,9.138712602
+2018,48047,Brooks County,Texas,9,14.954610607
+2018,48053,Burnet County,Texas,9,9.5277304005
+2018,48355,Nueces County,Texas,9,14.356743809
+2018,51550,Chesapeake City,Virginia,9,12.985549438
+2018,53021,Franklin County,Washington,9,10.974332111
+2018,55095,Polk County,Wisconsin,9,10.603804797
+2018,1001,Autauga County,Alabama,9.1,13.832769454
+2018,2016,Aleutians West Census Area,Alaska,9.1,5.5989583333
+2018,2122,Kenai Peninsula Borough,Alaska,9.1,11.008127763
+2018,2185,North Slope Borough,Alaska,9.1,9.1836734694
+2018,8033,Dolores County,Colorado,9.1,1.3407821229
+2018,8057,Jackson County,Colorado,9.1,14.800759013
+2018,12029,Dixie County,Florida,9.1,4.4343575419
+2018,16011,Bingham County,Idaho,9.1,7.7669262241
+2018,18127,Porter County,Indiana,9.1,10.256854439
+2018,20023,Cheyenne County,Kansas,9.1,8.0168776371
+2018,20087,Jefferson County,Kansas,9.1,6.6229595933
+2018,21155,Marion County,Kentucky,9.1,11.114217811
+2018,21173,Montgomery County,Kentucky,9.1,9.316953317
+2018,21217,Taylor County,Kentucky,9.1,7.75
+2018,23001,Androscoggin County,Maine,9.1,10.815433484
+2018,23021,Piscataquis County,Maine,9.1,13.087395696
+2018,26071,Iron County,Michigan,9.1,11.002643889
+2018,29017,Bollinger County,Missouri,9.1,11.564467242
+2018,29075,Gentry County,Missouri,9.1,9.6201486375
+2018,29109,Lawrence County,Missouri,9.1,9.6010150853
+2018,30061,Mineral County,Montana,9.1,9.3993325918
+2018,30073,Pondera County,Montana,9.1,7.4035453597
+2018,31015,Boyd County,Nebraska,9.1,10.396039604
+2018,31035,Clay County,Nebraska,9.1,6.9035123133
+2018,31049,Deuel County,Nebraska,9.1,5.8441558442
+2018,31055,Douglas County,Nebraska,9.1,11.893400101
+2018,31153,Sarpy County,Nebraska,9.1,8.0672700624
+2018,36013,Chautauqua County,New York,9.1,13.095238095
+2018,39151,Stark County,Ohio,9.1,9.851405969
+2018,39169,Wayne County,Ohio,9.1,8.6735286601
+2018,40037,Creek County,Oklahoma,9.1,8.7504472628
+2018,42069,Lackawanna County,Pennsylvania,9.1,13.335455875
+2018,46005,Beadle County,South Dakota,9.1,5.8703350586
+2018,47093,Knox County,Tennessee,9.1,11.586609236
+2018,48151,Fisher County,Texas,9.1,4.9555273189
+2018,48459,Upshur County,Texas,9.1,10.677373782
+2018,48501,Yoakum County,Texas,9.1,10.821052632
+2018,49045,Tooele County,Utah,9.1,6.2460961899
+2018,51051,Dickenson County,Virginia,9.1,15.457903947
+2018,51073,Gloucester County,Virginia,9.1,9.1473509934
+2018,51171,Shenandoah County,Virginia,9.1,12.001627339
+2018,51750,Radford City,Virginia,9.1,21.195753399
+2018,53001,Adams County,Washington,9.1,9.7219762706
+2018,53069,Wahkiakum County,Washington,9.1,12.850971922
+2018,54011,Cabell County,West Virginia,9.1,15.430082859
+2018,54037,Jefferson County,West Virginia,9.1,11.380524052
+2018,2105,Hoonah-Angoon Census Area,Alaska,9.2,6.432748538
+2018,5081,Little River County,Arkansas,9.2,3.9365334404
+2018,8075,Logan County,Colorado,9.2,9.2992796333
+2018,16019,Bonneville County,Idaho,9.2,10.063672175
+2018,16031,Cassia County,Idaho,9.2,8.9564732143
+2018,17167,Sangamon County,Illinois,9.2,12.397530985
+2018,19163,Scott County,Iowa,9.2,11.271180002
+2018,20007,Barber County,Kansas,9.2,10.239287702
+2018,21141,Logan County,Kentucky,9.2,10.017063134
+2018,22091,St. Helena Parish,Louisiana,9.2,12.568940493
+2018,26057,Gratiot County,Michigan,9.2,8.9892294946
+2018,28091,Marion County,Mississippi,9.2,16.560369474
+2018,29065,Dent County,Missouri,9.2,10.560344828
+2018,29213,Taney County,Missouri,9.2,11.426465168
+2018,31059,Fillmore County,Nebraska,9.2,4.6908315565
+2018,36081,Queens County,New York,9.2,23.567693554
+2018,37059,Davie County,North Carolina,9.2,10.474083439
+2018,38071,Ramsey County,North Dakota,9.2,9.6739825272
+2018,39009,Athens County,Ohio,9.2,18.737588652
+2018,39017,Butler County,Ohio,9.2,11.057298373
+2018,39155,Trumbull County,Ohio,9.2,11.276103765
+2018,40127,Pushmataha County,Oklahoma,9.2,8.2751984604
+2018,42107,Schuylkill County,Pennsylvania,9.2,10.112618604
+2018,45003,Aiken County,South Carolina,9.2,11.33773337
+2018,45035,Dorchester County,South Carolina,9.2,13.740389452
+2018,48113,Dallas County,Texas,9.2,15.149836111
+2018,49025,Kane County,Utah,9.2,7.2623574144
+2018,51159,Richmond County,Virginia,9.2,9.815498155
+2018,53025,Grant County,Washington,9.2,10.478285133
+2018,54061,Monongalia County,West Virginia,9.2,16.201608524
+2018,55049,Iowa County,Wisconsin,9.2,9.7987006071
+2018,55067,Langlade County,Wisconsin,9.2,8.7324981577
+2018,2070,Dillingham Census Area,Alaska,9.3,9.1197462331
+2018,5119,Pulaski County,Arkansas,9.3,14.368795235
+2018,8071,Las Animas County,Colorado,9.3,14.926783184
+2018,12019,Clay County,Florida,9.3,10.177419575
+2018,12065,Jefferson County,Florida,9.3,9.8489194875
+2018,12077,Liberty County,Florida,9.3,11.785095321
+2018,15001,Hawaii County,Hawaii,9.3,16.087861204
+2018,18181,White County,Indiana,9.3,7.9157894737
+2018,19025,Calhoun County,Iowa,9.3,6.1410159212
+2018,20015,Butler County,Kansas,9.3,11.274367783
+2018,20191,Sumner County,Kansas,9.3,9.0485695276
+2018,21077,Gallatin County,Kentucky,9.3,9.2061374249
+2018,21085,Grayson County,Kentucky,9.3,12.689456798
+2018,26077,Kalamazoo County,Michigan,9.3,12.078884906
+2018,28047,Harrison County,Mississippi,9.3,14.470766717
+2018,28157,Wilkinson County,Mississippi,9.3,9.8409542744
+2018,29031,Cape Girardeau County,Missouri,9.3,11.91711625
+2018,29077,Greene County,Missouri,9.3,14.545914289
+2018,29205,Shelby County,Missouri,9.3,7.989800255
+2018,31081,Hamilton County,Nebraska,9.3,4.4488523661
+2018,36095,Schoharie County,New York,9.3,10.120207927
+2018,36097,Schuyler County,New York,9.3,11.534138803
+2018,37147,Pitt County,North Carolina,9.3,17.278408591
+2018,37157,Rockingham County,North Carolina,9.3,10.317331164
+2018,39027,Clinton County,Ohio,9.3,11.188767551
+2018,39089,Licking County,Ohio,9.3,9.6091954023
+2018,39143,Sandusky County,Ohio,9.3,9.0765013279
+2018,45087,Union County,South Carolina,9.3,8.8086708919
+2018,46125,Turner County,South Dakota,9.3,8.0311657177
+2018,48079,Cochran County,Texas,9.3,9.0419806243
+2018,48219,Hockley County,Texas,9.3,7.9834110938
+2018,51071,Giles County,Virginia,9.3,8.7566220006
+2018,5039,Dallas County,Arkansas,9.4,7.5715282624
+2018,5065,Izard County,Arkansas,9.4,8.8541666667
+2018,8079,Mineral County,Colorado,9.4,14.136125654
+2018,12053,Hernando County,Florida,9.4,12.815055299
+2018,17073,Henry County,Illinois,9.4,6.7686483168
+2018,18163,Vanderburgh County,Indiana,9.4,13.361987911
+2018,19073,Greene County,Iowa,9.4,8.5166968677
+2018,20053,Ellsworth County,Kansas,9.4,4.1107745565
+2018,20089,Jewell County,Kansas,9.4,7.9571537873
+2018,20123,Mitchell County,Kansas,9.4,8.2203041513
+2018,20141,Osborne County,Kansas,9.4,4.5251752709
+2018,21145,Mccracken County,Kentucky,9.4,12.997229917
+2018,21149,Mclean County,Kentucky,9.4,7.3412698413
+2018,22015,Bossier Parish,Louisiana,9.4,14.257771421
+2018,27087,Mahnomen County,Minnesota,9.4,13.21656051
+2018,28105,Oktibbeha County,Mississippi,9.4,23.233616575
+2018,29157,Perry County,Missouri,9.4,6.5146134936
+2018,31013,Box Butte County,Nebraska,9.4,9.2755585647
+2018,31151,Saline County,Nebraska,9.4,10.600430276
+2018,34005,Burlington County,New Jersey,9.4,13.104246685
+2018,41021,Gilliam County,Oregon,9.4,15.985997666
+2018,42085,Mercer County,Pennsylvania,9.4,8.9382388686
+2018,45017,Calhoun County,South Carolina,9.4,11.198361215
+2018,45047,Greenwood County,South Carolina,9.4,12.952338096
+2018,45051,Horry County,South Carolina,9.4,13.353147305
+2018,45063,Lexington County,South Carolina,9.4,10.218280791
+2018,45073,Oconee County,South Carolina,9.4,11.141576078
+2018,47033,Crockett County,Tennessee,9.4,10.392565902
+2018,47159,Smith County,Tennessee,9.4,12.041813739
+2018,48147,Fannin County,Texas,9.4,10.037237644
+2018,53045,Mason County,Washington,9.4,11.059028498
+2018,53051,Pend Oreille County,Washington,9.4,9.5316201932
+2018,4021,Pinal County,Arizona,9.5,10.877878814
+2018,6101,Sutter County,California,9.5,13.839229111
+2018,12007,Bradford County,Florida,9.5,17.659670503
+2018,12033,Escambia County,Florida,9.5,12.427443305
+2018,13119,Franklin County,Georgia,9.5,10.637204522
+2018,13281,Towns County,Georgia,9.5,15.290201789
+2018,16075,Payette County,Idaho,9.5,8.3034513671
+2018,21083,Graves County,Kentucky,9.5,9.4328490302
+2018,21093,Hardin County,Kentucky,9.5,8.9224095435
+2018,21111,Jefferson County,Kentucky,9.5,12.060004075
+2018,21143,Lyon County,Kentucky,9.5,9.1168996188
+2018,21169,Metcalfe County,Kentucky,9.5,6.4245810056
+2018,22103,St. Tammany Parish,Louisiana,9.5,12.223809215
+2018,22125,West Feliciana Parish,Louisiana,9.5,8.1025110018
+2018,26145,Saginaw County,Michigan,9.5,11.917199439
+2018,28071,Lafayette County,Mississippi,9.5,17.568409722
+2018,29063,Dekalb County,Missouri,9.5,6.7675378267
+2018,31131,Otoe County,Nebraska,9.5,9.1999368786
+2018,36089,St. Lawrence County,New York,9.5,13.014591894
+2018,37097,Iredell County,North Carolina,9.5,9.4240678994
+2018,39019,Carroll County,Ohio,9.5,7.3216461986
+2018,39083,Knox County,Ohio,9.5,8.9088863892
+2018,40085,Love County,Oklahoma,9.5,8.4287531807
+2018,42039,Crawford County,Pennsylvania,9.5,8.98322108
+2018,42109,Snyder County,Pennsylvania,9.5,7.272214784
+2018,46087,Mccook County,South Dakota,9.5,7.1222329163
+2018,47047,Fayette County,Tennessee,9.5,9.3960174074
+2018,48081,Coke County,Texas,9.5,2.2884882108
+2018,48111,Dallam County,Texas,9.5,4.5722046175
+2018,48463,Uvalde County,Texas,9.5,8.5805084746
+2018,48465,Val Verde County,Texas,9.5,10.915694896
+2018,51041,Chesterfield County,Virginia,9.5,9.6170097422
+2018,51187,Warren County,Virginia,9.5,10.291522552
+2018,54007,Braxton County,West Virginia,9.5,5.6088109321
+2018,2158,Kusilvak Census Area,Alaska,9.6,10.146862483
+2018,12123,Taylor County,Florida,9.6,8.5462423427
+2018,13015,Bartow County,Georgia,9.6,11.269521685
+2018,13051,Chatham County,Georgia,9.6,16.180298541
+2018,13081,Crisp County,Georgia,9.6,16.544674407
+2018,13103,Effingham County,Georgia,9.6,8.5471698113
+2018,13135,Gwinnett County,Georgia,9.6,14.770284313
+2018,16067,Minidoka County,Idaho,9.6,9.257446511
+2018,16069,Nez Perce County,Idaho,9.6,14.955054796
+2018,18059,Hancock County,Indiana,9.6,6.9844637602
+2018,18093,Lawrence County,Indiana,9.6,7.7787475453
+2018,19023,Butler County,Iowa,9.6,8.3970763216
+2018,19107,Keokuk County,Iowa,9.6,11.316674676
+2018,19111,Lee County,Iowa,9.6,9.3985496943
+2018,20177,Shawnee County,Kansas,9.6,10.002518469
+2018,21059,Daviess County,Kentucky,9.6,11.940107499
+2018,23029,Washington County,Maine,9.6,12.010919017
+2018,26109,Menominee County,Michigan,9.6,7.5545937439
+2018,26117,Montcalm County,Michigan,9.6,9.3997445722
+2018,28003,Alcorn County,Mississippi,9.6,9.7536083977
+2018,28035,Forrest County,Mississippi,9.6,15.248094455
+2018,29007,Audrain County,Missouri,9.6,8.4398687634
+2018,29133,Mississippi County,Missouri,9.6,11.181301327
+2018,35021,Harding County,New Mexico,9.6,6.8702290076
+2018,37033,Caswell County,North Carolina,9.6,10.338805449
+2018,39025,Clermont County,Ohio,9.6,10.4565822
+2018,39043,Erie County,Ohio,9.6,11.275682407
+2018,39047,Fayette County,Ohio,9.6,11.894708472
+2018,40041,Delaware County,Oklahoma,9.6,11.101404056
+2018,40109,Oklahoma County,Oklahoma,9.6,13.454110038
+2018,41069,Wheeler County,Oregon,9.6,11.409395973
+2018,46023,Charles Mix County,South Dakota,9.6,9.1092436975
+2018,46035,Davison County,South Dakota,9.6,11.197285507
+2018,48271,Kinney County,Texas,9.6,1.1721611722
+2018,48359,Oldham County,Texas,9.6,5.1330798479
+2018,48479,Webb County,Texas,9.6,15.420230389
+2018,51149,Prince George County,Virginia,9.6,10.281751192
+2018,51775,Salem City,Virginia,9.6,10.900031143
+2018,55037,Florence County,Wisconsin,9.6,13.209442491
+2018,5045,Faulkner County,Arkansas,9.7,12.950020691
+2018,12083,Marion County,Florida,9.7,12.761873502
+2018,12097,Osceola County,Florida,9.7,19.197081661
+2018,13297,Walton County,Georgia,9.7,11.635010022
+2018,16047,Gooding County,Idaho,9.7,7.2597329321
+2018,17027,Clinton County,Illinois,9.7,6.8473009872
+2018,18165,Vermillion County,Indiana,9.7,7.0152855994
+2018,19183,Washington County,Iowa,9.7,7.2223510318
+2018,20011,Bourbon County,Kansas,9.7,8.7746897396
+2018,20117,Marshall County,Kansas,9.7,5.4100790514
+2018,21225,Union County,Kentucky,9.7,3.7227478404
+2018,22053,Jefferson Davis Parish,Louisiana,9.7,11.618143652
+2018,22085,Sabine Parish,Louisiana,9.7,11.094801223
+2018,28081,Lee County,Mississippi,9.7,11.494514795
+2018,34011,Cumberland County,New Jersey,9.7,20.175191301
+2018,37013,Beaufort County,North Carolina,9.7,16.196344431
+2018,40099,Murray County,Oklahoma,9.7,6.0072815534
+2018,41047,Marion County,Oregon,9.7,14.744972632
+2018,45027,Clarendon County,South Carolina,9.7,10.741301059
+2018,46009,Bon Homme County,South Dakota,9.7,7.8496868476
+2018,46057,Hamlin County,South Dakota,9.7,5.8441558442
+2018,47065,Hamilton County,Tennessee,9.7,11.655074757
+2018,48089,Colorado County,Texas,9.7,4.9971444889
+2018,48287,Lee County,Texas,9.7,11.564396494
+2018,48395,Robertson County,Texas,9.7,10.619055044
+2018,48483,Wheeler County,Texas,9.7,6.961038961
+2018,51047,Culpeper County,Virginia,9.7,11.680291713
+2018,51147,Prince Edward County,Virginia,9.7,15.305111143
+2018,53053,Pierce County,Washington,9.7,14.049880758
+2018,54085,Ritchie County,West Virginia,9.7,6.4045821401
+2018,4009,Graham County,Arizona,9.8,10.108981586
+2018,12079,Madison County,Florida,9.8,16.635279347
+2018,13001,Appling County,Georgia,9.8,11.388074291
+2018,13157,Jackson County,Georgia,9.8,8.7840429613
+2018,13181,Lincoln County,Georgia,9.8,16.192411924
+2018,15003,Honolulu County,Hawaii,9.8,18.420992799
+2018,16027,Canyon County,Idaho,9.8,9.6015487698
+2018,18005,Bartholomew County,Indiana,9.8,9.8262704985
+2018,18167,Vigo County,Indiana,9.8,13.180439267
+2018,20065,Graham County,Kansas,9.8,12.622149837
+2018,20137,Norton County,Kansas,9.8,7.350521119
+2018,21073,Franklin County,Kentucky,9.8,9.2358385424
+2018,26037,Clinton County,Michigan,9.8,7.5366340655
+2018,27105,Nobles County,Minnesota,9.8,10.192407696
+2018,29015,Benton County,Missouri,9.8,12.8866641
+2018,29057,Dade County,Missouri,9.8,9.1521816247
+2018,30095,Stillwater County,Montana,9.8,7.4404761905
+2018,31145,Red Willow County,Nebraska,9.8,8.3275342148
+2018,36005,Bronx County,New York,9.8,30.341739874
+2018,36041,Hamilton County,New York,9.8,7.6023391813
+2018,37001,Alamance County,North Carolina,9.8,12.208716463
+2018,37067,Forsyth County,North Carolina,9.8,13.684152394
+2018,37151,Randolph County,North Carolina,9.8,10.287059511
+2018,38051,Mcintosh County,North Dakota,9.8,11.937857727
+2018,39101,Marion County,Ohio,9.8,10.78092022
+2018,40017,Canadian County,Oklahoma,9.8,6.9342576029
+2018,40143,Tulsa County,Oklahoma,9.8,11.880929975
+2018,46123,Tripp County,South Dakota,9.8,9.4312796209
+2018,47155,Sevier County,Tennessee,9.8,11.410472514
+2018,48201,Harris County,Texas,9.8,15.766715976
+2018,48407,San Jacinto County,Texas,9.8,11.162983712
+2018,50009,Essex County,Vermont,9.8,14.683544304
+2018,51770,Roanoke City,Virginia,9.8,17.272210833
+2018,53019,Ferry County,Washington,9.8,11.870138654
+2018,53077,Yakima County,Washington,9.8,13.042672073
+2018,1089,Madison County,Alabama,9.9,10.469323883
+2018,2180,Nome Census Area,Alaska,9.9,11.555203799
+2018,5001,Arkansas County,Arkansas,9.9,9.551800147
+2018,5139,Union County,Arkansas,9.9,11.540504648
+2018,8061,Kiowa County,Colorado,9.9,14.51048951
+2018,8113,San Miguel County,Colorado,9.9,18.766215048
+2018,13073,Columbia County,Georgia,9.9,7.0573302306
+2018,13307,Webster County,Georgia,9.9,10.642377756
+2018,17095,Knox County,Illinois,9.9,11.666411161
+2018,17163,St. Clair County,Illinois,9.9,13.638882841
+2018,18081,Johnson County,Indiana,9.9,8.8768978469
+2018,18137,Ripley County,Indiana,9.9,9.5246953772
+2018,19131,Mitchell County,Iowa,9.9,5.8630393996
+2018,20127,Morris County,Kansas,9.9,6.4017660044
+2018,21099,Hart County,Kentucky,9.9,9.0763403263
+2018,21219,Todd County,Kentucky,9.9,11.036088475
+2018,22061,Lincoln Parish,Louisiana,9.9,16.56129912
+2018,22113,Vermilion Parish,Louisiana,9.9,6.4890252085
+2018,26105,Mason County,Michigan,9.9,8.4086345382
+2018,29175,Randolph County,Missouri,9.9,8.9634566766
+2018,35029,Luna County,New Mexico,9.9,12.366763566
+2018,39067,Harrison County,Ohio,9.9,11.883561644
+2018,40091,Mcintosh County,Oklahoma,9.9,9.7389949357
+2018,40115,Ottawa County,Oklahoma,9.9,9.8132094021
+2018,46053,Gregory County,South Dakota,9.9,8.1423401689
+2018,47103,Lincoln County,Tennessee,9.9,8.3654209136
+2018,48289,Leon County,Texas,9.9,8.8577721838
+2018,48401,Rusk County,Texas,9.9,8.6742380345
+2018,51061,Fauquier County,Virginia,9.9,10.134570378
+2018,53013,Columbia County,Washington,9.9,6.1153174141
+2018,53041,Lewis County,Washington,9.9,12.527406817
+2018,5033,Crawford County,Arkansas,10,8.3347580783
+2018,12121,Suwannee County,Florida,10,10.530432309
+2018,13109,Evans County,Georgia,10,14.603429796
+2018,13275,Thomas County,Georgia,10,14.544252044
+2018,17161,Rock Island County,Illinois,10,10.420695505
+2018,18067,Howard County,Indiana,10,9.3066127498
+2018,19195,Worth County,Iowa,10,4.3014230272
+2018,20095,Kingman County,Kansas,10,5.3600258314
+2018,21001,Adair County,Kentucky,10,9.8986285033
+2018,21013,Bell County,Kentucky,10,15.754877014
+2018,22067,Morehouse Parish,Louisiana,10,14.836585939
+2018,24045,Wicomico County,Maryland,10,15.373819163
+2018,26013,Baraga County,Michigan,10,9.0190915076
+2018,26015,Barry County,Michigan,10,9.1546618225
+2018,27033,Cottonwood County,Minnesota,10,6.8943298969
+2018,27155,Traverse County,Minnesota,10,7.6513639388
+2018,29177,Ray County,Missouri,10,8.4426895831
+2018,29185,St. Clair County,Missouri,10,8.0550599031
+2018,31001,Adams County,Nebraska,10,10.831193838
+2018,32023,Nye County,Nevada,10,12.921196387
+2018,34001,Atlantic County,New Jersey,10,19.631392405
+2018,35047,San Miguel County,New Mexico,10,15.936859003
+2018,36063,Niagara County,New York,10,10.88567638
+2018,38091,Steele County,North Dakota,10,5.1209103841
+2018,39085,Lake County,Ohio,10,9.1642020398
+2018,39113,Montgomery County,Ohio,10,12.943890359
+2018,40129,Roger Mills County,Oklahoma,10,10.218978102
+2018,45083,Spartanburg County,South Carolina,10,11.310898252
+2018,47045,Dyer County,Tennessee,10,11.748374865
+2018,47119,Maury County,Tennessee,10,9.8294329957
+2018,47157,Shelby County,Tennessee,10,17.591640473
+2018,48233,Hutchinson County,Texas,10,7.2988421515
+2018,51169,Scott County,Virginia,10,8.938547486
+2018,54025,Greenbrier County,West Virginia,10,9.2968803801
+2018,56009,Converse County,Wyoming,10,4.7720247295
+2018,4017,Navajo County,Arizona,10.1,10.937868427
+2018,5147,Woodruff County,Arkansas,10.1,9.039347749
+2018,6069,San Benito County,California,10.1,15.491155857
+2018,13057,Cherokee County,Georgia,10.1,11.074867273
+2018,13147,Hart County,Georgia,10.1,13.44873502
+2018,13277,Tift County,Georgia,10.1,14.039669655
+2018,16083,Twin Falls County,Idaho,10.1,11.550231135
+2018,16087,Washington County,Idaho,10.1,13.153497255
+2018,17071,Henderson County,Illinois,10.1,3.6214554151
+2018,17143,Peoria County,Illinois,10.1,13.157671539
+2018,17179,Tazewell County,Illinois,10.1,8.4192374744
+2018,17191,Wayne County,Illinois,10.1,7.2578285045
+2018,18035,Delaware County,Indiana,10.1,14.997984142
+2018,18063,Hendricks County,Indiana,10.1,6.5879031309
+2018,18087,Lagrange County,Indiana,10.1,6.3579017264
+2018,18103,Miami County,Indiana,10.1,9.2977400273
+2018,18169,Wabash County,Indiana,10.1,8.4282460137
+2018,19057,Des Moines County,Iowa,10.1,13.103490583
+2018,20003,Anderson County,Kansas,10.1,10.826306914
+2018,20037,Crawford County,Kansas,10.1,12.895685855
+2018,20085,Jackson County,Kansas,10.1,11.836200449
+2018,20173,Sedgwick County,Kansas,10.1,11.251892827
+2018,21117,Kenton County,Kentucky,10.1,9.3624835753
+2018,26033,Chippewa County,Michigan,10.1,10.525546378
+2018,26095,Luce County,Michigan,10.1,8.6560364465
+2018,30059,Meagher County,Montana,10.1,11.111111111
+2018,31067,Gage County,Nebraska,10.1,9.2274433952
+2018,35045,San Juan County,New Mexico,10.1,11.369163424
+2018,36057,Montgomery County,New York,10.1,13.625623523
+2018,36065,Oneida County,New York,10.1,11.480831304
+2018,37035,Catawba County,North Carolina,10.1,8.8990386994
+2018,40031,Comanche County,Oklahoma,10.1,12.141138351
+2018,47109,Mcnairy County,Tennessee,10.1,7.1939328277
+2018,47123,Monroe County,Tennessee,10.1,8.4446456871
+2018,47127,Moore County,Tennessee,10.1,10.386373079
+2018,48165,Gaines County,Texas,10.1,7.6160179641
+2018,48285,Lavaca County,Texas,10.1,5.7421451788
+2018,48333,Mills County,Texas,10.1,9.1230135374
+2018,48339,Montgomery County,Texas,10.1,10.779980533
+2018,48451,Tom Green County,Texas,10.1,10.820931349
+2018,51103,Lancaster County,Virginia,10.1,10.162204417
+2018,51137,Orange County,Virginia,10.1,10.605601817
+2018,51183,Sussex County,Virginia,10.1,10.713294477
+2018,6039,Madera County,California,10.2,15.862117121
+2018,13085,Dawson County,Georgia,10.2,8.2826086957
+2018,13123,Gilmer County,Georgia,10.2,9.2042349727
+2018,16021,Boundary County,Idaho,10.2,11.389735177
+2018,18017,Cass County,Indiana,10.2,8.1536954087
+2018,18019,Clark County,Indiana,10.2,8.3046638263
+2018,18161,Union County,Indiana,10.2,7.9756795422
+2018,19173,Taylor County,Iowa,10.2,4.8038430745
+2018,20135,Ness County,Kansas,10.2,5.7480980558
+2018,20155,Reno County,Kansas,10.2,9.6057791538
+2018,20163,Rooks County,Kansas,10.2,5.3135471517
+2018,26121,Muskegon County,Michigan,10.2,9.7714711544
+2018,26163,Wayne County,Michigan,10.2,16.739997984
+2018,27151,Swift County,Minnesota,10.2,8.9003944773
+2018,28031,Covington County,Mississippi,10.2,14.502849905
+2018,31157,Scotts Bluff County,Nebraska,10.2,13.770166997
+2018,34007,Camden County,New Jersey,10.2,16.886323983
+2018,34013,Essex County,New Jersey,10.2,23.573136997
+2018,37009,Ashe County,North Carolina,10.2,9.3792355652
+2018,37123,Montgomery County,North Carolina,10.2,10.280471275
+2018,38005,Benson County,North Dakota,10.2,9.9693251534
+2018,39095,Lucas County,Ohio,10.2,13.801183594
+2018,41015,Curry County,Oregon,10.2,12.5522218
+2018,42047,Elk County,Pennsylvania,10.2,5.9041663637
+2018,47179,Washington County,Tennessee,10.2,10.934950767
+2018,48313,Madison County,Texas,10.2,8.3248987854
+2018,51011,Appomattox County,Virginia,10.2,7.6131687243
+2018,51197,Wythe County,Virginia,10.2,8.4990489365
+2018,55005,Barron County,Wisconsin,10.2,9.6043685422
+2018,55065,Lafayette County,Wisconsin,10.2,9.2463092463
+2018,1107,Pickens County,Alabama,10.3,10.400776591
+2018,1133,Winston County,Alabama,10.3,9.1164884637
+2018,12047,Hamilton County,Florida,10.3,12.568035626
+2018,13009,Baldwin County,Georgia,10.3,19.916513819
+2018,16079,Shoshone County,Idaho,10.3,8.6939942803
+2018,18153,Sullivan County,Indiana,10.3,9.460547504
+2018,18173,Warrick County,Indiana,10.3,7.3109872744
+2018,21005,Anderson County,Kentucky,10.3,9.9423461584
+2018,21161,Mason County,Kentucky,10.3,9.6107252463
+2018,28065,Jefferson Davis County,Mississippi,10.3,22.440293214
+2018,28131,Stone County,Mississippi,10.3,12.341197822
+2018,35006,Cibola County,New Mexico,10.3,7.2647362978
+2018,38063,Nelson County,North Dakota,10.3,4.932735426
+2018,42037,Columbia County,Pennsylvania,10.3,10.713008937
+2018,42055,Franklin County,Pennsylvania,10.3,8.9283333333
+2018,45037,Edgefield County,South Carolina,10.3,10.623770397
+2018,47051,Franklin County,Tennessee,10.3,11.858498483
+2018,48249,Jim Wells County,Texas,10.3,11.160903019
+2018,51019,Bedford County,Virginia,10.3,6.3718311693
+2018,54003,Berkeley County,West Virginia,10.3,9.6021916816
+2018,54073,Pleasants County,West Virginia,10.3,5.6374355195
+2018,8111,San Juan County,Colorado,10.4,11.784511785
+2018,12105,Polk County,Florida,10.4,13.675400854
+2018,13171,Lamar County,Georgia,10.4,12.936778807
+2018,17177,Stephenson County,Illinois,10.4,11.072920522
+2018,20103,Leavenworth County,Kansas,10.4,9.1756007394
+2018,21029,Bullitt County,Kentucky,10.4,7.8289630716
+2018,24033,Prince George&#39;s County,Maryland,10.4,15.685655673
+2018,26159,Van Buren County,Michigan,10.4,10.515941628
+2018,29049,Clinton County,Missouri,10.4,8.7127957263
+2018,36117,Wayne County,New York,10.4,11.231173138
+2018,37133,Onslow County,North Carolina,10.4,13.673917508
+2018,39003,Allen County,Ohio,10.4,10.777575046
+2018,39023,Clark County,Ohio,10.4,10.768714834
+2018,39073,Hocking County,Ohio,10.4,6.937196329
+2018,39147,Seneca County,Ohio,10.4,7.7264989597
+2018,42035,Clinton County,Pennsylvania,10.4,11.198361215
+2018,45025,Chesterfield County,South Carolina,10.4,10.135254858
+2018,47007,Bledsoe County,Tennessee,10.4,8.2852527117
+2018,47013,Campbell County,Tennessee,10.4,9.1801990571
+2018,47107,Mcminn County,Tennessee,10.4,10.558335786
+2018,48171,Gillespie County,Texas,10.4,10.867659947
+2018,48259,Kendall County,Texas,10.4,12.19546054
+2018,48439,Tarrant County,Texas,10.4,13.043404477
+2018,48473,Waller County,Texas,10.4,10.806687011
+2018,51143,Pittsylvania County,Virginia,10.4,10.830641624
+2018,51173,Smyth County,Virginia,10.4,9.3935096354
+2018,54029,Hancock County,West Virginia,10.4,8.4373973053
+2018,1073,Jefferson County,Alabama,10.5,14.603608443
+2018,1081,Lee County,Alabama,10.5,15.762350639
+2018,4011,Greenlee County,Arizona,10.5,3.8437884379
+2018,5029,Conway County,Arkansas,10.5,8.6366518706
+2018,5103,Ouachita County,Arkansas,10.5,10.185609533
+2018,8009,Baca County,Colorado,10.5,10.588235294
+2018,10001,Kent County,Delaware,10.5,13.980366112
+2018,12125,Union County,Florida,10.5,8.6058069579
+2018,13089,Dekalb County,Georgia,10.5,16.186915077
+2018,17057,Fulton County,Illinois,10.5,7.595492463
+2018,18097,Marion County,Indiana,10.5,15.222546566
+2018,19011,Benton County,Iowa,10.5,6.9371727749
+2018,19099,Jasper County,Iowa,10.5,7.468504211
+2018,21221,Trigg County,Kentucky,10.5,10.212765957
+2018,22001,Acadia Parish,Louisiana,10.5,9.6231334439
+2018,26007,Alpena County,Michigan,10.5,8.907792312
+2018,29041,Chariton County,Missouri,10.5,8.135461269
+2018,30021,Dawson County,Montana,10.5,8.0031695721
+2018,31105,Kimball County,Nebraska,10.5,9.2431346283
+2018,36049,Lewis County,New York,10.5,10.879033855
+2018,40121,Pittsburg County,Oklahoma,10.5,10.005938242
+2018,40147,Washington County,Oklahoma,10.5,8.7245576353
+2018,41061,Union County,Oregon,10.5,10.767600886
+2018,45033,Dillon County,South Carolina,10.5,15.132422042
+2018,45057,Lancaster County,South Carolina,10.5,9.6839332748
+2018,47079,Henry County,Tennessee,10.5,10.020628372
+2018,48281,Lampasas County,Texas,10.5,11.277602524
+2018,48341,Moore County,Texas,10.5,7.7052696078
+2018,48477,Washington County,Texas,10.5,11.131300363
+2018,54093,Tucker County,West Virginia,10.5,4.4708347887
+2018,1125,Tuscaloosa County,Alabama,10.6,14.55361749
+2018,5059,Hot Spring County,Arkansas,10.6,6.7264943191
+2018,5123,St. Francis County,Arkansas,10.6,14.026774079
+2018,12031,Duval County,Florida,10.6,15.029917464
+2018,13037,Calhoun County,Georgia,10.6,13.363171355
+2018,13125,Glascock County,Georgia,10.6,6.5913370998
+2018,13283,Treutlen County,Georgia,10.6,16.728110599
+2018,13311,White County,Georgia,10.6,9.4246381927
+2018,19051,Davis County,Iowa,10.6,5.1583414953
+2018,20057,Ford County,Kansas,10.6,6.592807846
+2018,21089,Greenup County,Kentucky,10.6,9.4129854729
+2018,24043,Washington County,Maryland,10.6,12.430535244
+2018,26001,Alcona County,Michigan,10.6,10.263749744
+2018,28073,Lamar County,Mississippi,10.6,9.963616009
+2018,28121,Rankin County,Mississippi,10.6,7.5877113252
+2018,29207,Stoddard County,Missouri,10.6,8.0377600587
+2018,30093,Silver Bow County,Montana,10.6,11.868528942
+2018,36015,Chemung County,New York,10.6,12.757973734
+2018,36115,Washington County,New York,10.6,11.703980628
+2018,37031,Carteret County,North Carolina,10.6,10.864575363
+2018,38037,Grant County,North Dakota,10.6,7.0935960591
+2018,39071,Highland County,Ohio,10.6,9.7535035035
+2018,39129,Pickaway County,Ohio,10.6,10.5085639
+2018,39167,Washington County,Ohio,10.6,9.6792906273
+2018,40081,Lincoln County,Oklahoma,10.6,7.366016804
+2018,45007,Anderson County,South Carolina,10.6,9.9428571429
+2018,48029,Bexar County,Texas,10.6,14.670518526
+2018,48153,Floyd County,Texas,10.6,4.7901234568
+2018,48157,Fort Bend County,Texas,10.6,11.499500524
+2018,48297,Live Oak County,Texas,10.6,7.8678839957
+2018,53015,Cowlitz County,Washington,10.6,12.04142871
+2018,1097,Mobile County,Alabama,10.7,13.998925381
+2018,12027,Desoto County,Florida,10.7,9.8507968803
+2018,13183,Long County,Georgia,10.7,8.9541918755
+2018,13269,Taylor County,Georgia,10.7,20.832095097
+2018,18089,Lake County,Indiana,10.7,12.512682518
+2018,19069,Franklin County,Iowa,10.7,7.7734877735
+2018,20107,Linn County,Kansas,10.7,12.588530957
+2018,21199,Pulaski County,Kentucky,10.7,14.00480212
+2018,23019,Penobscot County,Maine,10.7,10.366410223
+2018,24011,Caroline County,Maryland,10.7,12.775443711
+2018,26123,Newaygo County,Michigan,10.7,10.532252001
+2018,28077,Lawrence County,Mississippi,10.7,11.546565529
+2018,29023,Butler County,Missouri,10.7,10.605579208
+2018,30051,Liberty County,Montana,10.7,12.313937754
+2018,31043,Dakota County,Nebraska,10.7,8.5690399889
+2018,31181,Webster County,Nebraska,10.7,3.9428959891
+2018,37179,Union County,North Carolina,10.7,8.2194126169
+2018,38061,Mountrail County,North Dakota,10.7,4.0602891418
+2018,39013,Belmont County,Ohio,10.7,6.5123722763
+2018,42023,Cameron County,Pennsylvania,10.7,11.644444444
+2018,46043,Douglas County,South Dakota,10.7,7.8501338091
+2018,46085,Lyman County,South Dakota,10.7,4.7473200613
+2018,46129,Walworth County,South Dakota,10.7,11.08045977
+2018,47163,Sullivan County,Tennessee,10.7,9.2959736284
+2018,48041,Brazos County,Texas,10.7,22.520492847
+2018,51029,Buckingham County,Virginia,10.7,14.435600579
+2018,51620,Franklin City,Virginia,10.7,15.606936416
+2018,53027,Grays Harbor County,Washington,10.7,11.415525114
+2018,54049,Marion County,West Virginia,10.7,8.6576360259
+2018,54069,Ohio County,West Virginia,10.7,10.355477503
+2018,54075,Pocahontas County,West Virginia,10.7,7.4445457308
+2018,54083,Randolph County,West Virginia,10.7,10.458410713
+2018,2290,Yukon-Koyukuk Census Area,Alaska,10.8,8.8019559902
+2018,8081,Moffat County,Colorado,10.8,16.083499006
+2018,12013,Calhoun County,Florida,10.8,9.4565477616
+2018,13025,Brantley County,Georgia,10.8,14.06855902
+2018,13061,Clay County,Georgia,10.8,13.300083126
+2018,13223,Paulding County,Georgia,10.8,9.6562436436
+2018,19147,Palo Alto County,Iowa,10.8,4.9820094105
+2018,20025,Clark County,Kansas,10.8,8.564535585
+2018,20119,Meade County,Kansas,10.8,5.376344086
+2018,21061,Edmonson County,Kentucky,10.8,6.7629815745
+2018,21171,Monroe County,Kentucky,10.8,12.154696133
+2018,22099,St. Martin Parish,Louisiana,10.8,8.9655172414
+2018,24510,Baltimore City,Maryland,10.8,19.830765615
+2018,26049,Genesee County,Michigan,10.8,13.821885105
+2018,26131,Ontonagon County,Michigan,10.8,10.04784689
+2018,36073,Orleans County,New York,10.8,13.662987854
+2018,37049,Craven County,North Carolina,10.8,12.680151707
+2018,39059,Guernsey County,Ohio,10.8,12.136298978
+2018,40013,Bryan County,Oklahoma,10.8,9.9414855505
+2018,42075,Lebanon County,Pennsylvania,10.8,10.645045589
+2018,48123,Dewitt County,Texas,10.8,12.46882793
+2018,48193,Hamilton County,Texas,10.8,7.6658645583
+2018,48307,Mcculloch County,Texas,10.8,8.5011949471
+2018,48323,Maverick County,Texas,10.8,15.391358798
+2018,48367,Parker County,Texas,10.8,10.310314783
+2018,51001,Accomack County,Virginia,10.8,14.232417844
+2018,51031,Campbell County,Virginia,10.8,8.3102241215
+2018,51175,Southampton County,Virginia,10.8,8.1599213502
+2018,51710,Norfolk City,Virginia,10.8,19.293597217
+2018,12063,Jackson County,Florida,10.9,10.946873647
+2018,12133,Washington County,Florida,10.9,10.433443865
+2018,17119,Madison County,Illinois,10.9,10.779567609
+2018,17123,Marshall County,Illinois,10.9,7.1760236387
+2018,18015,Carroll County,Indiana,10.9,6.7038398175
+2018,20159,Rice County,Kansas,10.9,7.4781225139
+2018,22019,Calcasieu Parish,Louisiana,10.9,11.471629091
+2018,31047,Dawson County,Nebraska,10.9,9.8894773198
+2018,39139,Richland County,Ohio,10.9,10.385322635
+2018,40075,Kiowa County,Oklahoma,10.9,8.1483733658
+2018,40135,Sequoyah County,Oklahoma,10.9,8.9400096425
+2018,46107,Potter County,South Dakota,10.9,5.3811659193
+2018,47149,Rutherford County,Tennessee,10.9,10.862565967
+2018,48055,Caldwell County,Texas,10.9,12.778904665
+2018,48057,Calhoun County,Texas,10.9,5.5072087284
+2018,48169,Garza County,Texas,10.9,10.067114094
+2018,48321,Matagorda County,Texas,10.9,14.600864226
+2018,49047,Uintah County,Utah,10.9,8.7099583858
+2018,51009,Amherst County,Virginia,10.9,7.9167745834
+2018,51065,Fluvanna County,Virginia,10.9,9.3984157568
+2018,51760,Richmond City,Virginia,10.9,20.871487212
+2018,1043,Cullman County,Alabama,11,8.5283893395
+2018,1061,Geneva County,Alabama,11,12.053617108
+2018,5131,Sebastian County,Arkansas,11,9.8195718049
+2018,13013,Barrow County,Georgia,11,10.848630755
+2018,18025,Crawford County,Indiana,11,8.4560690706
+2018,18117,Orange County,Indiana,11,7.9113093676
+2018,21231,Wayne County,Kentucky,11,8.2427307206
+2018,22071,Orleans Parish,Louisiana,11,25.193032242
+2018,26083,Keweenaw County,Michigan,11,10.416666667
+2018,26143,Roscommon County,Michigan,11,10.960879755
+2018,27167,Wilkin County,Minnesota,11,5.5961960497
+2018,28005,Amite County,Mississippi,11,13.031636287
+2018,29021,Buchanan County,Missouri,11,12.589302354
+2018,29221,Washington County,Missouri,11,9.9826086957
+2018,29227,Worth County,Missouri,11,7.0950468541
+2018,35011,De Baca County,New Mexico,11,6.9620253165
+2018,36009,Cattaraugus County,New York,11,11.276204012
+2018,37051,Cumberland County,North Carolina,11,17.129587843
+2018,37077,Granville County,North Carolina,11,11.647877189
+2018,39173,Wood County,Ohio,11,11.731099223
+2018,40019,Carter County,Oklahoma,11,10.032510124
+2018,42001,Adams County,Pennsylvania,11,9.6014351455
+2018,47139,Polk County,Tennessee,11,8.2875325427
+2018,47145,Roane County,Tennessee,11,9.0255131402
+2018,48383,Reagan County,Texas,11,10.974456008
+2018,49009,Daggett County,Utah,11,5.9210526316
+2018,12023,Columbia County,Florida,11.1,10.063470854
+2018,12051,Hendry County,Florida,11.1,17.01366298
+2018,13053,Chattahoochee County,Georgia,11.1,15.355329949
+2018,20009,Barton County,Kansas,11.1,9.6421663443
+2018,20099,Labette County,Kansas,11.1,7.712565839
+2018,22033,East Baton Rouge Parish,Louisiana,11.1,14.663677977
+2018,24039,Somerset County,Maryland,11.1,20.224719101
+2018,28117,Prentiss County,Mississippi,11.1,8.8395233137
+2018,29043,Christian County,Missouri,11.1,7.9707403203
+2018,35015,Eddy County,New Mexico,11.1,8.2481896637
+2018,35025,Lea County,New Mexico,11.1,9.4824416253
+2018,36123,Yates County,New York,11.1,11.40310257
+2018,37113,Macon County,North Carolina,11.1,12.893226934
+2018,37141,Pender County,North Carolina,11.1,12.414573433
+2018,41031,Jefferson County,Oregon,11.1,15.159474672
+2018,42021,Cambria County,Pennsylvania,11.1,9.7838785047
+2018,45015,Berkeley County,South Carolina,11.1,11.903383676
+2018,48167,Galveston County,Texas,11.1,13.46429185
+2018,48343,Morris County,Texas,11.1,12.385039853
+2018,48419,Shelby County,Texas,11.1,10.212335693
+2018,51191,Washington County,Virginia,11.1,7.30122864
+2018,6105,Trinity County,California,11.2,16.510186005
+2018,12075,Levy County,Florida,11.2,10.609073959
+2018,17047,Edwards County,Illinois,11.2,4.7208692394
+2018,18121,Parke County,Indiana,11.2,8.5172953242
+2018,22051,Jefferson Parish,Louisiana,11.2,14.813130027
+2018,28013,Calhoun County,Mississippi,11.2,8.6780658209
+2018,28017,Chickasaw County,Mississippi,11.2,16.470588235
+2018,29081,Harrison County,Missouri,11.2,11.043728056
+2018,31103,Keya Paha County,Nebraska,11.2,11.974110032
+2018,36017,Chenango County,New York,11.2,11.821974965
+2018,37075,Graham County,North Carolina,11.2,7.5976622578
+2018,39163,Vinton County,Ohio,11.2,9.9938182567
+2018,40107,Okfuskee County,Oklahoma,11.2,13.006802721
+2018,41063,Wallowa County,Oregon,11.2,9.3697337378
+2018,45001,Abbeville County,South Carolina,11.2,12.93210926
+2018,47113,Madison County,Tennessee,11.2,16.583299166
+2018,48017,Bailey County,Texas,11.2,4.3887147335
+2018,48061,Cameron County,Texas,11.2,13.872248883
+2018,48423,Smith County,Texas,11.2,12.263833793
+2018,1041,Crenshaw County,Alabama,11.3,9.3656236605
+2018,2195,Petersburg Census Area,Alaska,11.3,10.127659574
+2018,8065,Lake County,Colorado,11.3,11.104040725
+2018,8073,Lincoln County,Colorado,11.3,11.659807956
+2018,12049,Hardee County,Florida,11.3,8.9034676664
+2018,16035,Clearwater County,Idaho,11.3,8.8596228674
+2018,20145,Pawnee County,Kansas,11.3,8.1424936387
+2018,21087,Green County,Kentucky,11.3,10.385259631
+2018,26003,Alger County,Michigan,11.3,9.1025231555
+2018,26067,Ionia County,Michigan,11.3,7.6089351016
+2018,28093,Marshall County,Mississippi,11.3,13.241138134
+2018,31121,Merrick County,Nebraska,11.3,10.763027295
+2018,37003,Alexander County,North Carolina,11.3,7.9365079365
+2018,37101,Johnston County,North Carolina,11.3,10.631963813
+2018,37107,Lenoir County,North Carolina,11.3,14.116336082
+2018,39099,Mahoning County,Ohio,11.3,11.518215022
+2018,40029,Coal County,Oklahoma,11.3,7.8581696215
+2018,45055,Kershaw County,South Carolina,11.3,13.056528264
+2018,45065,Mccormick County,South Carolina,11.3,12.108449592
+2018,47031,Coffee County,Tennessee,11.3,8.7913143736
+2018,48007,Aransas County,Texas,11.3,12.382461701
+2018,48353,Nolan County,Texas,11.3,11.119661408
+2018,51683,Manassas City,Virginia,11.3,15.378634738
+2018,54041,Lewis County,West Virginia,11.3,10.885578654
+2018,1083,Limestone County,Alabama,11.4,8.2161338455
+2018,1111,Randolph County,Alabama,11.4,10.231684408
+2018,5035,Crittenden County,Arkansas,11.4,14.87711633
+2018,5061,Howard County,Arkansas,11.4,9.0515463918
+2018,13205,Mitchell County,Georgia,11.4,14.60777851
+2018,19145,Page County,Iowa,11.4,8.9612055146
+2018,21203,Rockcastle County,Kentucky,11.4,11.389027847
+2018,26113,Missaukee County,Michigan,11.4,9.4056933577
+2018,27081,Lincoln County,Minnesota,11.4,12.010221465
+2018,28085,Lincoln County,Mississippi,11.4,12.747216221
+2018,28103,Noxubee County,Mississippi,11.4,14.126186488
+2018,29203,Shannon County,Missouri,11.4,12.369275153
+2018,36101,Steuben County,New York,11.4,9.0617049163
+2018,40095,Marshall County,Oklahoma,11.4,7.6498158688
+2018,40137,Stephens County,Oklahoma,11.4,8.8472364381
+2018,42073,Lawrence County,Pennsylvania,11.4,10.516044495
+2018,46047,Fall River County,South Dakota,11.4,14.590864279
+2018,48229,Hudspeth County,Texas,11.4,15.55333998
+2018,51007,Amelia County,Virginia,11.4,10.609806345
+2018,56043,Washakie County,Wyoming,11.4,5.7975460123
+2018,1005,Barbour County,Alabama,11.5,12.385536511
+2018,1019,Cherokee County,Alabama,11.5,6.5017030655
+2018,1127,Walker County,Alabama,11.5,10.219615673
+2018,4012,La Paz County,Arizona,11.5,10.132797679
+2018,5055,Greene County,Arkansas,11.5,10.56068718
+2018,13027,Brooks County,Georgia,11.5,15.494525886
+2018,16003,Adams County,Idaho,11.5,8.4152334152
+2018,17139,Moultrie County,Illinois,11.5,7.2542372881
+2018,18071,Jackson County,Indiana,11.5,9.8544164424
+2018,18135,Randolph County,Indiana,11.5,8.1011403074
+2018,20017,Chase County,Kansas,11.5,6.6603235014
+2018,22017,Caddo Parish,Louisiana,11.5,17.584602976
+2018,22025,Catahoula Parish,Louisiana,11.5,8.6136435083
+2018,22055,Lafayette Parish,Louisiana,11.5,12.518983612
+2018,22089,St. Charles Parish,Louisiana,11.5,11.444243263
+2018,22109,Terrebonne Parish,Louisiana,11.5,11.048703747
+2018,29199,Scotland County,Missouri,11.5,11.654589372
+2018,30005,Blaine County,Montana,11.5,11.816091954
+2018,30023,Deer Lodge County,Montana,11.5,15.863453815
+2018,30087,Rosebud County,Montana,11.5,9.6235679214
+2018,40015,Caddo County,Oklahoma,11.5,6.6556769009
+2018,40097,Mayes County,Oklahoma,11.5,9.2285221086
+2018,42015,Bradford County,Pennsylvania,11.5,8.9677392705
+2018,48001,Anderson County,Texas,11.5,9.0759493671
+2018,48199,Hardin County,Texas,11.5,9.4853484363
+2018,48207,Haskell County,Texas,11.5,8.4266926449
+2018,48273,Kleberg County,Texas,11.5,14.138097537
+2018,48375,Potter County,Texas,11.5,16.335368451
+2018,48505,Zapata County,Texas,11.5,11.994485294
+2018,54109,Wyoming County,West Virginia,11.5,6.9402985075
+2018,1079,Lawrence County,Alabama,11.6,8.1017149616
+2018,2198,Prince of Wales-Hyder Censu,Alaska,11.6,8.0516014235
+2018,2275,Wrangell City and Borough,Alaska,11.6,5.5958549223
+2018,5057,Hempstead County,Arkansas,11.6,10.166508732
+2018,5097,Montgomery County,Arkansas,11.6,6.4220183486
+2018,8011,Bent County,Colorado,11.6,10.771889401
+2018,8089,Otero County,Colorado,11.6,13.122656668
+2018,12043,Glades County,Florida,11.6,7.9155109878
+2018,12107,Putnam County,Florida,11.6,12.301362089
+2018,13221,Oglethorpe County,Georgia,11.6,12.846687211
+2018,17099,Lasalle County,Illinois,11.6,10.481315123
+2018,17127,Massac County,Illinois,11.6,9.4886468525
+2018,18055,Greene County,Indiana,11.6,9.1734352604
+2018,20073,Greenwood County,Kansas,11.6,6.5560821485
+2018,22005,Ascension Parish,Louisiana,11.6,8.7333143993
+2018,22097,St. Landry Parish,Louisiana,11.6,12.301825501
+2018,37171,Surry County,North Carolina,11.6,10.434497578
+2018,40123,Pontotoc County,Oklahoma,11.6,9.3018165901
+2018,45041,Florence County,South Carolina,11.6,12.331159057
+2018,47117,Marshall County,Tennessee,11.6,11.216115394
+2018,47169,Trousdale County,Tennessee,11.6,16.225266362
+2018,48139,Ellis County,Texas,11.6,9.7058874028
+2018,48277,Lamar County,Texas,11.6,15.305321543
+2018,48331,Milam County,Texas,11.6,10.730721742
+2018,48443,Terrell County,Texas,11.6,7.8048780488
+2018,56003,Big Horn County,Wyoming,11.6,6.645646374
+2018,5051,Garland County,Arkansas,11.7,12.378571981
+2018,6091,Sierra County,California,11.7,21.735395189
+2018,13083,Dade County,Georgia,11.7,9.6064615913
+2018,13189,Mcduffie County,Georgia,11.7,11.511598902
+2018,13239,Quitman County,Georgia,11.7,10.171428571
+2018,13263,Talbot County,Georgia,11.7,10.290237467
+2018,13313,Whitfield County,Georgia,11.7,9.4532997367
+2018,17081,Jefferson County,Illinois,11.7,9.4411247803
+2018,18061,Harrison County,Indiana,11.7,5.7068554504
+2018,19085,Harrison County,Iowa,11.7,8.309162259
+2018,21011,Bath County,Kentucky,11.7,8.8174033788
+2018,21091,Hancock County,Kentucky,11.7,9.2563038621
+2018,29510,St. Louis City,Missouri,11.7,18.278354028
+2018,31017,Brown County,Nebraska,11.7,9.7156398104
+2018,31083,Harlan County,Nebraska,11.7,8.7290502793
+2018,31171,Thomas County,Nebraska,11.7,8.4033613445
+2018,36033,Franklin County,New York,11.7,11.965340251
+2018,40071,Kay County,Oklahoma,11.7,8.7317836926
+2018,47011,Bradley County,Tennessee,11.7,11.261491318
+2018,47073,Hawkins County,Tennessee,11.7,9.370484104
+2018,47089,Jefferson County,Tennessee,11.7,8.3402232327
+2018,48003,Andrews County,Texas,11.7,8.4578997162
+2018,48315,Marion County,Texas,11.7,10.440193593
+2018,48347,Nacogdoches County,Texas,11.7,16.263956734
+2018,48409,San Patricio County,Texas,11.7,10.723848625
+2018,51097,King And Queen County,Virginia,11.7,17.007575758
+2018,51117,Mecklenburg County,Virginia,11.7,11.264069264
+2018,54009,Brooke County,West Virginia,11.7,4.9837486457
+2018,54033,Harrison County,West Virginia,11.7,8.1174704592
+2018,55053,Jackson County,Wisconsin,11.7,10.957689384
+2018,1037,Coosa County,Alabama,11.8,5.6134723336
+2018,13097,Douglas County,Georgia,11.8,12.796120512
+2018,13187,Lumpkin County,Georgia,11.8,15.40164733
+2018,17085,Jo Daviess County,Illinois,11.8,9.9159146842
+2018,17141,Ogle County,Illinois,11.8,10.360626663
+2018,20035,Cowley County,Kansas,11.8,9.4181983898
+2018,21057,Cumberland County,Kentucky,11.8,10.48862679
+2018,22023,Cameron Parish,Louisiana,11.8,0.7774898186
+2018,28039,George County,Mississippi,11.8,9.4144507118
+2018,28075,Lauderdale County,Mississippi,11.8,15.968070891
+2018,28163,Yazoo County,Mississippi,11.8,15.126835781
+2018,29025,Caldwell County,Missouri,11.8,9.3415869443
+2018,29033,Carroll County,Missouri,11.8,6.3633569013
+2018,31123,Morrill County,Nebraska,11.8,8.5792349727
+2018,32015,Lander County,Nevada,11.8,11.972477064
+2018,39015,Brown County,Ohio,11.8,10.542865619
+2018,39065,Hardin County,Ohio,11.8,7.5391180654
+2018,40033,Cotton County,Oklahoma,11.8,9.2256214149
+2018,41011,Coos County,Oregon,11.8,12.264222407
+2018,45043,Georgetown County,South Carolina,11.8,12.718908885
+2018,46025,Clark County,South Dakota,11.8,11.277705346
+2018,48399,Runnels County,Texas,11.8,9.4969061071
+2018,51161,Roanoke County,Virginia,11.8,8.5412362943
+2018,51181,Surry County,Virginia,11.8,10.178710179
+2018,51700,Newport News City,Virginia,11.8,16.129786612
+2018,5043,Drew County,Arkansas,11.9,9.7498493068
+2018,5091,Miller County,Arkansas,11.9,10.494958753
+2018,13039,Camden County,Georgia,11.9,12.271404821
+2018,13201,Miller County,Georgia,11.9,8.7744396757
+2018,17117,Macoupin County,Illinois,11.9,9.2331063973
+2018,19179,Wapello County,Iowa,11.9,14.848031888
+2018,21103,Henry County,Kentucky,11.9,13.235542067
+2018,28023,Clarke County,Mississippi,11.9,9.4101602455
+2018,29229,Wright County,Missouri,11.9,11.52851711
+2018,40089,Mccurtain County,Oklahoma,11.9,6.9723510218
+2018,40153,Woodward County,Oklahoma,11.9,7.4033149171
+2018,42061,Huntingdon County,Pennsylvania,11.9,7.6188112669
+2018,48145,Falls County,Texas,11.9,13.754863813
+2018,48221,Hood County,Texas,11.9,9.8428160283
+2018,54089,Summers County,West Virginia,11.9,6.6449636155
+2018,5077,Lee County,Arkansas,12,18.120300752
+2018,12003,Baker County,Florida,12,8.0522565321
+2018,13193,Macon County,Georgia,12,15.983507155
+2018,13211,Morgan County,Georgia,12,9.3202730781
+2018,17077,Jackson County,Illinois,12,18.428172456
+2018,18091,Laporte County,Indiana,12,10.089442851
+2018,20031,Coffey County,Kansas,12,6.7660550459
+2018,20195,Trego County,Kansas,12,3.0581039755
+2018,21127,Lawrence County,Kentucky,12,12.969553183
+2018,28007,Attala County,Mississippi,12,12.571428571
+2018,29149,Oregon County,Missouri,12,14.913814639
+2018,29163,Pike County,Missouri,12,8.5727597453
+2018,30037,Golden Valley County,Montana,12,6.6666666667
+2018,32001,Churchill County,Nevada,12,12.021189894
+2018,39145,Scioto County,Ohio,12,11.665004985
+2018,42101,Philadelphia County,Pennsylvania,12,20.229891743
+2018,45061,Lee County,South Carolina,12,16.557514694
+2018,47063,Hamblen County,Tennessee,12,11.638022943
+2018,47185,White County,Tennessee,12,8.0726747187
+2018,48021,Bastrop County,Texas,12,10.933695262
+2018,48299,Llano County,Texas,12,10.531744213
+2018,48413,Schleicher County,Texas,12,11.349693252
+2018,1049,Dekalb County,Alabama,12.1,8.4429689741
+2018,17015,Carroll County,Illinois,12.1,7.0337881741
+2018,19135,Monroe County,Iowa,12.1,8.9423076923
+2018,20139,Osage County,Kansas,12.1,6.9243906226
+2018,20167,Russell County,Kansas,12.1,10.860793544
+2018,22037,East Feliciana Parish,Louisiana,12.1,7.9261836333
+2018,26073,Isabella County,Michigan,12.1,17.687894912
+2018,28149,Warren County,Mississippi,12.1,16.449454033
+2018,29159,Pettis County,Missouri,12.1,9.1517716162
+2018,37197,Yadkin County,North Carolina,12.1,8.7074277202
+2018,40079,Le Flore County,Oklahoma,12.1,9.2955276235
+2018,45085,Sumter County,South Carolina,12.1,13.633802817
+2018,47001,Anderson County,Tennessee,12.1,10.756019532
+2018,47005,Benton County,Tennessee,12.1,10.243195362
+2018,48203,Harrison County,Texas,12.1,11.36333757
+2018,48425,Somervell County,Texas,12.1,9.2977250247
+2018,54065,Morgan County,West Virginia,12.1,7.2345713102
+2018,54067,Nicholas County,West Virginia,12.1,8.9795918367
+2018,1045,Dale County,Alabama,12.2,11.838736039
+2018,4001,Apache County,Arizona,12.2,6.7387687188
+2018,13111,Fannin County,Georgia,12.2,10.279308379
+2018,17115,Macon County,Illinois,12.2,11.709557518
+2018,17175,Stark County,Illinois,12.2,8.7837837838
+2018,20027,Clay County,Kansas,12.2,7.982832618
+2018,21237,Wolfe County,Kentucky,12.2,9.6455973694
+2018,22105,Tangipahoa Parish,Louisiana,12.2,13.937732953
+2018,28135,Tallahatchie County,Mississippi,12.2,10.91383812
+2018,29055,Crawford County,Missouri,12.2,12.818856958
+2018,39029,Columbiana County,Ohio,12.2,8.7823547185
+2018,40023,Choctaw County,Oklahoma,12.2,10.625566636
+2018,47167,Tipton County,Tennessee,12.2,8.9425866908
+2018,48073,Cherokee County,Texas,12.2,9.6603157956
+2018,48365,Panola County,Texas,12.2,6.6098600122
+2018,48437,Swisher County,Texas,12.2,9.5972579263
+2018,49037,San Juan County,Utah,12.2,7.3272854152
+2018,54015,Clay County,West Virginia,12.2,11.591355599
+2018,54107,Wood County,West Virginia,12.2,8.8905547226
+2018,6103,Tehama County,California,12.3,18.586476385
+2018,8023,Costilla County,Colorado,12.3,11.263736264
+2018,18129,Posey County,Indiana,12.3,8.6196623635
+2018,20047,Edwards County,Kansas,12.3,5.1155115512
+2018,21125,Laurel County,Kentucky,12.3,11.493376537
+2018,23003,Aroostook County,Maine,12.3,10.10465157
+2018,28033,Desoto County,Mississippi,12.3,9.4592671084
+2018,28049,Hinds County,Mississippi,12.3,15.249508517
+2018,28107,Panola County,Mississippi,12.3,10.406316537
+2018,29087,Holt County,Missouri,12.3,5.1322751323
+2018,29201,Scott County,Missouri,12.3,11.188051595
+2018,37085,Harnett County,North Carolina,12.3,12.608236061
+2018,37137,Pamlico County,North Carolina,12.3,12.234359484
+2018,37139,Pasquotank County,North Carolina,12.3,15.029552491
+2018,41009,Columbia County,Oregon,12.3,10.3021195
+2018,48215,Hidalgo County,Texas,12.3,14.361663233
+2018,48245,Jefferson County,Texas,12.3,12.696017615
+2018,48421,Sherman County,Texas,12.3,6.9860279441
+2018,51800,Suffolk City,Virginia,12.3,12.637655417
+2018,13049,Charlton County,Georgia,12.4,14.528722811
+2018,13063,Clayton County,Georgia,12.4,17.866255582
+2018,13225,Peach County,Georgia,12.4,11.304437352
+2018,18143,Scott County,Indiana,12.4,8.1676701125
+2018,18149,Starke County,Indiana,12.4,8.648310388
+2018,19109,Kossuth County,Iowa,12.4,10.231023102
+2018,21131,Leslie County,Kentucky,12.4,14.143318966
+2018,21193,Perry County,Kentucky,12.4,7.5495049505
+2018,21229,Washington County,Kentucky,12.4,5.2929644958
+2018,28137,Tate County,Mississippi,12.4,10
+2018,29027,Callaway County,Missouri,12.4,6.2235881675
+2018,29115,Linn County,Missouri,12.4,6.8916155419
+2018,29181,Ripley County,Missouri,12.4,10.664152525
+2018,37041,Chowan County,North Carolina,12.4,16.093100582
+2018,37161,Rutherford County,North Carolina,12.4,11.727185399
+2018,45071,Newberry County,South Carolina,12.4,12.12543554
+2018,48109,Culberson County,Texas,12.4,8.1494057725
+2018,48175,Goliad County,Texas,12.4,7.7313549395
+2018,48211,Hemphill County,Texas,12.4,10.088781275
+2018,48469,Victoria County,Texas,12.4,10.770700637
+2018,54039,Kanawha County,West Virginia,12.4,11.272663454
+2018,5003,Ashley County,Arkansas,12.5,9.9890230516
+2018,5041,Desha County,Arkansas,12.5,11.32196162
+2018,12041,Gilchrist County,Florida,12.5,8.1119770956
+2018,13031,Bulloch County,Georgia,12.5,15.799117493
+2018,13243,Randolph County,Georgia,12.5,16.243450222
+2018,13247,Rockdale County,Georgia,12.5,13.558605438
+2018,18053,Grant County,Indiana,12.5,10.838635049
+2018,21195,Pike County,Kentucky,12.5,14.29703319
+2018,22119,Webster Parish,Louisiana,12.5,16.269548292
+2018,26165,Wexford County,Michigan,12.5,9.6744186047
+2018,39093,Lorain County,Ohio,12.5,12.142062127
+2018,45067,Marion County,South Carolina,12.5,15.337873232
+2018,46033,Custer County,South Dakota,12.5,11.114037398
+2018,47147,Robertson County,Tennessee,12.5,10.016079062
+2018,47177,Warren County,Tennessee,12.5,10.714285714
+2018,47181,Wayne County,Tennessee,12.5,7.4200265001
+2018,51141,Patrick County,Virginia,12.5,8.1137022216
+2018,6003,Alpine County,California,12.6,5.8524173028
+2018,13091,Dodge County,Georgia,12.6,13.340935006
+2018,13215,Muscogee County,Georgia,12.6,17.620411792
+2018,13255,Spalding County,Georgia,12.6,13.902047371
+2018,13273,Terrell County,Georgia,12.6,17.160578911
+2018,17153,Pulaski County,Illinois,12.6,10.294878427
+2018,21047,Christian County,Kentucky,12.6,15.572042488
+2018,21107,Hopkins County,Kentucky,12.6,10.284892086
+2018,22083,Richland Parish,Louisiana,12.6,12.831199762
+2018,28101,Newton County,Mississippi,12.6,8.2845188285
+2018,29117,Livingston County,Missouri,12.6,8.818403625
+2018,29143,New Madrid County,Missouri,12.6,11.092564492
+2018,39141,Ross County,Ohio,12.6,11.819317979
+2018,45009,Bamberg County,South Carolina,12.6,10.193358554
+2018,48261,Kenedy County,Texas,12.6,No Data
+2018,48493,Wilson County,Texas,12.6,9.2984048762
+2018,51037,Charlotte County,Virginia,12.6,12.235895055
+2018,51595,Emporia City,Virginia,12.6,18.051434224
+2018,1033,Colbert County,Alabama,12.7,10.261266511
+2018,1069,Houston County,Alabama,12.7,12.297269017
+2018,1085,Lowndes County,Alabama,12.7,19.375
+2018,1123,Tallapoosa County,Alabama,12.7,9.2457262169
+2018,13029,Bryan County,Georgia,12.7,10.728406326
+2018,17147,Piatt County,Illinois,12.7,7.2828709288
+2018,19133,Monona County,Iowa,12.7,8.7624696684
+2018,20181,Sherman County,Kansas,12.7,7.8131292791
+2018,21053,Clinton County,Kentucky,12.7,9.2364208869
+2018,21177,Muhlenberg County,Kentucky,12.7,9.5491657792
+2018,22121,West Baton Rouge Parish,Louisiana,12.7,8.9391609928
+2018,26025,Calhoun County,Michigan,12.7,12.716021432
+2018,26027,Cass County,Michigan,12.7,7.9205480802
+2018,28025,Clay County,Mississippi,12.7,12.304827389
+2018,29051,Cole County,Missouri,12.7,6.9292561091
+2018,29195,Saline County,Missouri,12.7,7.1545948679
+2018,37007,Anson County,North Carolina,12.7,17.83859801
+2018,37057,Davidson County,North Carolina,12.7,10.236534713
+2018,37103,Jones County,North Carolina,12.7,11.363636364
+2018,39097,Madison County,Ohio,12.7,6.3539474577
+2018,40025,Cimarron County,Oklahoma,12.7,1.9900497512
+2018,46007,Bennett County,South Dakota,12.7,10.744680851
+2018,47067,Hancock County,Tennessee,12.7,11.767005473
+2018,47131,Obion County,Tennessee,12.7,9.4139919112
+2018,48217,Hill County,Texas,12.7,7.9483477703
+2018,51111,Lunenburg County,Virginia,12.7,12.606433302
+2018,54001,Barbour County,West Virginia,12.7,9.5000830427
+2018,13145,Harris County,Georgia,12.8,9.6949435855
+2018,13207,Monroe County,Georgia,12.8,12.315065639
+2018,13295,Walker County,Georgia,12.8,9.6816449667
+2018,17199,Williamson County,Illinois,12.8,11.542166889
+2018,18171,Warren County,Indiana,12.8,7.7729796422
+2018,19001,Adair County,Iowa,12.8,9.0343698854
+2018,20209,Wyandotte County,Kansas,12.8,14.162595472
+2018,21033,Caldwell County,Kentucky,12.8,8.0838933008
+2018,21129,Lee County,Kentucky,12.8,9.946568023
+2018,22041,Franklin Parish,Louisiana,12.8,14.615497721
+2018,22093,St. James Parish,Louisiana,12.8,7.0946857297
+2018,28115,Pontotoc County,Mississippi,12.8,5.9669582119
+2018,32009,Esmeralda County,Nevada,12.8,16.875
+2018,37047,Columbus County,North Carolina,12.8,16.11630847
+2018,37177,Tyrrell County,North Carolina,12.8,13.065976714
+2018,38029,Emmons County,North Dakota,12.8,6.7226890756
+2018,38067,Pembina County,North Dakota,12.8,6.0168067227
+2018,38097,Traill County,North Dakota,12.8,5.3461063041
+2018,40083,Logan County,Oklahoma,12.8,7.8728084794
+2018,42131,Wyoming County,Pennsylvania,12.8,9.8972832869
+2018,55029,Door County,Wisconsin,12.8,10.784914916
+2018,1009,Blount County,Alabama,12.9,8.7758638263
+2018,2188,Northwest Arctic Borough,Alaska,12.9,8.0296479308
+2018,13115,Floyd County,Georgia,12.9,11.9516278
+2018,13303,Washington County,Georgia,12.9,17.687649627
+2018,13317,Wilkes County,Georgia,12.9,16.077085533
+2018,16025,Camas County,Idaho,12.9,16.201117318
+2018,18183,Whitley County,Indiana,12.9,6.3829787234
+2018,20061,Geary County,Kansas,12.9,13.919384566
+2018,21009,Barren County,Kentucky,12.9,15.18926689
+2018,21109,Jackson County,Kentucky,12.9,10.084206203
+2018,26053,Gogebic County,Michigan,12.9,10.93988404
+2018,26141,Presque Isle County,Michigan,12.9,8.4760573226
+2018,27023,Chippewa County,Minnesota,12.9,10.518934081
+2018,27069,Kittson County,Minnesota,12.9,6.5995525727
+2018,28141,Tishomingo County,Mississippi,12.9,11.48
+2018,29079,Grundy County,Missouri,12.9,8.6403392526
+2018,30017,Custer County,Montana,12.9,12.20880069
+2018,37061,Duplin County,North Carolina,12.9,9.0957731407
+2018,37073,Gates County,North Carolina,12.9,15.676300578
+2018,37187,Washington County,North Carolina,12.9,18.504672897
+2018,39161,Van Wert County,Ohio,12.9,8.8227501546
+2018,40133,Seminole County,Oklahoma,12.9,10.228584622
+2018,40149,Washita County,Oklahoma,12.9,7.70755886
+2018,45029,Colleton County,South Carolina,12.9,10.66800315
+2018,46089,Mcpherson County,South Dakota,12.9,5.4945054945
+2018,47125,Montgomery County,Tennessee,12.9,11.388254825
+2018,48039,Brazoria County,Texas,12.9,9.5120505729
+2018,48137,Edwards County,Texas,12.9,6.374501992
+2018,48293,Limestone County,Texas,12.9,11.053984576
+2018,54057,Mineral County,West Virginia,12.9,6.8697090591
+2018,1093,Marion County,Alabama,13,7.5891281327
+2018,1099,Monroe County,Alabama,13,14.766299494
+2018,2282,Yakutat City and Borough,Alaska,13,4.0935672515
+2018,5019,Clark County,Arkansas,13,14.345035863
+2018,13141,Hancock County,Georgia,13,17.61871989
+2018,13251,Screven County,Georgia,13,8.7468842058
+2018,19045,Clinton County,Iowa,13,10.501922368
+2018,21135,Lewis County,Kentucky,13,10.244547257
+2018,22077,Pointe Coupee Parish,Louisiana,13,15.550915121
+2018,28109,Pearl River County,Mississippi,13,9.6486473168
+2018,37195,Wilson County,North Carolina,13,14.908579466
+2018,40053,Grant County,Oklahoma,13,3.7037037037
+2018,40093,Major County,Oklahoma,13,6.7364746946
+2018,48063,Camp County,Texas,13,14.603392939
+2018,48397,Rockwall County,Texas,13,8.5740230828
+2018,51025,Brunswick County,Virginia,13,10.672692508
+2018,1095,Marshall County,Alabama,13.1,8.9203709818
+2018,1115,St. Clair County,Alabama,13.1,8.7140898511
+2018,1121,Talladega County,Alabama,13.1,12.099140111
+2018,13199,Meriwether County,Georgia,13.1,11.884057971
+2018,13279,Toombs County,Georgia,13.1,12.621779606
+2018,13299,Ware County,Georgia,13.1,13.054149409
+2018,21045,Casey County,Kentucky,13.1,9.7413024086
+2018,21081,Grant County,Kentucky,13.1,10.263068759
+2018,21215,Spencer County,Kentucky,13.1,7.4879951981
+2018,22013,Bienville Parish,Louisiana,13.1,10.079726651
+2018,22115,Vernon Parish,Louisiana,13.1,10.260636025
+2018,28061,Jasper County,Mississippi,13.1,5.8622929523
+2018,28083,Leflore County,Mississippi,13.1,16.749279539
+2018,28111,Perry County,Mississippi,13.1,4.701250579
+2018,29111,Lewis County,Missouri,13.1,8.0933179724
+2018,32021,Mineral County,Nevada,13.1,12.09406495
+2018,37079,Greene County,North Carolina,13.1,11.820572764
+2018,37127,Nash County,North Carolina,13.1,13.64380218
+2018,37131,Northampton County,North Carolina,13.1,15.744518103
+2018,39053,Gallia County,Ohio,13.1,10.079941193
+2018,40021,Cherokee County,Oklahoma,13.1,11.505507956
+2018,48095,Concho County,Texas,13.1,7.6543209877
+2018,48117,Deaf Smith County,Texas,13.1,7.9581708614
+2018,48237,Jack County,Texas,13.1,8.2808877112
+2018,51083,Halifax County,Virginia,13.1,11.057728399
+2018,51131,Northampton County,Virginia,13.1,9.7757088447
+2018,1025,Clarke County,Alabama,13.2,11.38023369
+2018,5111,Poinsett County,Arkansas,13.2,9.9774011299
+2018,13003,Atkinson County,Georgia,13.2,9.2998204668
+2018,13045,Carroll County,Georgia,13.2,11.692036179
+2018,13259,Stewart County,Georgia,13.2,12.899477048
+2018,17003,Alexander County,Illinois,13.2,14.431082331
+2018,17011,Bureau County,Illinois,13.2,8.7633885102
+2018,17133,Monroe County,Illinois,13.2,5.4707852624
+2018,17135,Montgomery County,Illinois,13.2,7.4846175039
+2018,18077,Jefferson County,Indiana,13.2,9.454633988
+2018,21065,Estill County,Kentucky,13.2,12.606013878
+2018,21115,Johnson County,Kentucky,13.2,12.563387424
+2018,21189,Owsley County,Kentucky,13.2,12.456747405
+2018,21197,Powell County,Kentucky,13.2,10.239300506
+2018,22045,Iberia Parish,Louisiana,13.2,12.708539727
+2018,26039,Crawford County,Michigan,13.2,11.03565365
+2018,28079,Leake County,Mississippi,13.2,7.1833648393
+2018,36035,Fulton County,New York,13.2,11.309303188
+2018,37069,Franklin County,North Carolina,13.2,9.6820336766
+2018,37173,Swain County,North Carolina,13.2,10.988186762
+2018,40077,Latimer County,Oklahoma,13.2,7.2289156627
+2018,40101,Muskogee County,Oklahoma,13.2,12.477245746
+2018,42033,Clearfield County,Pennsylvania,13.2,9.9380905833
+2018,42121,Venango County,Pennsylvania,13.2,8.2353494497
+2018,47105,Loudon County,Tennessee,13.2,9.0846422768
+2018,48251,Johnson County,Texas,13.2,8.0409486194
+2018,48357,Ochiltree County,Texas,13.2,8.8308457711
+2018,48429,Stephens County,Texas,13.2,13.45971564
+2018,51053,Dinwiddie County,Virginia,13.2,9.3293293293
+2018,54055,Mercer County,West Virginia,13.2,10.572949947
+2018,1007,Bibb County,Alabama,13.3,9.3930635838
+2018,5083,Logan County,Arkansas,13.3,5.7404114808
+2018,13265,Taliaferro County,Georgia,13.3,15.705128205
+2018,17001,Adams County,Illinois,13.3,9.0188080671
+2018,17181,Union County,Illinois,13.3,8.8510771152
+2018,18119,Owen County,Indiana,13.3,8.6054827175
+2018,20001,Allen County,Kansas,13.3,9.266802444
+2018,20043,Doniphan County,Kansas,13.3,13.403141361
+2018,20077,Harper County,Kansas,13.3,9.0993071594
+2018,21019,Boyd County,Kentucky,13.3,9.9330872174
+2018,22095,St. John The Baptist Parish,Louisiana,13.3,12.118359112
+2018,28041,Greene County,Mississippi,13.3,8.1741573034
+2018,45005,Allendale County,South Carolina,13.3,14.258853024
+2018,45031,Darlington County,South Carolina,13.3,12.975637578
+2018,48027,Bell County,Texas,13.3,12.623977442
+2018,51015,Augusta County,Virginia,13.3,8.7186306601
+2018,51057,Essex County,Virginia,13.3,15.493289381
+2018,51650,Hampton City,Virginia,13.3,17.568300391
+2018,1031,Coffee County,Alabama,13.4,10.073375262
+2018,13159,Jasper County,Georgia,13.4,10.860534125
+2018,13175,Laurens County,Georgia,13.4,14.83366435
+2018,22057,Lafourche Parish,Louisiana,13.4,10.92041443
+2018,26119,Montmorency County,Michigan,13.4,11.766076421
+2018,29155,Pemiscot County,Missouri,13.4,17.760236803
+2018,30069,Petroleum County,Montana,13.4,8.1761006289
+2018,46071,Jackson County,South Dakota,13.4,17.655367232
+2018,47077,Henderson County,Tennessee,13.4,8.6158755485
+2018,48129,Donley County,Texas,13.4,11.172305271
+2018,48173,Glasscock County,Texas,13.4,6.7278287462
+2018,48225,Houston County,Texas,13.4,12.879958784
+2018,48255,Karnes County,Texas,13.4,8.0605102732
+2018,48393,Roberts County,Texas,13.4,1.3377926421
+2018,51135,Nottoway County,Virginia,13.4,9.3014498211
+2018,2060,Bristol Bay Borough,Alaska,13.5,5.7851239669
+2018,5031,Craighead County,Arkansas,13.5,11.48439661
+2018,28097,Montgomery County,Mississippi,13.5,14.027494908
+2018,47025,Claiborne County,Tennessee,13.5,12.218060094
+2018,47071,Hardin County,Tennessee,13.5,10.566437268
+2018,47081,Hickman County,Tennessee,13.5,7.4796553375
+2018,48427,Starr County,Texas,13.5,12.477016023
+2018,48497,Wise County,Texas,13.5,9.5235866717
+2018,51740,Portsmouth City,Virginia,13.5,19.034283775
+2018,1129,Washington County,Alabama,13.6,6.4960987117
+2018,5095,Monroe County,Arkansas,13.6,6.25
+2018,5133,Sevier County,Arkansas,13.6,7.7581395349
+2018,18031,Decatur County,Indiana,13.6,7.0504462943
+2018,20063,Gove County,Kansas,13.6,10.303030303
+2018,21183,Ohio County,Kentucky,13.6,9.6911847277
+2018,22073,Ouachita Parish,Louisiana,13.6,14.447170793
+2018,27125,Red Lake County,Minnesota,13.6,6.8716094033
+2018,28043,Grenada County,Mississippi,13.6,16.698220371
+2018,28127,Simpson County,Mississippi,13.6,6.9409305907
+2018,29085,Hickory County,Missouri,13.6,15.239069292
+2018,35031,Mckinley County,New Mexico,13.6,10.864339465
+2018,47019,Carter County,Tennessee,13.6,10.191814726
+2018,47137,Pickett County,Tennessee,13.6,5.7740169238
+2018,48275,Knox County,Texas,13.6,4.3209876543
+2018,51005,Alleghany County,Virginia,13.6,9.1617933723
+2018,51033,Caroline County,Virginia,13.6,6.9269402066
+2018,51163,Rockbridge County,Virginia,13.6,9.7746889362
+2018,51670,Hopewell City,Virginia,13.6,21.371189612
+2018,1091,Marengo County,Alabama,13.7,12.307222477
+2018,1105,Perry County,Alabama,13.7,11.571737563
+2018,5127,Scott County,Arkansas,13.7,9.5997907403
+2018,13007,Baker County,Georgia,13.7,10.693877551
+2018,13095,Dougherty County,Georgia,13.7,21.264947855
+2018,13151,Henry County,Georgia,13.7,11.182700334
+2018,17013,Calhoun County,Illinois,13.7,7.3770491803
+2018,17091,Kankakee County,Illinois,13.7,13.589795608
+2018,17113,Mclean County,Illinois,13.7,11.094527363
+2018,21207,Russell County,Kentucky,13.7,8.4743247254
+2018,21235,Whitley County,Kentucky,13.7,10.539736507
+2018,26035,Clare County,Michigan,13.7,11.964649898
+2018,28001,Adams County,Mississippi,13.7,15.156794425
+2018,29129,Mercer County,Missouri,13.7,6.298600311
+2018,34033,Salem County,New Jersey,13.7,17.564686703
+2018,41013,Crook County,Oregon,13.7,11.491644316
+2018,47083,Houston County,Tennessee,13.7,9.8501872659
+2018,48005,Angelina County,Texas,13.7,10.365549985
+2018,48065,Carson County,Texas,13.7,3.3707865169
+2018,48351,Newton County,Texas,13.7,6.4926660915
+2018,54043,Lincoln County,West Virginia,13.7,10.412628081
+2018,54071,Pendleton County,West Virginia,13.7,6.8649885584
+2018,54097,Upshur County,West Virginia,13.7,10.730186999
+2018,55083,Oconto County,Wisconsin,13.7,7.1500885852
+2018,5145,White County,Arkansas,13.8,10.645395214
+2018,13241,Rabun County,Georgia,13.8,16.799638717
+2018,18023,Clinton County,Indiana,13.8,8.0053704791
+2018,20021,Cherokee County,Kansas,13.8,8.1220285261
+2018,22035,East Carroll Parish,Louisiana,13.8,19.844082211
+2018,29091,Howell County,Missouri,13.8,12.814564881
+2018,39117,Morrow County,Ohio,13.8,6.6603832862
+2018,47115,Marion County,Tennessee,13.8,8.4246702582
+2018,48301,Loving County,Texas,13.8,No Data
+2018,54013,Calhoun County,West Virginia,13.8,5.3343641283
+2018,1023,Choctaw County,Alabama,13.9,6.492977814
+2018,13017,Ben Hill County,Georgia,13.9,15.108412836
+2018,13153,Houston County,Georgia,13.9,11.357959075
+2018,13233,Polk County,Georgia,13.9,11.868686869
+2018,17069,Hardin County,Illinois,13.9,3.2417195208
+2018,21051,Clay County,Kentucky,13.9,13.454942314
+2018,22069,Natchitoches Parish,Louisiana,13.9,18.095907529
+2018,22081,Red River Parish,Louisiana,13.9,14.737952867
+2018,24019,Dorchester County,Maryland,13.9,14.286831404
+2018,40067,Jefferson County,Oklahoma,13.9,9.8083941606
+2018,45011,Barnwell County,South Carolina,13.9,15.502490103
+2018,45075,Orangeburg County,South Carolina,13.9,15.383071261
+2018,48019,Bandera County,Texas,13.9,9.0744320928
+2018,48369,Parmer County,Texas,13.9,6.6958277254
+2018,1013,Butler County,Alabama,14,10.831846927
+2018,5101,Newton County,Arkansas,14,14.182081973
+2018,6031,Kings County,California,14,13.915458192
+2018,13129,Gordon County,Georgia,14,11.401956703
+2018,15005,Kalawao County,Hawaii,14,No Data
+2018,18069,Huntington County,Indiana,14,8.4411497308
+2018,20133,Neosho County,Kansas,14,8.606557377
+2018,21201,Robertson County,Kentucky,14,13.358302122
+2018,28087,Lowndes County,Mississippi,14,14.535987153
+2018,28119,Quitman County,Mississippi,14,18.344774981
+2018,39001,Adams County,Ohio,14,12.16730038
+2018,46069,Hyde County,South Dakota,14,4.0472175379
+2018,48083,Coleman County,Texas,14,9.0909090909
+2018,51685,Manassas Park City,Virginia,14,12.590006546
+2018,1101,Montgomery County,Alabama,14.1,16.060574364
+2018,13163,Jefferson County,Georgia,14.1,13.671875
+2018,13195,Madison County,Georgia,14.1,11.396648045
+2018,13319,Wilkinson County,Georgia,14.1,15.183246073
+2018,17149,Pike County,Illinois,14.1,8.5145228216
+2018,21007,Ballard County,Kentucky,14.1,7.1700727399
+2018,26041,Delta County,Michigan,14.1,9.2999225006
+2018,28055,Issaquena County,Mississippi,14.1,11.197916667
+2018,28139,Tippah County,Mississippi,14.1,10.650723026
+2018,37117,Martin County,North Carolina,14.1,13.725273511
+2018,39079,Jackson County,Ohio,14.1,10.478896104
+2018,40125,Pottawatomie County,Oklahoma,14.1,9.6369161868
+2018,48213,Henderson County,Texas,14.1,11.698451724
+2018,13075,Cook County,Georgia,14.2,14.801126364
+2018,13169,Jones County,Georgia,14.2,9.836699198
+2018,18177,Wayne County,Indiana,14.2,10.746602123
+2018,22007,Assumption Parish,Louisiana,14.2,9.0806330068
+2018,22009,Avoyelles Parish,Louisiana,14.2,13.650472822
+2018,22043,Grant Parish,Louisiana,14.2,7.8404815651
+2018,22087,St. Bernard Parish,Louisiana,14.2,15.831522882
+2018,38073,Ransom County,North Dakota,14.2,5.6422018349
+2018,42053,Forest County,Pennsylvania,14.2,9.5931692617
+2018,45059,Laurens County,South Carolina,14.2,12.70096463
+2018,48227,Howard County,Texas,14.2,8.7496549821
+2018,48247,Jim Hogg County,Texas,14.2,12.342215989
+2018,48433,Stonewall County,Texas,14.2,4.2553191489
+2018,51027,Buchanan County,Virginia,14.2,10.328036904
+2018,12059,Holmes County,Florida,14.3,9.042472218
+2018,17051,Fayette County,Illinois,14.3,8.9955627269
+2018,18109,Morgan County,Indiana,14.3,7.6468315301
+2018,21101,Henderson County,Kentucky,14.3,12.795079242
+2018,30033,Garfield County,Montana,14.3,11.466666667
+2018,48181,Grayson County,Texas,14.3,10.972798525
+2018,1015,Calhoun County,Alabama,14.4,9.7395882298
+2018,2013,Aleutians East Borough,Alaska,14.4,9.6269554753
+2018,6015,Del Norte County,California,14.4,15.861187992
+2018,19029,Cass County,Iowa,14.4,7.5157673441
+2018,21021,Boyle County,Kentucky,14.4,13.022910676
+2018,22059,Lasalle Parish,Louisiana,14.4,8.8339222615
+2018,28147,Walthall County,Mississippi,14.4,18.372703412
+2018,45049,Hampton County,South Carolina,14.4,6.3806721388
+2018,47043,Dickson County,Tennessee,14.4,6.9706103994
+2018,51077,Grayson County,Virginia,14.4,7.7348965966
+2018,54023,Grant County,West Virginia,14.4,7.3815243503
+2018,1059,Franklin County,Alabama,14.5,8.7974251439
+2018,1087,Macon County,Alabama,14.5,13.771471247
+2018,13173,Lanier County,Georgia,14.5,16.250367323
+2018,13261,Sumter County,Georgia,14.5,14.884110584
+2018,17105,Livingston County,Illinois,14.5,10.616242494
+2018,28159,Winston County,Mississippi,14.5,12.296948535
+2018,45023,Chester County,South Carolina,14.5,11.639651381
+2018,47143,Rhea County,Tennessee,14.5,8.977088834
+2018,48431,Sterling County,Texas,14.5,4.0816326531
+2018,48495,Winkler County,Texas,14.5,5.6371576022
+2018,49031,Piute County,Utah,14.5,13.9329806
+2018,54031,Hardy County,West Virginia,14.5,4.8902712977
+2018,5141,Van Buren County,Arkansas,14.6,8.6912509038
+2018,13087,Decatur County,Georgia,14.6,13.262387001
+2018,16061,Lewis County,Idaho,14.6,9.5724313976
+2018,17189,Washington County,Illinois,14.6,7.3025856045
+2018,17203,Woodford County,Illinois,14.6,8.3111795159
+2018,20097,Kiowa County,Kansas,14.6,6.7849686848
+2018,22031,De Soto Parish,Louisiana,14.6,9.3663090981
+2018,22107,Tensas Parish,Louisiana,14.6,11.959924859
+2018,28067,Jones County,Mississippi,14.6,11.802693631
+2018,28095,Monroe County,Mississippi,14.6,7.2048611111
+2018,29069,Dunklin County,Missouri,14.6,11.894005213
+2018,40001,Adair County,Oklahoma,14.6,11.72124022
+2018,48097,Cooke County,Texas,14.6,7.1530176793
+2018,48223,Hopkins County,Texas,14.6,11.022638564
+2018,48327,Menard County,Texas,14.6,13.004484305
+2018,51119,Middlesex County,Virginia,14.6,12.958171626
+2018,1055,Etowah County,Alabama,14.7,9.8240866035
+2018,13301,Warren County,Georgia,14.7,8.8643986584
+2018,17145,Perry County,Illinois,14.7,10.163111669
+2018,18095,Madison County,Indiana,14.7,12.630792227
+2018,22111,Union Parish,Louisiana,14.7,6.5826690666
+2018,29137,Monroe County,Missouri,14.7,9.9018232819
+2018,39125,Paulding County,Ohio,14.7,6.8121341139
+2018,41001,Baker County,Oregon,14.7,13.395088958
+2018,42065,Jefferson County,Pennsylvania,14.7,9.033601621
+2018,42087,Mifflin County,Pennsylvania,14.7,7.9438999296
+2018,48231,Hunt County,Texas,14.7,12.491547304
+2018,1119,Sumter County,Alabama,14.8,12.401616677
+2018,5053,Grant County,Arkansas,14.8,8.3644510829
+2018,5105,Perry County,Arkansas,14.8,5.492917028
+2018,5113,Polk County,Arkansas,14.8,11.633919338
+2018,13191,Mcintosh County,Georgia,14.8,15.520628684
+2018,18009,Blackford County,Indiana,14.8,10.356255178
+2018,20083,Hodgeman County,Kansas,14.8,9.1412742382
+2018,21041,Carroll County,Kentucky,14.8,11.826086957
+2018,28051,Holmes County,Mississippi,14.8,16.847014925
+2018,37093,Hoke County,North Carolina,14.8,15.991787385
+2018,40055,Greer County,Oklahoma,14.8,7.781124498
+2018,46017,Buffalo County,South Dakota,14.8,20.255863539
+2018,48045,Briscoe County,Texas,14.8,15.456238361
+2018,48363,Palo Pinto County,Texas,14.8,12.329591018
+2018,48467,Van Zandt County,Texas,14.8,8.2333807684
+2018,51091,Highland County,Virginia,14.8,2.3630504834
+2018,51113,Madison County,Virginia,14.8,10.980902778
+2018,51590,Danville City,Virginia,14.8,16.010885588
+2018,1051,Elmore County,Alabama,14.9,9.7953216374
+2018,5069,Jefferson County,Arkansas,14.9,12.56486433
+2018,13245,Richmond County,Georgia,14.9,18.833361955
+2018,13293,Upson County,Georgia,14.9,14.328981723
+2018,16029,Caribou County,Idaho,14.9,5.8050847458
+2018,22003,Allen Parish,Louisiana,14.9,7.6205088863
+2018,22039,Evangeline Parish,Louisiana,14.9,15.452261307
+2018,26129,Ogemaw County,Michigan,14.9,10.702341137
+2018,26149,St. Joseph County,Michigan,14.9,9.2007239362
+2018,37153,Richmond County,North Carolina,14.9,15.40317834
+2018,39175,Wyandot County,Ohio,14.9,6.2090024881
+2018,40141,Tillman County,Oklahoma,14.9,8.3813917724
+2018,48009,Archer County,Texas,14.9,10.526315789
+2018,48159,Franklin County,Texas,14.9,5.9881778463
+2018,51730,Petersburg City,Virginia,14.9,23.843222646
+2018,5115,Pope County,Arkansas,15,10.004512635
+2018,13069,Coffee County,Georgia,15,11.437550245
+2018,13101,Echols County,Georgia,15,5.8777429467
+2018,13107,Emanuel County,Georgia,15,11.892752854
+2018,18075,Jay County,Indiana,15,7.3226837061
+2018,28011,Bolivar County,Mississippi,15,15.297777778
+2018,28161,Yalobusha County,Mississippi,15,9.2116538132
+2018,39037,Darke County,Ohio,15,7.9206465834
+2018,48267,Kimble County,Texas,15,9.8731384446
+2018,48447,Throckmorton County,Texas,15,10.769230769
+2018,51790,Staunton City,Virginia,15,13.613814158
+2018,54081,Raleigh County,West Virginia,15,13.680200432
+2018,1067,Henry County,Alabama,15.1,9.493570408
+2018,5109,Pike County,Arkansas,15.1,9.1190108192
+2018,6035,Lassen County,California,15.1,13.097525144
+2018,8017,Cheyenne County,Colorado,15.1,5.8029689609
+2018,13179,Liberty County,Georgia,15.1,13.767013089
+2018,13309,Wheeler County,Georgia,15.1,9.3399750934
+2018,17155,Putnam County,Illinois,15.1,6.8328319725
+2018,21043,Carter County,Kentucky,15.1,9.6884588152
+2018,22047,Iberville Parish,Louisiana,15.1,11.757067226
+2018,28057,Itawamba County,Mississippi,15.1,6.7716730745
+2018,30035,Glacier County,Montana,15.1,8.3517563252
+2018,48013,Atascosa County,Texas,15.1,6.3922648224
+2018,48059,Callahan County,Texas,15.1,6.1176927559
+2018,48279,Lamb County,Texas,15.1,8.9719626168
+2018,54099,Wayne County,West Virginia,15.1,9.9790749693
+2018,1131,Wilcox County,Alabama,15.2,11.489107729
+2018,13185,Lowndes County,Georgia,15.2,14.581255594
+2018,18145,Shelby County,Indiana,15.2,9.9307559146
+2018,21071,Floyd County,Kentucky,15.2,14.866581957
+2018,21153,Magoffin County,Kentucky,15.2,15.647644928
+2018,28063,Jefferson County,Mississippi,15.2,5.4285714286
+2018,46031,Corson County,South Dakota,15.2,9.4230769231
+2018,48481,Wharton County,Texas,15.2,11.788007103
+2018,5027,Columbia County,Arkansas,15.3,14.106502816
+2018,5037,Cross County,Arkansas,15.3,8.5200327065
+2018,13285,Troup County,Georgia,15.3,17.239633863
+2018,21133,Letcher County,Kentucky,15.3,11.78747361
+2018,22101,St. Mary Parish,Louisiana,15.3,13.53092015
+2018,26051,Gladwin County,Michigan,15.3,10.65460253
+2018,28113,Pike County,Mississippi,15.3,16.211433408
+2018,29119,Mcdonald County,Missouri,15.3,7.1253388408
+2018,32011,Eureka County,Nevada,15.3,5.4838709677
+2018,40035,Craig County,Oklahoma,15.3,12.20043573
+2018,42005,Armstrong County,Pennsylvania,15.3,8.817084494
+2018,45053,Jasper County,South Carolina,15.3,14.449495948
+2018,48389,Reeves County,Texas,15.3,9.5932678822
+2018,48411,San Saba County,Texas,15.3,10.782241015
+2018,51167,Russell County,Virginia,15.3,10.819770946
+2018,54019,Fayette County,West Virginia,15.3,9.353006544
+2018,13043,Candler County,Georgia,15.4,12.635281385
+2018,17171,Scott County,Illinois,15.4,4.065469905
+2018,17185,Wabash County,Illinois,15.4,7.3672806067
+2018,21025,Breathitt County,Kentucky,15.4,11.613475177
+2018,22021,Caldwell Parish,Louisiana,15.4,12.866168868
+2018,29151,Osage County,Missouri,15.4,4.8045127407
+2018,48043,Brewster County,Texas,15.4,16.683518706
+2018,48241,Jasper County,Texas,15.4,7.929582855
+2018,54051,Marshall County,West Virginia,15.4,8.7828837829
+2018,1065,Hale County,Alabama,15.5,13.074712644
+2018,1109,Pike County,Alabama,15.5,17.143119772
+2018,5093,Mississippi County,Arkansas,15.5,9.0777371803
+2018,13021,Bibb County,Georgia,15.5,19.124226211
+2018,37121,Mitchell County,North Carolina,15.5,10.031244861
+2018,37191,Wayne County,North Carolina,15.5,13.008679723
+2018,38039,Griggs County,North Dakota,15.5,6.9719042664
+2018,48125,Dickens County,Texas,15.5,11.458333333
+2018,13055,Chattooga County,Georgia,15.6,9.4080218157
+2018,17009,Brown County,Illinois,15.6,4.1028175976
+2018,29045,Clark County,Missouri,15.6,6.1635717108
+2018,46095,Mellette County,South Dakota,15.6,10.573476703
+2018,48507,Zavala County,Texas,15.6,9.9801531046
+2018,1071,Jackson County,Alabama,15.7,8.2343667893
+2018,12039,Gadsden County,Florida,15.7,12.52851711
+2018,22079,Rapides Parish,Louisiana,15.7,13.400017246
+2018,28053,Humphreys County,Mississippi,15.7,16.928996153
+2018,29123,Madison County,Missouri,15.7,10.968018888
+2018,37169,Stokes County,North Carolina,15.7,8.7758228985
+2018,39087,Lawrence County,Ohio,15.7,12.474594643
+2018,45089,Williamsburg County,South Carolina,15.7,16.464560205
+2018,47059,Greene County,Tennessee,15.7,9.9628712871
+2018,48051,Burleson County,Texas,15.7,7.7710843373
+2018,48143,Erath County,Texas,15.7,14.617152708
+2018,48239,Jackson County,Texas,15.7,9.4283276451
+2018,48295,Lipscomb County,Texas,15.7,5.3486150907
+2018,17059,Gallatin County,Illinois,15.8,7.3778195489
+2018,18083,Knox County,Indiana,15.8,11.331679074
+2018,26079,Kalkaska County,Michigan,15.8,10.73893042
+2018,39105,Meigs County,Ohio,15.8,11.990493167
+2018,48257,Kaufman County,Texas,15.8,10.408729233
+2018,48503,Young County,Texas,15.8,10.4128505
+2018,5107,Phillips County,Arkansas,15.9,13.921774314
+2018,19175,Union County,Iowa,15.9,6.7543687414
+2018,28099,Neshoba County,Mississippi,15.9,9.8228162885
+2018,45039,Fairfield County,South Carolina,15.9,14.337293268
+2018,47171,Unicoi County,Tennessee,15.9,9.6934548467
+2018,51099,King George County,Virginia,15.9,8.5484920807
+2018,51820,Waynesboro City,Virginia,15.9,15.561893896
+2018,1057,Fayette County,Alabama,16,9.3426140758
+2018,40103,Noble County,Oklahoma,16,5.9057886103
+2018,46137,Ziebach County,South Dakota,16,11.12716763
+2018,47039,Decatur County,Tennessee,16,9.8410472183
+2018,51139,Page County,Virginia,16,10.112102494
+2018,51735,Poquoson City,Virginia,16,9.8518850987
+2018,13213,Murray County,Georgia,16.1,7.4520936835
+2018,17041,Douglas County,Illinois,16.1,9.1623746273
+2018,18131,Pulaski County,Indiana,16.1,6.8490333196
+2018,22127,Winn Parish,Louisiana,16.1,6.8914956012
+2018,26135,Oscoda County,Michigan,16.1,10.374479889
+2018,37149,Polk County,North Carolina,16.1,9.1297815786
+2018,47053,Gibson County,Tennessee,16.1,10.828759605
+2018,54063,Monroe County,West Virginia,16.1,4.8166926677
+2018,55078,Menominee County,Wisconsin,16.1,10.275502606
+2018,21095,Harlan County,Kentucky,16.2,12.765077066
+2018,30109,Wibaux County,Montana,16.2,7.1759259259
+2018,48379,Rains County,Texas,16.2,7.7584028304
+2018,48471,Walker County,Texas,16.2,20.015426147
+2018,54091,Taylor County,West Virginia,16.2,6.0250391236
+2018,1021,Chilton County,Alabama,16.3,10.355887251
+2018,13033,Burke County,Georgia,16.3,10.084371233
+2018,13047,Catoosa County,Georgia,16.3,9.7444480732
+2018,17195,Whiteside County,Illinois,16.3,8.5734488245
+2018,22011,Beauregard Parish,Louisiana,16.3,7.1428571429
+2018,30003,Big Horn County,Montana,16.3,7.7578338911
+2018,48031,Blanco County,Texas,16.3,8.4726615454
+2018,48265,Kerr County,Texas,16.3,8.8439334401
+2018,48361,Orange County,Texas,16.3,8.1791850438
+2018,13011,Banks County,Georgia,16.4,9.008601177
+2018,13217,Newton County,Georgia,16.4,16.180494746
+2018,17005,Bond County,Illinois,16.4,7.9253315867
+2018,22065,Madison Parish,Louisiana,16.4,14.855403349
+2018,30085,Roosevelt County,Montana,16.4,8.6419753086
+2018,39171,Williams County,Ohio,16.4,6.8035346489
+2018,16063,Lincoln County,Idaho,16.5,8.6175942549
+2018,17159,Richland County,Illinois,16.5,6.9183408944
+2018,18133,Putnam County,Indiana,16.5,5.7853090475
+2018,28069,Kemper County,Mississippi,16.5,10.542445602
+2018,39021,Champaign County,Ohio,16.5,6.0600039738
+2018,40063,Hughes County,Oklahoma,16.5,5.8260624824
+2018,46121,Todd County,South Dakota,16.5,11.91011236
+2018,51105,Lee County,Virginia,16.5,13.643863434
+2018,51678,Lexington City,Virginia,16.5,21.108312343
+2018,13093,Dooly County,Georgia,16.6,8.8665830197
+2018,37163,Sampson County,North Carolina,16.6,12.484593965
+2018,38079,Rolette County,North Dakota,16.6,9.6975516083
+2018,48445,Terry County,Texas,16.6,16.444095313
+2018,54035,Jackson County,West Virginia,16.6,8.8745800672
+2018,13099,Early County,Georgia,16.7,17.420522099
+2018,17129,Menard County,Illinois,16.7,6.9589702333
+2018,28027,Coahoma County,Mississippi,16.7,15.212249471
+2018,28153,Wayne County,Mississippi,16.7,8.9628849697
+2018,31173,Thurston County,Nebraska,16.7,8.1831466147
+2018,42057,Fulton County,Pennsylvania,16.7,10.177762287
+2018,6049,Modoc County,California,16.8,10.977045321
+2018,17021,Christian County,Illinois,16.8,8.0626930902
+2018,19007,Appanoose County,Iowa,16.8,12.641083521
+2018,22117,Washington Parish,Louisiana,16.8,11.382561842
+2018,28015,Carroll County,Mississippi,16.8,7.1117932975
+2018,38019,Cavalier County,North Dakota,16.8,6.5934065934
+2018,47097,Lauderdale County,Tennessee,16.8,12.924195681
+2018,48387,Red River County,Texas,16.8,13.815378204
+2018,48485,Wichita County,Texas,16.8,13.236906016
+2018,51036,Charles City County,Virginia,16.8,13.219393094
+2018,51195,Wise County,Virginia,16.8,12.851761578
+2018,54103,Wetzel County,West Virginia,16.8,6.4939673527
+2018,1047,Dallas County,Alabama,16.9,14.626801463
+2018,13253,Seminole County,Georgia,16.9,16.634366925
+2018,17083,Jersey County,Illinois,16.9,8.2139688173
+2018,17157,Randolph County,Illinois,16.9,6.1261573073
+2018,28019,Choctaw County,Mississippi,16.9,9.3628088427
+2018,28151,Washington County,Mississippi,16.9,21.088887546
+2018,37083,Halifax County,North Carolina,16.9,16.934908832
+2018,37155,Robeson County,North Carolina,16.9,13.093958289
+2018,37165,Scotland County,North Carolina,16.9,17.961165049
+2018,48049,Brown County,Texas,16.9,8.6532252278
+2018,48349,Navarro County,Texas,16.9,11.910877486
+2018,17075,Iroquois County,Illinois,17,11.569959923
+2018,20205,Wilson County,Kansas,17,11.04701471
+2018,29223,Wayne County,Missouri,17,10.930778256
+2018,42067,Juniata County,Pennsylvania,17,7.6940207104
+2018,1017,Chambers County,Alabama,17.1,9.7998299714
+2018,5121,Randolph County,Arkansas,17.1,8.432857559
+2018,18111,Newton County,Indiana,17.1,7.2304832714
+2018,21137,Lincoln County,Kentucky,17.1,9.1413043478
+2018,28133,Sunflower County,Mississippi,17.1,14.483841424
+2018,54053,Mason County,West Virginia,17.1,7.4958982773
+2018,22049,Jackson Parish,Louisiana,17.2,13.327032136
+2018,37185,Warren County,North Carolina,17.2,12.312879299
+2018,47029,Cocke County,Tennessee,17.2,9.5889370109
+2018,48101,Cottle County,Texas,17.2,6.8217054264
+2018,48133,Eastland County,Texas,17.2,9.2228464419
+2018,13079,Crawford County,Georgia,17.3,8.7878066206
+2018,20075,Hamilton County,Kansas,17.3,1.5193370166
+2018,28021,Claiborne County,Mississippi,17.3,10.385114669
+2018,37095,Hyde County,North Carolina,17.3,17.210048103
+2018,47021,Cheatham County,Tennessee,17.3,6.9194762906
+2018,1039,Covington County,Alabama,17.4,9.9265764469
+2018,1053,Escambia County,Alabama,17.4,12.02247191
+2018,1113,Russell County,Alabama,17.4,17.331402747
+2018,5099,Nevada County,Arkansas,17.4,9.5895020188
+2018,17029,Coles County,Illinois,17.4,11.901612034
+2018,21119,Knott County,Kentucky,17.4,10.146520147
+2018,28125,Sharkey County,Mississippi,17.4,4.1271989175
+2018,37065,Edgecombe County,North Carolina,17.4,15.731719824
+2018,17023,Clark County,Illinois,17.5,6.4877300613
+2018,17055,Franklin County,Illinois,17.5,11.948220065
+2018,48105,Crockett County,Texas,17.5,12.243221035
+2018,51089,Henry County,Virginia,17.5,10.50675506
+2018,55011,Buffalo County,Wisconsin,17.5,9.8469846985
+2018,13315,Wilcox County,Georgia,17.6,8.9324618736
+2018,28143,Tunica County,Mississippi,17.6,21.945401537
+2018,54095,Tyler County,West Virginia,17.6,4.8473402581
+2018,5025,Cleveland County,Arkansas,17.8,5.4945054945
+2018,13071,Colquitt County,Georgia,17.8,12.638230648
+2018,18045,Fountain County,Indiana,17.8,8.1538001197
+2018,26127,Oceana County,Michigan,17.8,10.172744722
+2018,37045,Cleveland County,North Carolina,17.8,13.270575737
+2018,48191,Hall County,Texas,17.8,5.6387665198
+2018,48373,Polk County,Texas,17.8,10.790817824
+2018,51580,Covington City,Virginia,17.8,5.5301645338
+2018,18021,Clay County,Indiana,17.9,5.7438423645
+2018,20049,Elk County,Kansas,18,8.0762250454
+2018,46041,Dewey County,South Dakota,18,8.8793631353
+2018,48499,Wood County,Texas,18,10.814562433
+2018,48185,Grimes County,Texas,18.1,7.6648224988
+2018,48253,Jones County,Texas,18.2,7.6549663928
+2018,51530,Buena Vista City,Virginia,18.2,20.171094102
+2018,13165,Jenkins County,Georgia,18.3,19.522514355
+2018,17025,Clay County,Illinois,18.3,7.1082089552
+2018,47151,Scott County,Tennessee,18.3,9.2393276091
+2018,13289,Twiggs County,Georgia,18.4,10.522696011
+2018,16077,Power County,Idaho,18.4,5.4477919934
+2018,20207,Woodson County,Kansas,18.4,6.0810810811
+2018,42127,Wayne County,Pennsylvania,18.4,12.594707368
+2018,48035,Bosque County,Texas,18.4,7.7827146338
+2018,48487,Wilbarger County,Texas,18.4,11.088039867
+2018,51640,Galax City,Virginia,18.4,15.086887836
+2018,51690,Martinsville City,Virginia,18.4,19.172234595
+2018,54077,Preston County,West Virginia,18.4,8.714931355
+2018,1075,Lamar County,Alabama,18.5,9.6853212738
+2018,13131,Grady County,Georgia,18.5,14.108882521
+2018,13235,Pulaski County,Georgia,18.5,15.991356024
+2018,13305,Wayne County,Georgia,18.5,9.2539747248
+2018,16073,Owyhee County,Idaho,18.5,7.6809453471
+2018,2164,Lake and Peninsula Borough,Alaska,18.6,6.3694267516
+2018,21159,Martin County,Kentucky,18.6,9.195717815
+2018,28009,Benton County,Mississippi,18.6,8.6956521739
+2018,40145,Wagoner County,Oklahoma,18.6,8.3952761375
+2018,47111,Macon County,Tennessee,18.6,13.566289825
+2018,48077,Clay County,Texas,18.6,8.8717948718
+2018,48449,Titus County,Texas,18.6,10.29122577
+2018,13155,Irwin County,Georgia,18.7,7.753669432
+2018,28029,Copiah County,Mississippi,18.7,8.2225726515
+2018,48075,Childress County,Texas,18.7,12.5
+2018,48345,Motley County,Texas,18.7,4.3572984749
+2018,48385,Real County,Texas,18.7,13.38028169
+2018,51021,Bland County,Virginia,18.7,7.8440161363
+2018,13149,Heard County,Georgia,18.8,11.620517476
+2018,17173,Shelby County,Illinois,18.8,6.2011995021
+2018,37181,Vance County,North Carolina,18.8,15.100842481
+2018,46117,Stanley County,South Dakota,18.8,3.9721254355
+2018,48037,Bowie County,Texas,18.8,11.806852629
+2018,47061,Grundy County,Tennessee,18.9,8.9805825243
+2018,48195,Hansford County,Texas,18.9,7.8831312018
+2018,48269,King County,Texas,18.9,25
+2018,54047,Mcdowell County,West Virginia,18.9,11.134870933
+2018,21187,Owen County,Kentucky,19,10.815429688
+2018,45069,Marlboro County,South Carolina,19,17.366274886
+2018,5135,Sharp County,Arkansas,19.1,11.241659414
+2018,17035,Cumberland County,Illinois,19.1,5.717791411
+2018,17137,Morgan County,Illinois,19.1,10.18919535
+2018,40117,Pawnee County,Oklahoma,19.2,7.634500427
+2018,48461,Upton County,Texas,19.2,5.6451612903
+2018,13177,Lee County,Georgia,19.3,9.1376966401
+2018,22029,Concordia Parish,Louisiana,19.3,10.950721752
+2018,29093,Iron County,Missouri,19.4,9.6807682325
+2018,42059,Greene County,Pennsylvania,19.4,8.5336625754
+2018,54101,Webster County,West Virginia,19.4,12.119268996
+2018,13257,Stephens County,Georgia,19.5,10.283761392
+2018,18079,Jennings County,Indiana,19.5,8.0383052815
+2018,32033,White Pine County,Nevada,19.6,6.7428252995
+2018,22123,West Carroll Parish,Louisiana,19.7,5.0361713968
+2018,51081,Greensville County,Virginia,19.7,12.492382693
+2018,1011,Bullock County,Alabama,19.8,12.759643917
+2018,13161,Jeff Davis County,Georgia,19.8,9.8507462687
+2018,17121,Marion County,Illinois,19.8,9.1149358602
+2018,5047,Franklin County,Arkansas,19.9,14.965764591
+2018,20109,Logan County,Kansas,19.9,10.795454545
+2018,37091,Hertford County,North Carolina,20,14.641340255
+2018,40073,Kingfisher County,Oklahoma,20,5.5720103665
+2018,54005,Boone County,West Virginia,20,10.813516896
+2018,47075,Haywood County,Tennessee,20.1,12.466447957
+2018,13197,Marion County,Georgia,20.2,8.0050425465
+2018,47041,Dekalb County,Tennessee,20.2,8.4831846259
+2018,21165,Menifee County,Kentucky,20.3,6.4692482916
+2018,13229,Pierce County,Georgia,20.4,8.3345691829
+2018,13249,Schley County,Georgia,20.4,14.472123369
+2018,37017,Bladen County,North Carolina,20.4,17.886977887
+2018,48405,San Augustine County,Texas,20.5,10.160427807
+2018,48455,Trinity County,Texas,20.5,6.5732572219
+2018,31007,Banner County,Nebraska,20.6,8.2417582418
+2018,54087,Roane County,West Virginia,20.6,8.5134622677
+2018,13227,Pickens County,Georgia,20.7,8.5709450884
+2018,48489,Willacy County,Texas,20.7,7.6592564917
+2018,17079,Jasper County,Illinois,20.8,7.7616835201
+2018,21105,Hickman County,Kentucky,20.8,4.452690167
+2018,28037,Franklin County,Mississippi,20.8,6.5693430657
+2018,48417,Shackelford County,Texas,20.8,5.8326937836
+2018,48291,Liberty County,Texas,20.9,10.285067019
+2018,17193,White County,Illinois,21,9.6312887664
+2018,54017,Doddridge County,West Virginia,21,2.066772655
+2018,38085,Sioux County,North Dakota,21.1,8.9989888777
+2018,46102,Oglala Lakota County,South Dakota,21.1,15.096525097
+2018,1035,Conecuh County,Alabama,21.4,7.703180212
+2018,28123,Scott County,Mississippi,21.4,11.74015411
+2018,48415,Scurry County,Texas,21.6,5.7777024737
+2018,29225,Webster County,Missouri,21.7,6.1029688087
+2018,48337,Montague County,Texas,21.8,9.9946836789
+2018,54059,Mingo County,West Virginia,21.8,9.4618245461
+2018,48377,Presidio County,Texas,22,12.191103789
+2018,18159,Tipton County,Indiana,22.2,5.3326810176
+2018,29083,Henry County,Missouri,22.2,9.6556380824
+2018,48161,Freestone County,Texas,22.2,9.887786632
+2018,47135,Perry County,Tennessee,22.3,7.4731779504
+2018,39131,Pike County,Ohio,22.5,10.342867967
+2018,31115,Loup County,Nebraska,22.6,9.9601593625
+2018,54021,Gilmer County,West Virginia,22.6,5.2608695652
+2018,46111,Sanborn County,South Dakota,22.8,7.3752711497
+2018,13267,Tattnall County,Georgia,22.9,9.4392151664
+2018,47069,Hardeman County,Tennessee,23.1,13.05802284
+2018,13231,Pike County,Georgia,23.3,7.8327645051
+2018,13035,Butts County,Georgia,23.5,10.104873535
+2018,48263,Kent County,Texas,23.5,5.4054054054
+2018,48403,Sabine County,Texas,23.7,14.184397163
+2018,54045,Logan County,West Virginia,23.7,12.172941927
+2018,13209,Montgomery County,Georgia,23.8,8.3686440678
+2018,37015,Bertie County,North Carolina,23.9,19.547854339
+2018,17107,Logan County,Illinois,24,8.2983682984
+2018,48335,Mitchell County,Texas,24,4.10041841
+2018,18155,Switzerland County,Indiana,24.2,10.789844852
+2018,18125,Pike County,Indiana,24.3,3.6921881073
+2018,48177,Gonzales County,Texas,24.3,7.793680034
+2018,13321,Worth County,Georgia,24.4,10.491676345
+2018,17187,Warren County,Illinois,24.5,7.0905763952
+2018,5129,Searcy County,Arkansas,24.6,8.8668264293
+2018,17087,Johnson County,Illinois,24.7,10.022438295
+2018,22027,Claiborne Parish,Louisiana,25,12.974369164
+2018,48305,Lynn County,Texas,25.2,11.411411411
+2018,48067,Cass County,Texas,25.4,8.8780146802
+2018,30103,Treasure County,Montana,25.9,14.855072464
+2018,17061,Greene County,Illinois,26,5.3890924768
+2018,37027,Caldwell County,North Carolina,26,9.2389760424
+2018,37199,Yancey County,North Carolina,26.1,9.5473012188
+2018,55001,Adams County,Wisconsin,26.1,12.016683576
+2018,13287,Turner County,Georgia,27.3,14.641534837
+2018,17169,Schuyler County,Illinois,27.5,6.0790273556
+2018,1063,Greene County,Alabama,27.7,13.238512035
+2018,21181,Nicholas County,Kentucky,28.9,8.9033244173
+2018,51520,Bristol City,Virginia,29,11.691369996
+2018,47129,Morgan County,Tennessee,29.3,9.258483452
+2018,46073,Jerauld County,South Dakota,29.5,6.0931899642
+2018,48283,La Salle County,Texas,30.6,11.86264308
+2018,13271,Telfair County,Georgia,31.5,7.5739066699
+2018,40105,Nowata County,Oklahoma,31.7,11.871908357
+2018,19185,Wayne County,Iowa,31.9,10.174880763
+2018,47101,Lewis County,Tennessee,32,8.769296741
+2018,48197,Hardeman County,Texas,32.1,5.1071878941
+2018,8025,Crowley County,Colorado,32.4,14.738510301
+2018,17039,De Witt County,Illinois,33.1,7.1242531025
+2018,47095,Lake County,Tennessee,33.4,10.974960043
+2018,17045,Edgar County,Illinois,34.3,8.3322294344
+2018,21147,Mccreary County,Kentucky,35.3,11.946259985
+2018,48163,Frio County,Texas,35.8,9.87993997
+2018,46003,Aurora County,South Dakota,36.5,5.069124424
+2018,48179,Gray County,Texas,37.8,9.6992684909
+2018,48025,Bee County,Texas,37.9,13.665916479
+2018,17101,Lawrence County,Illinois,39.8,5.884365378
+2018,48155,Foard County,Texas,44.3,5.9426229508
+2018,5067,Jackson County,Arkansas,51.7,10.985164194
+US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.,,,,,
