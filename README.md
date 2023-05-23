@@ -6,8 +6,6 @@ This Jupyter Notebook contains the code and analysis for predicting newly diagno
 
 The objective of this project is to develop a machine learning model that accurately predicts the rate of newly diagnosed diabetes cases in a given population. By analyzing available features such as demographic factors, socioeconomic indicators, and health-related information, the model identifies key predictors and risk factors associated with the onset of diabetes.
 
-# Project Proposal/Statement of Problem:
-
 # Summary of the Project:
 
 This project focuses on predicting the rate of newly diagnosed diabetes cases and identifying the risk factors contributing to the onset of the disease. By leveraging machine learning techniques and available data, the goal is to develop a predictive model that can guide interventions, facilitate early detection, and allocate resources effectively.
