@@ -53,6 +53,3 @@ To further improve the model performance and enhance the project, consider the f
 * Model Interpretability: Exploring techniques for interpreting and visualizing the model's predictions and feature importances to gain deeper insights into the factors driving the predictions.
 * Model Deployment: Once satisfied with the model's performance, considering to deploy it in a production environment to support decision-making and interventions related to diabetes prevention and management.
 * By addressing these next steps, the project can further advance in predicting newly diagnosed diabetes cases and contribute to public health planning and intervention strategies for diabetes prevention and management.
-![image](https://github.com/hdawit/Predicting-Diabetes-with-Social-Determinants/assets/43795941/6ce8a581-ae3f-48cd-86e5-243d8e4ef60b)
-
-![image](https://github.com/hdawit/Predicting-Diabetes-with-Social-Determinants/assets/43795941/602f7624-854c-43a3-9e7d-9aaa3db62310)
