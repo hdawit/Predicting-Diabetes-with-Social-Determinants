@@ -1,4 +1,4 @@
-# Predicting-Diabetes-with-Social-Determinants
+## Predicting-Diabetes-with-Social-Determinants
 
 This Jupyter Notebook contains the code and analysis for predicting newly diagnosed diabetes rates based on various demographic, socioeconomic, and health-related factors. The notebook aims to build a predictive model that accurately estimates the rate of newly diagnosed diabetes cases and identifies key risk factors associated with the disease.
 
@@ -28,14 +28,14 @@ The developed model has practical applications in various areas:
 
 # Key Observations and Findings:
 
-• The dataset includes various demographic, socioeconomic, and health-related features, providing valuable information for predicting the rate of newly diagnosed diabetes cases.
-• Initial exploratory data analysis revealed correlations between certain predictors and the target variable, indicating potential risk factors associated with diabetes onset.
-• Regression models were trained and evaluated, including Linear Regression, Decision Tree Regression, Random Forest Regression, and Gradient Boosting Regression.
-• Feature importance analysis highlighted the significance of specific predictors in predicting the rate of newly diagnosed diabetes cases.
-• Hyperparameter tuning was performed to optimize the models, resulting in improved performance in some cases.
-• Polynomial features were created and evaluated to capture non-linear relationships between predictors and the target variable.
-• An ensemble model, leveraging multiple algorithms and combining their predictions, was implemented and yielded superior results compared to individual regression models.
-• The ensemble model demonstrated improved prediction accuracy and better captured complex patterns in the data.
+* The dataset includes various demographic, socioeconomic, and health-related features, providing valuable information for predicting the rate of newly diagnosed diabetes cases.
+* Initial exploratory data analysis revealed correlations between certain predictors and the target variable, indicating potential risk factors associated with diabetes onset.
+* Regression models were trained and evaluated, including Linear Regression, Decision Tree Regression, Random Forest Regression, and Gradient Boosting Regression.
+* Feature importance analysis highlighted the significance of specific predictors in predicting the rate of newly diagnosed diabetes cases.
+* Hyperparameter tuning was performed to optimize the models, resulting in improved performance in some cases.
+* Polynomial features were created and evaluated to capture non-linear relationships between predictors and the target variable.
+* An ensemble model, leveraging multiple algorithms and combining their predictions, was implemented and yielded superior results compared to individual regression models.
+* The ensemble model demonstrated improved prediction accuracy and better captured complex patterns in the data.
 
 
 # Plots:
