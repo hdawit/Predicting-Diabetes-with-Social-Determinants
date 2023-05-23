@@ -1,4 +1,4 @@
-## Predicting-Diabetes-with-Social-Determinants
+### Predicting-Diabetes-with-Social-Determinants
 
 This Jupyter Notebook contains the code and analysis for predicting newly diagnosed diabetes rates based on various demographic, socioeconomic, and health-related factors. The notebook aims to build a predictive model that accurately estimates the rate of newly diagnosed diabetes cases and identifies key risk factors associated with the disease.
 
