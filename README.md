@@ -2,15 +2,15 @@
 
 This Jupyter Notebook contains the code and analysis for predicting newly diagnosed diabetes rates based on various demographic, socioeconomic, and health-related factors. The notebook aims to build a predictive model that accurately estimates the rate of newly diagnosed diabetes cases and identifies key risk factors associated with the disease.
 
-# Project Overview:
+### Project Overview:
 
 The objective of this project is to develop a machine learning model that accurately predicts the rate of newly diagnosed diabetes cases in a given population. By analyzing available features such as demographic factors, socioeconomic indicators, and health-related information, the model identifies key predictors and risk factors associated with the onset of diabetes.
 
-# Summary of the Project:
+### Summary of the Project:
 
 This project focuses on predicting the rate of newly diagnosed diabetes cases and identifying the risk factors contributing to the onset of the disease. By leveraging machine learning techniques and available data, the goal is to develop a predictive model that can guide interventions, facilitate early detection, and allocate resources effectively.
 
-# Objectives:
+### Objectives:
 
 * Build a machine learning model to predict the rate of newly diagnosed diabetes cases.
 * Identify the demographic, socioeconomic, and health-related risk factors associated with the onset of diabetes.
@@ -18,7 +18,7 @@ This project focuses on predicting the rate of newly diagnosed diabetes cases an
 * Enable early detection and intervention to improve health outcomes for individuals at risk of developing diabetes.
 * Optimize resource allocation by targeting high-risk populations or areas with a higher predicted rate of newly diagnosed diabetes.
 
-# Application:
+### Application:
 
 The developed model has practical applications in various areas:
 
@@ -26,7 +26,7 @@ The developed model has practical applications in various areas:
 * Early Detection and Intervention: Healthcare providers can use the model to identify individuals or regions with a higher likelihood of developing diabetes, allowing for proactive screening and intervention strategies.
 * Resource Allocation: The model's predictions assist in efficient resource allocation by focusing efforts on high-risk populations or areas with a higher predicted rate of newly diagnosed diabetes.
 
-# Key Observations and Findings:
+### Key Observations and Findings:
 
 * The dataset includes various demographic, socioeconomic, and health-related features, providing valuable information for predicting the rate of newly diagnosed diabetes cases.
 * Initial exploratory data analysis revealed correlations between certain predictors and the target variable, indicating potential risk factors associated with diabetes onset.
@@ -38,13 +38,13 @@ The developed model has practical applications in various areas:
 * The ensemble model demonstrated improved prediction accuracy and better captured complex patterns in the data.
 
 
-# Plots:
+### Plots:
 
 * Scatter Plot: Newly Diagnosed Cases vs Overall_Housing_Type_&_Transportation
 *   This plot visualizes the relationship between newly diagnosed diabetes cases and the overall housing type and transportation.
 *   It provides insights into the potential association between these factors and the rate of newly diagnosed diabetes cases.
 
-# Next Steps:
+### Next Steps:
 
 To further improve the model performance and enhance the project, consider the following steps:
 
